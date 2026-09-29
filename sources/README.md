@@ -30,3 +30,7 @@ The decision guide and repository navigation are editorial additions. Source doc
 Prices, audience counts, revenue estimates, market assertions, and third-party quotations are historical source material, not independently verified findings from this migration. Preserve their source dates and caveats.
 
 This is a one-time snapshot, not an automatic Notion sync. For subsequent updates, retain dated corrections and record which source changed. Review imported text before republishing because the destination repository is public.
+
+## September 29 repository review
+
+Grok bot’s review, supplied by Jack in the follow-up chat, is recorded in [exploration gaps](../docs/research/exploration-gaps.md). The hopper, ingredient table, status banners, and blank experiment worksheets are editorial additions based on that review and the preserved source verdicts. They do not add buyer evidence or change the raw Notion snapshot.

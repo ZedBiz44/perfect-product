@@ -1,5 +1,12 @@
 # Manus Thoughts: The Anti-Niche Advantage
 
+## Current stance / Superseded
+
+Editorial status, 2026-09-29. **Current stance:** Read the final sponsor correction first: one small weekly useful item for existing audience owners, with willingness to pay unresolved. **Superseded:** the four-week campaign, larger sponsored box, and sponsor model as the present answer. Earlier recommendations below are history, not parallel approvals.
+
+See the [ingredient register](../ingredients.md) and [decision guide](../current-direction.md) before acting on the original notes.
+
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181648ee3daae6dae2803?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-29T02:53:02.912Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

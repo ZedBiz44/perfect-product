@@ -1,5 +1,7 @@
 # Shovel Your Biz-Shit (Shovels for Community Builders)
 
+> **Current core candidate — not an approved product.** Prices, formats, vault features, and launch steps below are proposals. No direct buyer conversations, paid commitments, or completed Shovel proof gate are recorded here. The [September 29 review](../research/exploration-gaps.md) asks whether a member-action unit and owner-controlled voice would work better, and whether the vault should be incidental. These are untested hypotheses. Use the [proof-gate worksheet](../../templates/shovel-proof-gate.md) before treating the concept as a build plan.
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181a1b412e6681e220e3f?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-28T21:49:32.594Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

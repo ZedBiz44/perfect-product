@@ -1,5 +1,12 @@
 # Mary's Thoughts
 
+## Current stance / Superseded
+
+Editorial status, 2026-09-29. **Current stance:** Original angles and listen-first GHL findings are preserved; no product is selected. **Superseded:** Client Retention Engine, Award-Submission Factory, and Wholesale Shelf were killed. The later Save Kit proposal is hopper only after the verdict recorded in Grok; Platform Weather remains unapproved. The one-job shelf and the dead Wholesale Shelf are different ideas.
+
+See the [ingredient register](../ingredients.md) and [decision guide](../current-direction.md) before acting on the original notes.
+
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3eaa3e33d58181ee9ebce113fdb2eb1f?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-29T02:49:51.007Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

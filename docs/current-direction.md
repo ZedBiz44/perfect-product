@@ -4,13 +4,21 @@
 
 Editorial navigation guide to the imported notes, September 29, 2026. This guide records the source's decisions and conflicts; it does not approve an offer.
 
-## Current core idea
+## Current core candidate
 
 The final correction in [Manus Thoughts](perspectives/manus.md) describes the core concept as giving an existing audience owner one small, fresh, useful idea each week that they can share with their people. It remains an idea.
 
-The [Shovel concept](concepts/shovel-your-biz-shit.md) develops that shape: one weekly concept, a few suggested posts, and supporting content. The owner supplies the audience and relationship. Jack supplies practical judgment and finished materials. The themed-day engagement kit is an optional add-on.
+The [Shovel concept](concepts/shovel-your-biz-shit.md) develops that shape: one weekly concept, a few suggested posts, and supporting content. The owner supplies the audience and relationship. Jack supplies practical judgment and finished materials. The themed-day engagement kit is a proposed optional add-on. Shovel is the current core candidate, not an approved product.
 
 The unresolved commercial question is whether owners will repeatedly pay for an item that is sufficiently original, useful, and easy to share compared with free AI, free PLR, or their own ideas.
+
+## Navigation and evidence status
+
+Use the [ingredient register](ingredients.md) to distinguish the core candidate, held ingredients, and killed businesses. The [hopper](hopper/README.md) gives reusable ideas a home outside the perspective history.
+
+The [September 29 review](research/exploration-gaps.md) identifies missing direct buyer conversations, paid signals, a qualified owner shortlist, a sample-use log, and a Shovel-specific commercial proof gate. Existing research includes owner observations; it does not demonstrate purchases of Shovel.
+
+Record future answers in [experiments](experiments/) using the [experiment log](../templates/experiment-log.md). The [Shovel proof gate](../templates/shovel-proof-gate.md) is unrun. Member-action units, owner voice, and an incidental vault are hypotheses to test, not changes approved for the product.
 
 ## Founder constraints
 
@@ -29,7 +37,7 @@ The root page calls its definition “four bars” but contains a fifth numbered
 
 | Direction | Status in the sources | Evidence |
 | --- | --- | --- |
-| Small weekly useful item for audience owners | Current core concept; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
+| Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |
 | VA as the community's social engine | Tried and failed; logistics are a separate role | [Community correction](archive/community-without-the-host.md) |
@@ -41,7 +49,7 @@ The root page calls its definition “four bars” but contains a fifth numbered
 | Agency “No” Store and Client Action Layer | Structural observations with channel conflict or service burden | [Manus responses](perspectives/manus.md) |
 | Generic acreage, business-sale, renewal, and sponsorship guides | Rejected in commercial screen | [Commercial screen](research/commercial-proof-first-screen.md) |
 | Rural-property and business-sale systems for channel owners | Hypotheses requiring a paying channel owner before building | [Commercial screen](research/commercial-proof-first-screen.md) |
-| Door Opener and Platform Weather | Open ideas; no approval recorded | [Grok](perspectives/grok.md), [Mary](perspectives/mary.md) |
+| Door Opener and Platform Weather | Hopper; no approval recorded | [Door Opener note](hopper/door-opener.md), [Mary](perspectives/mary.md) |
 
 ## Conflicts to keep visible
 

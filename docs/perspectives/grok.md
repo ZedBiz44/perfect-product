@@ -1,5 +1,12 @@
 # Grok Thoughts
 
+## Current stance / Superseded
+
+Editorial status, 2026-09-29. **Current stance:** Small weekly useful item remains a candidate. Door Opener is an open question; Think and Grow Rich is an ingredient. Save Kit and Cash This Week are hopper only. **Superseded:** earlier agency retention and seasonal-shelf pitches are not the main business. Recorded cold-beer verdicts govern those proposals.
+
+See the [ingredient register](../ingredients.md) and [decision guide](../current-direction.md) before acting on the original notes.
+
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181599269e98fbb45f430?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-29T02:45:50.666Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

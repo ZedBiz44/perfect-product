@@ -1,5 +1,12 @@
 # NotionAI-Thoughts
 
+## Current stance / Superseded
+
+Editorial status, 2026-09-29. **Current stance:** Measurable use, owner distribution, and reusable production remain useful hypotheses. **Superseded as the core:** the four-week Member Wake-Up Campaign and its immediate launch instructions. Manus's final correction retains a small weekly item. The pilot targets below are proposed criteria, not results or an approved plan.
+
+See the [ingredient register](../ingredients.md) and [decision guide](../current-direction.md) before acting on the original notes.
+
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/e58507cea4684c25a65f37a03e67bdb4?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-29T04:56:23.468Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

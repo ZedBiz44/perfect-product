@@ -1,5 +1,7 @@
 # Facebook Research (OpenClaw/AI groups)
 
+> **Superseded recommendation — 2026-09-29:** The implication below that we should ship agent operating packs is no longer the current direction. Preserve the group observations and their sampling limits. They do not select an OpenClaw product or prove owners will pay. Shovel remains an unapproved weekly-item candidate; see the [decision guide](../current-direction.md).
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181d6b0e9e46a8c76bde5?pvs=204)
 
 Imported 2026-09-29. Source last edited: 2026-09-28T20:38:35.594Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.

@@ -15,9 +15,7 @@ The **Groups & Offers** database below tracks two kinds of rows:
 - **Suppliers** (Platform = Other): businesses that already sell content, templates or done-for-you assets to course creators and community owners.
 Skool rows come only from [Skool AI Groups Research - Sep 2026](../../docs/research/skool-ai-groups.md). Supplier rows come from a web research pass on Sep 28, 2026, with the source URL on each row. Blank fields mean the data wasn't on the source.
 
-- [Groups & Offers](collection://6369134c-1dcb-433b-baad-3da76a60f20e)
-
-- [Groups & Offers](collection://6369134c-1dcb-433b-baad-3da76a60f20e)
+- [Groups & Offers](groups-and-offers.md)
 ## Skool deep-dives
 Source: read-only Skool session in Jack's logged-in browser, Sep 28, 2026. No joins, likes, comments or payments. Screenshots on the box: /workspace/skool-shots/aimoney-calendar.png and /workspace/skool-shots/aas-plus-about.png.
 ### AI Money Group (Jeff J Hunter): inside view

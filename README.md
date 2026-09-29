@@ -8,10 +8,18 @@ Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d5818
 
 1. [Current direction and decisions](docs/current-direction.md) — what remains an idea, what was rejected, and what still needs proof.
 2. [Perfect Product framework](docs/framework/perfect-product.md) — definition, examples, 12 shared traits, and 11-question scorecard.
-3. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the weekly concept and supporting materials.
+3. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
 4. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
 
-**Status:** Exploration. No product has been approved for launch. The current core idea described in the corrected notes is one small, fresh, useful weekly item that an existing audience owner can share. Repeat willingness to pay remains unproven.
+**Status:** Exploration. No product has been approved for launch. The current core candidate described in the corrected notes is one small, fresh, useful weekly item that an existing audience owner can share. Repeat willingness to pay remains unproven.
+
+## Ingredients and evidence
+
+- [Ingredient register](docs/ingredients.md) — one table for core, hopper, and dead ideas.
+- [Idea hopper](docs/hopper/README.md) — Door Opener, Think and Grow Rich, Mary’s shelf, and the sponsor layer.
+- [Exploration gaps](docs/research/exploration-gaps.md) — Grok’s cross-read hypotheses and missing buying evidence.
+- [Experiments](docs/experiments/) — empty until outreach or pilot records exist.
+- [Experiment log](templates/experiment-log.md) and [Shovel proof gate](templates/shovel-proof-gate.md) — unrun worksheets for capturing evidence.
 
 ## Research
 
