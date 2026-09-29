@@ -8,16 +8,19 @@ Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d5818
 
 1. [Current direction and decisions](docs/current-direction.md) — what remains an idea, what was rejected, and what still needs proof.
 2. [Perfect Product framework](docs/framework/perfect-product.md) — ten-bar definition, examples, commonalities, and scorecard.
-3. [Definition feedback](docs/framework/definition-feedback.md) — Grok's note on overlaps and why bars 8–10 matter.
-4. [Satisfaction shapes](docs/framework/satisfaction-shapes.md) — cold beer, paint, event, tool, trophy, harvest, belonging; each scored against the bars with a ZedBiz example.
-5. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
-6. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
+3. [**Perfect Product Rubric**](docs/framework/perfect-product-rubric.md) — **how agents score any idea** (0/1/2 per bar, must-not-fail rule, satisfaction checklist).
+4. [Definition feedback](docs/framework/definition-feedback.md) — Grok's note on overlaps and why bars 8–10 matter.
+5. [Satisfaction shapes](docs/framework/satisfaction-shapes.md) — cold beer, paint, event, tool, trophy, harvest, belonging; each scored against the bars with a ZedBiz example.
+6. [**Product catalog**](docs/products/README.md) — **all harvested product ideas** (same template; not scored yet).
+7. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
+8. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
 
 **Status:** Exploration. No product has been approved for launch. The current core candidate described in the corrected notes is one small, fresh, useful weekly item that an existing audience owner can share. Repeat willingness to pay remains unproven. Cold beer is one satisfaction shape, not the only one.
 
 ## Ingredients and evidence
 
 - [Ingredient register](docs/ingredients.md) — one table for core, hopper, and dead ideas.
+- [Product catalog](docs/products/README.md) — full template entries for every harvested idea and mashup.
 - [Idea hopper](docs/hopper/README.md) — Door Opener, Think and Grow Rich, Mary’s shelf, and the sponsor layer.
 - [Exploration gaps](docs/research/exploration-gaps.md) — Grok’s cross-read hypotheses and missing buying evidence.
 - [Experiments](docs/experiments/) — empty until outreach or pilot records exist.
@@ -53,7 +56,7 @@ These documents retain their authors' arguments and later corrections. Recommend
 
 ## Working with this repository
 
-Read the decision guide before proposing or building a product. Preserve rejected ideas and their reasons; useful ingredients may be reused without reviving the rejected business model. Add dated evidence and distinguish a suggestion from Jack's decision.
+Read the decision guide before proposing or building a product. Score candidates with the [Perfect Product Rubric](docs/framework/perfect-product-rubric.md). Browse all ideas in the [product catalog](docs/products/README.md) before inventing new ones. Preserve rejected ideas and their reasons; useful ingredients may be reused without reviving the rejected business model. Add dated evidence and distinguish a suggestion from Jack's decision.
 
 The imported documents retain original claims, prices, quotations, and caveats. This migration did not independently verify market claims or refresh research. Notion-specific tables and links were converted for GitHub readability.
 
