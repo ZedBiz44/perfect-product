@@ -1,8 +1,8 @@
 # Perfect Product
 
-[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a?pvs=204)
+[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Definition feedback](definition-feedback.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a?pvs=204)
 
-Synced from Notion 2026-09-29 (Jack's definition tweak + Grok's added satisfaction shapes). Updated in this repository later the same day with Jack's approved additions: a natural route to buyers, ease of getting value, and clearer wording for margin and Creates Gold. See the decision guide for corrections across pages.
+Synced from Notion 2026-09-29. Ten bars: Jack's additions include a natural route to buyers, easy to get the value, and Newton's Rule. See [definition-feedback.md](definition-feedback.md) for Grok's note on overlaps and why bars 8–10 matter. See the decision guide for corrections across pages.
 
 ---
 
@@ -24,8 +24,9 @@ A product counts as a Perfect Product when it clears these bars:
    7. **Belonging without hosting** — peer energy without the founder as mayor. The product is the operating system; someone else runs the room.
 6. **No Brainer** — people want it, and the price is not a friction point.
 7. **Creates Gold** — each year of operation strengthens an asset: its reputation, customer relationships, useful knowledge, distribution, catalog, or systems. Progress accumulates instead of constantly being replaced. Bar 3 asks whether someone could buy the business; this bar asks whether operating it makes what you own more valuable over time.
-8. **It has a natural route to buyers** — the people who want it can find it through a repeatable channel that doesn't depend on your constant personal selling. This could be a supplier, retailer, search, an existing audience, a partner, or customers introducing other customers. Where would someone naturally encounter this when they want it?
+8. **A natural route to buyers** — the people who want it can find it through a repeatable channel that doesn't depend on your constant personal selling. This could be a supplier, retailer, search, an existing audience, a partner, or customers introducing other customers. Where would someone naturally encounter this when they want it?
 9. **Easy to get the value** — the buyer can reach the promised satisfaction without an unexpected second project, extensive learning, or someone holding their hand. Any effort should be clear and part of the expected experience, like painting with a box of paint. Buying it should make life easier rather than create another unfinished job.
+10. **Newton's Rule** — increase mass → increase gravity → it gets stronger as it grows. More customers, more content, more data, or more partners should make the next sale or the next year easier, not harder. (Related to Creates Gold; bar 7 is asset quality over time, bar 10 is the flywheel / network strength as scale increases.)
 
 ## Examples of Businesses that are Close to the Perfect Business
 - **Laurel Portié's \$7 Ad Coaching** — [https://www.adcoachingfor7.com/](https://www.adcoachingfor7.com/) — \$7/month membership, 60+ training videos on her \$5-a-day ad system. 14,000+ business owners taught. The \$7 offer is a tripwire into done-with-you ads at [adswithlaurel.com](http://adswithlaurel.com).
@@ -37,7 +38,7 @@ A product counts as a Perfect Product when it clears these bars:
 - [**EZInspo.com**](http://EZInspo.com) — done-for-you personal development PLR: articles, workbooks, planners, Canva templates. One-time packs \~\$8.95–\$27, \$7 order bumps, free sample packs as lead magnets. Archived content gets recycled as "value packs" — the same asset sold twice.
 - **Hip Kit Club** — [https://hipkitclub.net](https://hipkitclub.net) — \$34.95/month subscription box of scrapbooking supplies (marketed against a \$54.90 value). Fresh theme every month, design-team unboxing videos, private community, member discounts on add-ons. Same pattern, different aisle: a must-have bundle for a passionate niche, paid for monthly.
 
-## Other things they all have in common
+## Perfect Product commonalities
 
 Beyond the definition, the deeper pattern:
 
@@ -53,6 +54,10 @@ Beyond the definition, the deeper pattern:
 10. **A moat that isn't the product.** Zoom has "everyone's already on it." [OnlineJobs.ph](http://OnlineJobs.ph) has the two-sided marketplace. Stream Deck has the plugin ecosystem. The Carex kit has the Carex brand on every pharmacy shelf plus the surgeon's recommendation. The thing that's hard to copy is never just the thing itself.
 11. **The core never gets rebuilt.** Digital products improve with free updates (Stream Deck software, Zoom AI, growing content libraries). The physical kit extends instead — 4-piece, 6-piece, 7-piece variants, deluxe versions from Carex and copycats. The customer gets more value; the creator doesn't start over.
 12. **No community-host treadmill.** The product must not need the founder to be the social center — no daily engagement-bait posting, no comment-section duty, no founder-access-as-the-product. The value has to survive the founder going quiet. (Founder-fit note, 2026-09-28: Jack has tried running online groups and couldn't sustain them. Blunt and direct, talks at people — not a community host. Anything needing daily charm in a comment section is dead on arrival; bounded substantive appearances are fine — e.g. a weekly 1–2hr Q&A, Laurel-style. Note: his 'half-dozen questions' are light networking openers, not community infrastructure — corrected 2026-09-28.)
+13. **The buyer already pays.** Want is cheap; open wallets are the test. Every example replaced money already being spent — the ad retainer, the recruiter, the conference room, the pharmacy run — or stopped money already being lost. The award factory died here: nobody paid for anything like it. If there's no existing budget line, current workaround, or visible bleed, you're selling a vitamin.
+14. **Bought at a moment of need.** There's a trigger — a moment when the pain is hot and the buyer acts without being nurtured or sold to. The Hip Kit was bought at hospital discharge, not while browsing. The Save Kit fires the moment a client asks "what am I paying for?" A no-brainer with no trigger sits on the shelf. If you can't name the trigger, you don't have a product yet.
+15. **A named buyer with a reachable path.** You can say who pays, which budget it comes from, and how you reach them without building an audience from zero. The shelf died on a vague buyer; the agency-channel redirect fixed exactly that. The product rides a flow someone already owns — Laurel's channel, the surgeon's recommendation, the meeting invite — instead of marketing its way to strangers.
+16. **No per-client bespoke judgment.** Founder hours amortize at the asset level, never per client. No custom diagnosis, no credential-chasing, no judgment calls repeated for every customer — that's what killed the audit in every form. The per-client work should barely exist, and whatever remains, a manager can run.
 
 ## Quick scorecard — sizing up a product idea
 
@@ -65,16 +70,22 @@ Beyond the definition, the deeper pattern:
 - [ ] Does operating it strengthen an asset over time: reputation, relationships, knowledge, distribution, catalog, or systems?
 - [ ] Can buyers find it through a repeatable channel without constant personal selling?
 - [ ] Can the buyer reach the promised satisfaction with clear, manageable effort and little hand-holding?
+- [ ] Does it get stronger as it grows (Newton's Rule: more mass → more gravity)?
 - [ ] Can the flagship promise be said in one sentence?
 - [ ] Is the first yes cheap and thoughtless?
 - [ ] Is there a value ladder behind the wedge?
 - [ ] Does it delete a bottleneck (skill, time, or expertise) for the buyer?
 - [ ] Is the demand evergreen — does the problem regenerate?
 - [ ] Can it thrive without the founder performing online (no community-host treadmill, no daily engagement duty)?
+- [ ] Does the buyer already pay for this (or for a painful workaround)?
+- [ ] Is there a named trigger / moment of need?
+- [ ] Is there a named buyer with a reachable path?
+- [ ] Does founder work amortize at the asset level, not per client?
 
 ## Related docs
 
 - [Satisfaction shapes](satisfaction-shapes.md)
+- [Definition feedback](definition-feedback.md)
 - [Skool AI Groups Research - Sep 2026](../research/skool-ai-groups.md)
 - [Field Notes](../archive/field-notes.md)
 - [Why They Don't Buy](../research/why-they-dont-buy.md)
