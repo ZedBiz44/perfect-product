@@ -18,18 +18,19 @@ Copy this worksheet for a candidate. This template combines the source framework
 ## Source scorecard
 
 - [ ] Pays more than once through recurring revenue, repeat purchases, or a mass market.
-- [ ] Built once and sold many times with low marginal cost or substantial margin.
+- [ ] Built once and sold many times, with a worthwhile margin after customer acquisition, delivery, and support.
 - [ ] Builds a sellable asset.
 - [ ] Can run through systems and a trainable manager or partner.
 - [ ] Meets a satisfaction shape (six-pack / paint / event / harvest / tool / trophy / belonging).
 - [ ] No Brainer: people want it; price is not friction.
-- [ ] Creates Gold: asset holds or appreciates in value.
+- [ ] Creates Gold: operation strengthens reputation, relationships, knowledge, distribution, catalog, or systems over time.
+- [ ] Buyers can find it through a repeatable channel without constant personal selling.
+- [ ] Buyers can reach the promised satisfaction with clear, manageable effort and little hand-holding.
 - [ ] Flagship promise fits one sentence.
 - [ ] First yes is low friction.
 - [ ] Has a value ladder.
 - [ ] Removes a bottleneck involving skill, time, or expertise.
 - [ ] Serves demand that regenerates.
-- [ ] Carries its own distribution.
 - [ ] Can thrive without daily founder performance or community hosting.
 
 ## Satisfaction test

@@ -2,7 +2,7 @@
 
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a?pvs=204)
 
-Synced from Notion 2026-09-29 (Jack's definition tweak + Grok's added satisfaction shapes). See the decision guide for corrections across pages.
+Synced from Notion 2026-09-29 (Jack's definition tweak + Grok's added satisfaction shapes). Updated in this repository later the same day with Jack's approved additions: a natural route to buyers, ease of getting value, and clearer wording for margin and Creates Gold. See the decision guide for corrections across pages.
 
 ---
 
@@ -11,7 +11,7 @@ Synced from Notion 2026-09-29 (Jack's definition tweak + Grok's added satisfacti
 A product counts as a Perfect Product when it clears these bars:
 
 1. **It pays you more than once** — recurring revenue (subscription/SaaS), or at least repeat/multiple purchases, or a market so big one sale each is enough.
-2. **Build once, sell many times** — software, content, a platform, or a manufactured unit. The cost of the *next* sale is near low or near zero even, or there is a substantial margin between what it costs to create it and what it sells for.
+2. **Build once, sell many times** — software, content, a platform, or a manufactured unit. The next sale leaves a worthwhile margin after reaching, serving, and supporting the customer, and doesn't require rebuilding the product.
 3. **It builds a sellable asset** — subscribers, an archive, a brand, systems, a customer list: something a buyer would pay for. You're not just building income; you're building something you can exit.
 4. **It can run without you** — with the right systems in place, you can train a manager to run it, or bring in a partner who does. The business depends on systems, not on the founder's daily presence.
 5. **Meets one of the satisfaction criteria** (cold beer is only one shape; full write-up: [satisfaction shapes](satisfaction-shapes.md)):
@@ -23,7 +23,9 @@ A product counts as a Perfect Product when it clears these bars:
    6. **Trophy** — displayable status. Something you hang or show (score, certificate, award) that proves you did the work.
    7. **Belonging without hosting** — peer energy without the founder as mayor. The product is the operating system; someone else runs the room.
 6. **No Brainer** — people want it, and the price is not a friction point.
-7. **Creates Gold** — an asset that does not lose its value. It appreciates in value.
+7. **Creates Gold** — each year of operation strengthens an asset: its reputation, customer relationships, useful knowledge, distribution, catalog, or systems. Progress accumulates instead of constantly being replaced. Bar 3 asks whether someone could buy the business; this bar asks whether operating it makes what you own more valuable over time.
+8. **It has a natural route to buyers** — the people who want it can find it through a repeatable channel that doesn't depend on your constant personal selling. This could be a supplier, retailer, search, an existing audience, a partner, or customers introducing other customers. Where would someone naturally encounter this when they want it?
+9. **Easy to get the value** — the buyer can reach the promised satisfaction without an unexpected second project, extensive learning, or someone holding their hand. Any effort should be clear and part of the expected experience, like painting with a box of paint. Buying it should make life easier rather than create another unfinished job.
 
 ## Examples of Businesses that are Close to the Perfect Business
 - **Laurel Portié's \$7 Ad Coaching** — [https://www.adcoachingfor7.com/](https://www.adcoachingfor7.com/) — \$7/month membership, 60+ training videos on her \$5-a-day ad system. 14,000+ business owners taught. The \$7 offer is a tripwire into done-with-you ads at [adswithlaurel.com](http://adswithlaurel.com).
@@ -55,18 +57,19 @@ Beyond the definition, the deeper pattern:
 ## Quick scorecard — sizing up a product idea
 
 - [ ] Does it pay more than once (recurring, repeat purchases, or mass market)?
-- [ ] Is it built once and sold many times (near-zero cost per next sale)?
+- [ ] Is it built once and sold many times, with a worthwhile margin after customer acquisition, delivery, and support?
 - [ ] Does it build a sellable asset (subscribers, archive, brand, systems — something a buyer would pay for)?
 - [ ] Can it run without the founder (systems in place, a trainable manager or partner)?
 - [ ] Does it meet a satisfaction shape (six-pack / paint / event / harvest / tool / trophy / belonging without hosting)?
 - [ ] Is it a no-brainer (people want it; price is not friction)?
-- [ ] Does it create gold (an asset that holds or appreciates in value)?
+- [ ] Does operating it strengthen an asset over time: reputation, relationships, knowledge, distribution, catalog, or systems?
+- [ ] Can buyers find it through a repeatable channel without constant personal selling?
+- [ ] Can the buyer reach the promised satisfaction with clear, manageable effort and little hand-holding?
 - [ ] Can the flagship promise be said in one sentence?
 - [ ] Is the first yes cheap and thoughtless?
 - [ ] Is there a value ladder behind the wedge?
 - [ ] Does it delete a bottleneck (skill, time, or expertise) for the buyer?
 - [ ] Is the demand evergreen — does the problem regenerate?
-- [ ] Does the product carry its own distribution?
 - [ ] Can it thrive without the founder performing online (no community-host treadmill, no daily engagement duty)?
 
 ## Related docs

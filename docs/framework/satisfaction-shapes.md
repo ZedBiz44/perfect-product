@@ -4,7 +4,7 @@
 
 Added 2026-09-29. Jack's note: cold beer is only one form of product satisfaction. Six-pack deepens that form. Paint and events are other valid forms. Do not pigeonhole Perfect Product into cold-beer-only.
 
-On 2026-09-29 Jack put satisfaction into the Perfect Product definition as bar 5, with his names: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala. Grok added Tool in the hand, Trophy, and Belonging without hosting. Bars 6–7 (No Brainer, Creates Gold) sit beside satisfaction in [perfect-product.md](perfect-product.md).
+On 2026-09-29 Jack put satisfaction into the Perfect Product definition as bar 5, with his names: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala. Grok added Tool in the hand, Trophy, and Belonging without hosting. Bars 6–7 (No Brainer, Creates Gold) sit beside satisfaction in [perfect-product.md](perfect-product.md). Later the same day, Jack approved bars 8–9: a natural route to buyers and ease of getting value, plus clearer margin and Creates Gold wording.
 
 This page maps satisfaction shapes to the Perfect Product bars and scorecard traits. Ideas below are proposals for the hopper, not approved products.
 
@@ -13,12 +13,14 @@ This page maps satisfaction shapes to the Perfect Product bars and scorecard tra
 Each shape must still clear the bars:
 
 1. Pays more than once
-2. Build once, sell many times
+2. Build once, sell many times, with a worthwhile margin after reaching, serving, and supporting the customer
 3. Builds a sellable asset
 4. Can run without Jack as the daily center (including no community-host treadmill)
 5. Meets one satisfaction shape below
 6. No Brainer (people want it; price is not friction)
-7. Creates Gold (asset holds or appreciates)
+7. Creates Gold (operation strengthens an asset over time)
+8. A natural route to buyers (repeatable access without constant personal selling)
+9. Easy to get the value (clear, manageable effort to reach the promised satisfaction)
 
 Plus the practical filters from [current-direction.md](../current-direction.md): no client retainers as the core, GHL/AI as infrastructure not the product, founder-fit, and a real buyer with budget.
 

@@ -20,7 +20,7 @@ The [September 29 review](research/exploration-gaps.md) identifies missing direc
 
 Record future answers in [experiments](experiments/) using the [experiment log](../templates/experiment-log.md). The [Shovel proof gate](../templates/shovel-proof-gate.md) is unrun. Member-action units, owner voice, and an incidental vault are hypotheses to test, not changes approved for the product.
 
-Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) now has seven bars: pay more than once, build once sell many, sellable asset, runs without you, satisfaction (one of seven shapes), No Brainer, and Creates Gold. See [perfect-product.md](framework/perfect-product.md) and [satisfaction shapes](framework/satisfaction-shapes.md).
+Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) now has nine bars: pay more than once, build once sell many with a worthwhile margin, sellable asset, runs without you, satisfaction (one of seven shapes), No Brainer, Creates Gold, a natural route to buyers, and ease of getting value. See [perfect-product.md](framework/perfect-product.md) and [satisfaction shapes](framework/satisfaction-shapes.md).
 
 ## Founder constraints
 
@@ -28,7 +28,8 @@ Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/gr
 
 - Repeat sales or recurring revenue, reusable production, a sellable asset, and systems that can run without Jack.
 - Clear buyer satisfaction: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala, Tool in the hand, Trophy, Belonging without hosting ([satisfaction shapes](framework/satisfaction-shapes.md)).
-- No Brainer and Creates Gold (price not friction; asset holds or appreciates).
+- No Brainer and Creates Gold (price not friction; operating the business strengthens an asset over time).
+- A natural route to buyers without constant personal selling, and clear, manageable effort for buyers to reach the promised satisfaction.
 - No daily community-host duties or dependence on constant public performance.
 - No custom client work, retainers, or managed assistants as the core business.
 - Treat AI, GoHighLevel, and other tools as production infrastructure.
@@ -39,7 +40,7 @@ Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/gr
 | Direction | Status in the sources | Evidence |
 | --- | --- | --- |
 | Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
-| Definition bars 5–7 (satisfaction shapes, No Brainer, Creates Gold) | Jack's framework update; seven satisfaction shapes listed | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
+| Definition bars 5–9 (satisfaction shapes, No Brainer, Creates Gold, route to buyers, ease of getting value) | Jack's approved framework updates; seven satisfaction shapes within nine bars | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
 | Gemini Ideas A/B/C | Hopper; no Jack decision yet. A conflicts with no-host rule; B conflicts if used for consulting; C is closest to a productized report | [Gemini](perspectives/gemini.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |
