@@ -20,12 +20,14 @@ The [September 29 review](research/exploration-gaps.md) identifies missing direc
 
 Record future answers in [experiments](experiments/) using the [experiment log](../templates/experiment-log.md). The [Shovel proof gate](../templates/shovel-proof-gate.md) is unrun. Member-action units, owner voice, and an incidental vault are hypotheses to test, not changes approved for the product.
 
+Satisfaction is not limited to cold beer. See [satisfaction shapes](framework/satisfaction-shapes.md) for paint, event, tool, trophy, harvest, and belonging-without-hosting, each scored against the Perfect Product bars with a ZedBiz example.
+
 ## Founder constraints
 
 Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/grok.md), and [Manus](perspectives/manus.md):
 
 - Repeat sales or recurring revenue, reusable production, a sellable asset, and systems that can run without Jack.
-- Immediate usefulness: the six-pack or cold-beer test.
+- Clear buyer satisfaction: cold beer / six-pack is one shape; paint, event, tool, trophy, harvest, and belonging-without-hosting are others ([satisfaction shapes](framework/satisfaction-shapes.md)).
 - No daily community-host duties or dependence on constant public performance.
 - No custom client work, retainers, or managed assistants as the core business.
 - Treat AI, GoHighLevel, and other tools as production infrastructure.
@@ -38,6 +40,7 @@ The root page calls its definition “four bars” but contains a fifth numbered
 | Direction | Status in the sources | Evidence |
 | --- | --- | --- |
 | Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
+| Satisfaction shapes beyond cold beer | Framework addition; proposals only | [Satisfaction shapes](framework/satisfaction-shapes.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |
 | VA as the community's social engine | Tried and failed; logistics are a separate role | [Community correction](archive/community-without-the-host.md) |
@@ -67,5 +70,6 @@ The root page calls its definition “four bars” but contains a fifth numbered
 4. Can the same item serve multiple buyers without custom work?
 5. Can production, review, support, and distribution meet Jack's time constraints?
 6. What paid proof would justify selecting and building an offer?
+7. Which satisfaction shape (beer, paint, event, tool, trophy, harvest, belonging) fits a buyer Jack can reach without becoming the product?
 
 Use the [evaluation worksheet](../templates/product-evaluation.md) to record answers and evidence. Outreach and experiments described in imported notes are plans, not completed actions.
