@@ -14,13 +14,13 @@ The unresolved commercial question is whether owners will repeatedly pay for an 
 
 ## Navigation and evidence status
 
-Use the [ingredient register](ingredients.md) to distinguish the core candidate, held ingredients, and killed businesses. The [hopper](hopper/README.md) gives reusable ideas a home outside the perspective history.
+Use the [ingredient register](ingredients.md) to distinguish the core candidate, held ingredients, and killed businesses. The [product catalog](products/README.md) lists every harvested idea in one template. The [hopper](hopper/README.md) gives reusable ideas a home outside the perspective history. Score candidates with the [Perfect Product Rubric](framework/perfect-product-rubric.md).
 
 The [September 29 review](research/exploration-gaps.md) identifies missing direct buyer conversations, paid signals, a qualified owner shortlist, a sample-use log, and a Shovel-specific commercial proof gate. Existing research includes owner observations; it does not demonstrate purchases of Shovel.
 
 Record future answers in [experiments](experiments/) using the [experiment log](../templates/experiment-log.md). The [Shovel proof gate](../templates/shovel-proof-gate.md) is unrun. Member-action units, owner voice, and an incidental vault are hypotheses to test, not changes approved for the product.
 
-Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) now has nine bars: pay more than once, build once sell many with a worthwhile margin, sellable asset, runs without you, satisfaction (one of seven shapes), No Brainer, Creates Gold, a natural route to buyers, and ease of getting value. See [perfect-product.md](framework/perfect-product.md) and [satisfaction shapes](framework/satisfaction-shapes.md).
+Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) has **ten bars**: pay more than once, build once sell many with a worthwhile margin, sellable asset, runs without you, satisfaction (one of seven shapes), No Brainer, Creates Gold, a natural route to buyers, ease of getting value, and Newton's Rule. See [perfect-product.md](framework/perfect-product.md), the agent-facing [Perfect Product Rubric](framework/perfect-product-rubric.md), [satisfaction shapes](framework/satisfaction-shapes.md), and the full [product catalog](products/README.md) (ideas listed, not scored yet).
 
 ## Founder constraints
 
