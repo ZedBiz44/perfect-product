@@ -41,6 +41,7 @@ The root page calls its definition “four bars” but contains a fifth numbered
 | --- | --- | --- |
 | Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
 | Satisfaction shapes beyond cold beer | Framework addition; proposals only | [Satisfaction shapes](framework/satisfaction-shapes.md) |
+| Gemini Ideas A/B/C | Hopper; no Jack decision yet. A conflicts with no-host rule; B conflicts if used for consulting; C is closest to a productized report | [Gemini](perspectives/gemini.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |
 | VA as the community's social engine | Tried and failed; logistics are a separate role | [Community correction](archive/community-without-the-host.md) |
@@ -61,6 +62,7 @@ The root page calls its definition “four bars” but contains a fifth numbered
 - Mary's page proposes the Save Kit; Grok's page records Jack's later objection. Read both before revisiting it.
 - Research recommendations aimed at OpenClaw or GHL audiences coexist with objections to positioning Jack as a tool specialist. An audience observation is not a decision to sell to that audience.
 - Commercial screen hypotheses and the weekly-item concept are separate directions. No source establishes that the channel-owner hypotheses replaced the weekly idea.
+- [Gemini](perspectives/gemini.md) Idea A (AI community mentors) and Idea B (gate into consulting) conflict with founder constraints unless reworked; Idea C (Board of Directors report) is the only one that can stay productized without reopening client work.
 
 ## Questions still open
 
