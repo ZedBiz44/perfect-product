@@ -8,10 +8,11 @@ Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d5818
 
 1. [Current direction and decisions](docs/current-direction.md) — what remains an idea, what was rejected, and what still needs proof.
 2. [Perfect Product framework](docs/framework/perfect-product.md) — definition, examples, 12 shared traits, and 11-question scorecard.
-3. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
-4. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
+3. [Satisfaction shapes](docs/framework/satisfaction-shapes.md) — cold beer, paint, event, tool, trophy, harvest, belonging; each scored against the bars with a ZedBiz example.
+4. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
+5. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
 
-**Status:** Exploration. No product has been approved for launch. The current core candidate described in the corrected notes is one small, fresh, useful weekly item that an existing audience owner can share. Repeat willingness to pay remains unproven.
+**Status:** Exploration. No product has been approved for launch. The current core candidate described in the corrected notes is one small, fresh, useful weekly item that an existing audience owner can share. Repeat willingness to pay remains unproven. Cold beer is one satisfaction shape, not the only one.
 
 ## Ingredients and evidence
 
