@@ -1,12 +1,13 @@
 # Product evaluation
 
-[Repository home](../README.md) · [Decision guide](../docs/current-direction.md)
+[Repository home](../README.md) · [Decision guide](../docs/current-direction.md) · [Satisfaction shapes](../docs/framework/satisfaction-shapes.md)
 
 Copy this worksheet for a candidate. This template combines the source framework with fields for evidence; it is not an approved launch plan.
 
 - **Candidate:**
 - **Date / owner:**
 - **Status:** Idea / researching / paid test / approved / rejected
+- **Satisfaction shape:** Cold beer / six-pack · Paint · Event · Tool in hand · Trophy · Harvest · Belonging without hosting · Other:
 - **Buyer and payer:**
 - **Existing audience or distribution channel:**
 - **One-sentence promise:**
@@ -28,9 +29,11 @@ Copy this worksheet for a candidate. This template combines the source framework
 - [ ] Can run through systems and a trainable manager or partner.
 - [ ] Can thrive without daily founder performance or community hosting.
 
-## Immediate-use test
+## Satisfaction test
 
-What makes the buyer want to open and use this now? What gets consumed or completed so they want another?
+Name the shape (see [satisfaction shapes](../docs/framework/satisfaction-shapes.md)). What felt change does the buyer get? When do they feel it? What makes them want another (next week, next season, next life moment)?
+
+Cold beer is one shape (instant thirst). Paint is a reveal. Event is anticipation + peak + afterglow. Tool is competence on first use. Trophy is displayable status. Harvest is a seasonal pile of results. Belonging without hosting is peer energy without Jack as mayor.
 
 ## Buyer and operating evidence
 
