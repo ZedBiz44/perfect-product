@@ -1,19 +1,30 @@
 # Perfect Product
 
-[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a?pvs=204)
+[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Notion source](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a?pvs=204)
 
-Imported 2026-09-29. Source last edited: 2026-09-29T04:54:01.983Z. Original research and proposals are preserved below; see the decision guide for corrections across pages.
+Synced from Notion 2026-09-29 (Jack's definition tweak + Grok's added satisfaction shapes). See the decision guide for corrections across pages.
 
 ---
 
-
 ## The definition
-A product counts as a Perfect Product when it clears all four bars:
+
+A product counts as a Perfect Product when it clears these bars:
+
 1. **It pays you more than once** — recurring revenue (subscription/SaaS), or at least repeat/multiple purchases, or a market so big one sale each is enough.
 2. **Build once, sell many times** — software, content, a platform, or a manufactured unit. The cost of the *next* sale is near low or near zero even, or there is a substantial margin between what it costs to create it and what it sells for.
 3. **It builds a sellable asset** — subscribers, an archive, a brand, systems, a customer list: something a buyer would pay for. You're not just building income; you're building something you can exit.
 4. **It can run without you** — with the right systems in place, you can train a manager to run it, or bring in a partner who does. The business depends on systems, not on the founder's daily presence.
-5. Six Pack of Beer Desire - quenches an immediate thirst. Can enjoy again, save a few for later, use up in a week, and when you buy more \> Quenches that thirst again!
+5. **Meets one of the satisfaction criteria** (cold beer is only one shape; full write-up: [satisfaction shapes](satisfaction-shapes.md)):
+   1. **Six Pack of Beer Desire** — quenches an immediate thirst. Can enjoy again, save a few for later, use up in a week, and when you buy more → quenches that thirst again.
+   2. **Coat of paint** — transformational reveal. Cover the old, step back, it looks new, you show it off. Not weekly; buy again when life creates a fresh surface.
+   3. **Event Excitement** — anticipation, peak night, afterglow. Tickets early, look forward for a month, talk about it for two weeks, take pictures.
+   4. **Harvest Gala** — seasonal pile of results. After a season of work, a bin full of outcomes you can count and celebrate.
+   5. **Tool in the hand** — competence on first use. Stream Deck, Hip Kit, OnlineJobs.ph. You feel capable the moment you use it.
+   6. **Trophy** — displayable status. Something you hang or show (score, certificate, award) that proves you did the work.
+   7. **Belonging without hosting** — peer energy without the founder as mayor. The product is the operating system; someone else runs the room.
+6. **No Brainer** — people want it, and the price is not a friction point.
+7. **Creates Gold** — an asset that does not lose its value. It appreciates in value.
+
 ## Examples of Businesses that are Close to the Perfect Business
 - **Laurel Portié's \$7 Ad Coaching** — [https://www.adcoachingfor7.com/](https://www.adcoachingfor7.com/) — \$7/month membership, 60+ training videos on her \$5-a-day ad system. 14,000+ business owners taught. The \$7 offer is a tripwire into done-with-you ads at [adswithlaurel.com](http://adswithlaurel.com).
 - **Elgato Stream Deck (original)** — one-time hardware sale, launched May 2017 at \$149.95. Fifteen LCD keys replacing memorized shortcuts. One SKU manufactured once and sold at scale; upgrades (XL, Mini, +) and the plugin ecosystem turn it into repeat revenue.
@@ -23,8 +34,11 @@ A product counts as a Perfect Product when it clears all four bars:
 - [**PLR.me**](http://PLR.me) — done-for-you Private Label Rights content for coaches: 18,866+ courses, ebooks, workshops, articles. Credit-based (from \~\$0.31/credit), free to start, 600,000+ registered creators. Not a subscription — but every new launch needs fresh content, so buyers keep coming back.
 - [**EZInspo.com**](http://EZInspo.com) — done-for-you personal development PLR: articles, workbooks, planners, Canva templates. One-time packs \~\$8.95–\$27, \$7 order bumps, free sample packs as lead magnets. Archived content gets recycled as "value packs" — the same asset sold twice.
 - **Hip Kit Club** — [https://hipkitclub.net](https://hipkitclub.net) — \$34.95/month subscription box of scrapbooking supplies (marketed against a \$54.90 value). Fresh theme every month, design-team unboxing videos, private community, member discounts on add-ons. Same pattern, different aisle: a must-have bundle for a passionate niche, paid for monthly.
+
 ## Other things they all have in common
+
 Beyond the definition, the deeper pattern:
+
 1. **A one-sentence flagship promise.** "\$7 ad coaching." "15 LCD keys." "Hire Filipino VAs." "Meetings that just work." "Done-for-you content." Simple offers convert; complex ones don't.
 2. **Absurdly low-friction entry pricing.** \$7/month, a free Zoom tier, free PLR samples, \$8.95 packs, \$149.95 one-time. The first yes is designed to be near-thoughtless.
 3. **A value ladder behind the wedge.** \$7 → done-with-you ads. Free Zoom → enterprise contracts. Free PLR pack → \$27 packs → repeat buyer. Job board → upgrades. Stream Deck → XL. The Hip Kit → more Carex daily-living aids, second-hip repeat buyers, and kits bought as gifts. The entry product is often a paid lead generator, not the profit center.
@@ -37,41 +51,38 @@ Beyond the definition, the deeper pattern:
 10. **A moat that isn't the product.** Zoom has "everyone's already on it." [OnlineJobs.ph](http://OnlineJobs.ph) has the two-sided marketplace. Stream Deck has the plugin ecosystem. The Carex kit has the Carex brand on every pharmacy shelf plus the surgeon's recommendation. The thing that's hard to copy is never just the thing itself.
 11. **The core never gets rebuilt.** Digital products improve with free updates (Stream Deck software, Zoom AI, growing content libraries). The physical kit extends instead — 4-piece, 6-piece, 7-piece variants, deluxe versions from Carex and copycats. The customer gets more value; the creator doesn't start over.
 12. **No community-host treadmill.** The product must not need the founder to be the social center — no daily engagement-bait posting, no comment-section duty, no founder-access-as-the-product. The value has to survive the founder going quiet. (Founder-fit note, 2026-09-28: Jack has tried running online groups and couldn't sustain them. Blunt and direct, talks at people — not a community host. Anything needing daily charm in a comment section is dead on arrival; bounded substantive appearances are fine — e.g. a weekly 1–2hr Q&A, Laurel-style. Note: his 'half-dozen questions' are light networking openers, not community infrastructure — corrected 2026-09-28.)
+
 ## Quick scorecard — sizing up a product idea
+
 - [ ] Does it pay more than once (recurring, repeat purchases, or mass market)?
 - [ ] Is it built once and sold many times (near-zero cost per next sale)?
+- [ ] Does it build a sellable asset (subscribers, archive, brand, systems — something a buyer would pay for)?
+- [ ] Can it run without the founder (systems in place, a trainable manager or partner)?
+- [ ] Does it meet a satisfaction shape (six-pack / paint / event / harvest / tool / trophy / belonging without hosting)?
+- [ ] Is it a no-brainer (people want it; price is not friction)?
+- [ ] Does it create gold (an asset that holds or appreciates in value)?
 - [ ] Can the flagship promise be said in one sentence?
 - [ ] Is the first yes cheap and thoughtless?
 - [ ] Is there a value ladder behind the wedge?
 - [ ] Does it delete a bottleneck (skill, time, or expertise) for the buyer?
 - [ ] Is the demand evergreen — does the problem regenerate?
 - [ ] Does the product carry its own distribution?
-- [ ] Does it build a sellable asset (subscribers, archive, brand, systems — something a buyer would pay for)?
-- [ ] Can it run without the founder (systems in place, a trainable manager or partner)?
 - [ ] Can it thrive without the founder performing online (no community-host treadmill, no daily engagement duty)?
 
-- [Skool AI Groups Research - Sep 2026](../../docs/research/skool-ai-groups.md)
+## Related docs
 
-- [Field Notes](../../docs/archive/field-notes.md)
-
-- [Why They Don't Buy](../../docs/research/why-they-dont-buy.md)
-
-- [Grok Thoughts](../../docs/perspectives/grok.md)
-
-- [GHL-KIT-Use-IN-GGG](../../docs/archive/ghl-agency-kit.md)
-
-- [Community Without the Host](../../docs/archive/community-without-the-host.md)
-
-- [Manus Thoughts: The Anti-Niche Advantage](../../docs/perspectives/manus.md)
-
-- [Grok Research](../../docs/research/grok-research.md)
-
-- [Shovel Your Biz-Shit (Shovels for Community Builders)](../../docs/concepts/shovel-your-biz-shit.md)
-
-- [NotionAI-Thoughts](../../docs/perspectives/notion-ai.md)
-
-- [Z3-Thoughts](../../docs/perspectives/z3.md)
-
-- [Commercial Proof First Screen](../../docs/research/commercial-proof-first-screen.md)
-
-- [Mary's Thoughts](../../docs/perspectives/mary.md)
+- [Satisfaction shapes](satisfaction-shapes.md)
+- [Skool AI Groups Research - Sep 2026](../research/skool-ai-groups.md)
+- [Field Notes](../archive/field-notes.md)
+- [Why They Don't Buy](../research/why-they-dont-buy.md)
+- [Grok Thoughts](../perspectives/grok.md)
+- [GHL Agency Kit](../archive/ghl-agency-kit.md)
+- [Community Without the Host](../archive/community-without-the-host.md)
+- [Manus Thoughts](../perspectives/manus.md)
+- [Grok Research](../research/grok-research.md)
+- [Shovel Your Biz-Shit](../concepts/shovel-your-biz-shit.md)
+- [NotionAI Thoughts](../perspectives/notion-ai.md)
+- [Z3 Thoughts](../perspectives/z3.md)
+- [Commercial Proof First Screen](../research/commercial-proof-first-screen.md)
+- [Mary's Thoughts](../perspectives/mary.md)
+- [Gemini Thoughts](../perspectives/gemini.md)
