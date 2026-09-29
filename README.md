@@ -42,6 +42,7 @@ These documents retain their authors' arguments and later corrections. Recommend
 - [NotionAI Thoughts](docs/perspectives/notion-ai.md)
 - [Z3 Thoughts](docs/perspectives/z3.md)
 - [Mary's Thoughts](docs/perspectives/mary.md)
+- [Gemini Thoughts](docs/perspectives/gemini.md)
 
 ## Earlier directions
 
