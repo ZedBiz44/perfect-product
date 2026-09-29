@@ -21,6 +21,9 @@
 | Four-week Member Wake-Up Campaign | hopper | Measure member actions and owner reuse; campaign packaging is superseded as the core | [NotionAI](perspectives/notion-ai.md), [Manus correction](perspectives/manus.md) |
 | Product factory / contributor syndicate | hopper | Reusable production and outside expertise; structure needs a wanted product | [Z3](perspectives/z3.md), [Grok](perspectives/grok.md) |
 | Community Without the Host | hopper | Bounded appearances and logistics; the plan was uncommitted | [Archived plan and correction](archive/community-without-the-host.md) |
+| Gemini A: AI agents as community mentors | hopper | Personas as reusable roles; conflicts with no-host rule if Jack owns the community | [Gemini](perspectives/gemini.md) |
+| Gemini B: Shovel-Proof Gate as funnel disqualifier | hopper | Harsh front-end filter; conflicts if used to sell high-ticket consulting | [Gemini](perspectives/gemini.md), [proof gate template](../templates/shovel-proof-gate.md) |
+| Gemini C: Multi-perspective Board of Directors report | hopper | Productize the multi-AI synthesis as a diagnostic report; keep fulfillment as the report only | [Gemini](perspectives/gemini.md) |
 | Client Retention Engine | dead | The owner's need to show value; not selling agencies their own retention job | [Mary's killed concepts](perspectives/mary.md) |
 | Award-Submission Factory | dead | Turn real evidence into proof assets; the award-submission occasion was unsupported | [Mary](perspectives/mary.md) |
 | Wholesale Shelf | dead | One channel sale can reach many end businesses; generic kits were rejected | [Mary](perspectives/mary.md), [shelf distinction](hopper/marys-shelf.md) |
