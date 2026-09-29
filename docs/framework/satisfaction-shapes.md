@@ -4,6 +4,8 @@
 
 Added 2026-09-29. Jack's note: cold beer is only one form of product satisfaction. Six-pack deepens that form. Paint and events are other valid forms. Do not pigeonhole Perfect Product into cold-beer-only.
 
+On 2026-09-29 Jack put satisfaction into the Perfect Product definition as bar 5, with his names: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala. Grok added Tool in the hand, Trophy, and Belonging without hosting. Bars 6–7 (No Brainer, Creates Gold) sit beside satisfaction in [perfect-product.md](perfect-product.md).
+
 This page maps satisfaction shapes to the Perfect Product bars and scorecard traits. Ideas below are proposals for the hopper, not approved products.
 
 ## How to read this
@@ -14,13 +16,15 @@ Each shape must still clear the bars:
 2. Build once, sell many times
 3. Builds a sellable asset
 4. Can run without Jack as the daily center (including no community-host treadmill)
-5. Immediate or clear satisfaction (six-pack desire, or another shape below)
+5. Meets one satisfaction shape below
+6. No Brainer (people want it; price is not friction)
+7. Creates Gold (asset holds or appreciates)
 
 Plus the practical filters from [current-direction.md](../current-direction.md): no client retainers as the core, GHL/AI as infrastructure not the product, founder-fit, and a real buyer with budget.
 
 ---
 
-## 1. Cold beer (instant thirst)
+## 1. Six Pack of Beer Desire (instant thirst)
 
 **What satisfaction feels like:** Grab it, crack it, thirst gone before you're home.
 
@@ -43,7 +47,7 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 
 ---
 
-## 2. Paint (transformational reveal)
+## 2. Coat of paint (transformational reveal)
 
 **What satisfaction feels like:** Cover the old, step back, it looks new. You show it off. Not weekly; buy again when life creates a fresh surface.
 
@@ -64,7 +68,7 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 
 ---
 
-## 3. Event (anticipation + peak + afterglow)
+## 3. Event Excitement (anticipation + peak + afterglow)
 
 **What satisfaction feels like:** Tickets early, look forward for a month, peak night, talk about it for two weeks, photos. Level Up is yearly; a tour is recurring; an auditorium hosts many events.
 
@@ -85,7 +89,28 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 
 ---
 
-## 4. Tool in the hand (competence)
+## 4. Harvest Gala (seasonal pile of results)
+
+**What satisfaction feels like:** After a season of work, a bin full of results. Farmers know this. Year-end books, 40 booked jobs, tax refund.
+
+| Bar / trait | Fit |
+| --- | --- |
+| Pays more than once | Every season, every year |
+| Build once, sell many | Strong (one seasonal campaign, many agencies/clients) |
+| Sellable asset | Seasonal catalog + results library |
+| Runs without founder | Strong if agencies run it |
+| No host treadmill | Strong |
+| Low-friction first yes | Medium (seasonal buying window) |
+| Deletes a bottleneck | Strong ("fill the calendar this season") |
+| Own distribution | Agency and association channels |
+
+**ZedBiz example:** Seasonal harvest campaigns sold to agencies once per season (winter reactivation, spring open, back-to-school). Niche editions. Agency marks up to clients. Results photo / case numbers are the harvest.
+
+**Risk:** Collapses into "Cash This Week" / generic reactivation unless the season + niche + promised harvest are specific.
+
+---
+
+## 5. Tool in the hand (competence)
 
 **What satisfaction feels like:** First use makes you capable. Stream Deck, Carex Hip Kit, OnlineJobs.ph.
 
@@ -106,7 +131,7 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 
 ---
 
-## 5. Trophy (displayable status)
+## 6. Trophy (displayable status)
 
 **What satisfaction feels like:** Something you hang or show. Awards, plaques, scored certificates, Level Up recognition.
 
@@ -124,27 +149,6 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 **ZedBiz example:** A scored "Local Presence Score" or small-business marketing certificate. Agency or chamber administers it. Client hangs it. Benchmark data (Think and Grow Rich) feeds scoring later as stickiness, not the main product.
 
 **Risk:** Empty badge with no earned standard. Must be grounded in real criteria or it becomes a joke.
-
----
-
-## 6. Harvest (seasonal pile of results)
-
-**What satisfaction feels like:** After a season of work, a bin full of results. Farmers know this. Year-end books, 40 booked jobs, tax refund.
-
-| Bar / trait | Fit |
-| --- | --- |
-| Pays more than once | Every season, every year |
-| Build once, sell many | Strong (one seasonal campaign, many agencies/clients) |
-| Sellable asset | Seasonal catalog + results library |
-| Runs without founder | Strong if agencies run it |
-| No host treadmill | Strong |
-| Low-friction first yes | Medium (seasonal buying window) |
-| Deletes a bottleneck | Strong ("fill the calendar this season") |
-| Own distribution | Agency and association channels |
-
-**ZedBiz example:** Seasonal harvest campaigns sold to agencies once per season (winter reactivation, spring open, back-to-school). Niche editions. Agency marks up to clients. Results photo / case numbers are the harvest.
-
-**Risk:** Collapses into "Cash This Week" / generic reactivation unless the season + niche + promised harvest are specific.
 
 ---
 
@@ -173,13 +177,13 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 
 | Shape | Repeat pay | Build once | Sellable asset | Runs without Jack | No host treadmill | Immediate satisfaction | Best distribution guess |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cold beer / six-pack | High | High | Med-High | High | High | Instant | Audience owners |
-| Paint | Med (years) | High | High | High | High | Reveal | Agencies, chambers |
-| Event | High | High | High | High if kit-only | Fail if Jack hosts | Peak night | Group owners |
+| Six Pack of Beer Desire | High | High | Med-High | High | High | Instant | Audience owners |
+| Coat of paint | Med (years) | High | High | High | High | Reveal | Agencies, chambers |
+| Event Excitement | High | High | High | High if kit-only | Fail if Jack hosts | Peak night | Group owners |
+| Harvest Gala | Seasonal | High | High | High | High | Results pile | Agencies |
 | Tool in hand | High | Highest | Highest | Highest | High | First use | Agencies, niches |
 | Trophy | Med-High | High | High (+ data) | High | High | Display | Agencies, chambers |
-| Harvest | Seasonal | High | High | High | High | Results pile | Agencies |
-| Belonging OS | High | High | High | High if B2B2C | Fail if Jack hosts | Peer energy | Group owners |
+| Belonging without hosting | High | High | High | High if B2B2C | Fail if Jack hosts | Peer energy | Group owners |
 
 ## Open questions
 
