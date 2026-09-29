@@ -30,6 +30,10 @@ A product counts as a Perfect Product when it clears these bars:
 9. **Easy to get the value** — the buyer can reach the promised satisfaction without an unexpected second project, extensive learning, or someone holding their hand. Any effort should be clear and part of the expected experience, like painting with a box of paint. Buying it should make life easier rather than create another unfinished job.
 10. **Newton's Rule** — increase mass → increase gravity → it gets stronger as it grows. More customers, more content, more data, or more partners should make the next sale or the next year easier, not harder. (Related to Creates Gold; bar 7 is asset quality over time, bar 10 is the flywheel / network strength as scale increases.)
 
+## Examples, commonalities, and scorecard
+
+The long-form examples (Laurel, Stream Deck, Hip Kit, Zoom, OnlineJobs.ph, PLR.me, EZInspo, Hip Kit Club), 16 commonalities, and extended scorecard remain on the [Notion Perfect Product page](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a) and in git history before this link commit. Agents score with [perfect-product-rubric.md](perfect-product-rubric.md).
+
 ## Related docs
 
 - [Perfect Product Rubric](perfect-product-rubric.md) — scoring scale, pass/fail, agent instructions
@@ -50,5 +54,3 @@ A product counts as a Perfect Product when it clears these bars:
 - [Commercial Proof First Screen](../research/commercial-proof-first-screen.md)
 - [Mary's Thoughts](../perspectives/mary.md)
 - [Gemini Thoughts](../perspectives/gemini.md)
-
-Note: Examples, commonalities, and the extended scorecard remain in the Notion source and prior commits; the live definition and agent scoring path are above plus [perfect-product-rubric.md](perfect-product-rubric.md).
