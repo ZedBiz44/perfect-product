@@ -4,9 +4,9 @@
 
 Added 2026-09-29. Jack's note: cold beer is only one form of product satisfaction. Six-pack deepens that form. Paint and events are other valid forms. Do not pigeonhole Perfect Product into cold-beer-only.
 
-On 2026-09-29 Jack put satisfaction into the Perfect Product definition as bar 5, with his names: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala. Grok added Tool in the hand, Trophy, and Belonging without hosting. Bars 6–7 (No Brainer, Creates Gold) sit beside satisfaction in [perfect-product.md](perfect-product.md). Later the same day, Jack approved bars 8–9: a natural route to buyers and ease of getting value, plus clearer margin and Creates Gold wording.
+On 2026-09-29 Jack put satisfaction into the Perfect Product definition as bar 5, with his names: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala. Grok added Tool in the hand, Trophy, and Belonging without hosting. The current definition in [perfect-product.md](perfect-product.md) places Creates Gold at bar 3, combining transferable ownership and asset appreciation; No Brainer remains bar 6, and C3PO (AI does the core work) is bar 7. Bars 8–9 cover a natural route to buyers and ease of getting value. Bar 10, Newton's Rule, covers advantages from scale. References synchronized September 30, 2026.
 
-This page maps satisfaction shapes to the Perfect Product bars and scorecard traits. Ideas below are proposals for the hopper, not approved products.
+This page maps satisfaction shapes to the Perfect Product bars and scorecard traits. Ideas below are proposals for the hopper, not approved products. The shape tables are illustrative design notes, not completed U/0/1/2 assessments. Use the [current rubric](perfect-product-rubric.md) and [scores ledger](../scores/README.md) for evidence-based candidate scores.
 
 ## How to read this
 
@@ -14,11 +14,11 @@ Each shape must still clear the bars:
 
 1. Pays more than once
 2. Build once, sell many times, with a worthwhile margin after reaching, serving, and supporting the customer
-3. Builds a sellable asset
+3. Creates Gold (ownable, transferable assets that appreciate and can be acquired)
 4. Can run without Jack as the daily center (including no community-host treadmill)
 5. Meets a primary satisfaction shape below; supporting shapes are allowed
-6. No Brainer (people want it; price is not friction)
-7. Creates Gold (operation strengthens an asset over time)
+6. No Brainer (obvious value, existing spend or measurable pain, and a small price relative to the payoff)
+7. C3PO (AI performs core production, delivery, or support; people handle verification, judgment, and exceptions)
 8. A natural route to buyers (repeatable access without constant personal selling)
 9. Easy to get the value (clear, manageable effort and timing that fit the promised satisfaction)
 10. Newton's Rule (growth creates an advantage through purchasing power, reusable production, distribution, lower unit costs, or network/data effects)
