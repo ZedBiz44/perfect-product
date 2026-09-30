@@ -6,7 +6,7 @@ Updated: 2026-09-30 | Agent: Cody
 
 ## Current position
 
-Three independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). All 123 original individual assessments remain incomplete under their original standards. They have not yet been reassessed under rubric/guide v1.1; the table preserves their historical coverage and disagreements.
+Three original independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). Those historical assessments remain preserved under their original standards. New guide-v1.1 concept-fit assessments are stored separately: [Mary v1.1](mary-2026-09-30-guide-v11/README.md) and [Z3 v1.1](z3-2026-09-30/README.md). The historical comparison tables below are not overwritten by the newer scoring standard.
 
 Grok's former leaderboard is preserved as his [independent assessment](grok-2026-09-29/README.md). The comparison below brings all three reviewers together without changing their scores. It follows the Notion catalog's group order; **No. is the display number, not a rank**. GitHub IDs remain stable for source and scoring links.
 
@@ -19,6 +19,31 @@ Show each reviewer's concept-fit results separately. Combine only after a labell
 ## Bar key
 
 1 repeat revenue · 2 reusable delivery and margin · 3 transferable appreciating assets · 4 runs without Jack · 5 satisfaction · 6 obvious purchase value · 7 AI core work · 8 buyer access · 9 easy value · 10 scale advantage.
+
+## Guide v1.1 concept-fit — Z3 independent pass
+
+Z3 reviewed all 41 catalog entries under Guide v1.1 / Rubric v1.1, pinned to commit `8be7c589928ef681577baaa765a90583d824f128`. Full record: [Z3 assessment](z3-2026-09-30/README.md) · [CSV](z3-2026-09-30/index.csv).
+
+Complete numeric assessments can be ordered; incomplete records with U remain unranked. This is concept fit, not a recommendation to build.
+
+| Order | ID | Idea | Total | Passes | Zeros |
+| ---: | --- | --- | ---: | ---: | ---: |
+| 1 | 11 | Platform Weather | 19/20 | 9 | 0 |
+| 2 | 33 | Shovel + Think and Grow Rich stickiness | 18/20 | 8 | 0 |
+| 3 | 36 | Recurring Customer-Value Kits | 18/20 | 8 | 0 |
+| 4 | 01 | Shovel Your Biz-Shit | 17/20 | 7 | 0 |
+| 5 | 02 | Shovel themed-day engagement kit | 17/20 | 7 | 0 |
+| 6 | 03 | Shovel member-action unit | 17/20 | 7 | 0 |
+| 7 | 28 | No Lead Left Behind: GHL Agency Kit | 16/20 | 7 | 1 |
+| 8 | 08 | Save Kit | 16/20 | 6 | 0 |
+| 9 | 19 | Gemini A: AI mentors in community | 16/20 | 6 | 0 |
+| 10 | 34 | Shovel + Sponsor layer | 16/20 | 6 | 0 |
+| 11 | 29 | Field Notes / Practitioner Briefing | 15/20 | 6 | 1 |
+| 12 | 27 | Peer-circle operating system | 14/20 | 5 | 1 |
+| 13 | 21 | Gemini C: Board of Directors report | 13/20 | 4 | 1 |
+| 14 | 31 | Award-Submission Factory | 11/20 | 3 | 2 |
+
+Z3 left 27 ideas incomplete where an essential bar remained unknown. Notably, **Collective Purchasing Engine (39)** and **Benefits Factory (40)** scored strongly on the assessable structural bars but remain unranked because the current entries do not settle payer economics and the AI/human work split.
 
 ## Products
 
@@ -78,4 +103,4 @@ Show each reviewer's concept-fit results separately. Combine only after a labell
 
 ## Sources and refresh
 
-This is a saved comparison, not an automatic feed. Source CSVs: [Grok](index.csv), [Cody](cody-2026-09-30/index.csv), [Mary](mary-2026-09-30/index.csv). Rebuild the comparison when another independent assessment is added. Source dates are September 29 for Grok and September 30 for Cody and Mary. Rubric totals remain blank wherever U is present.
+This is a saved comparison, not an automatic feed. Historical source CSVs: [Grok](index.csv), [Cody](cody-2026-09-30/index.csv), [Mary](mary-2026-09-30/index.csv). Guide-v1.1 assessments: [Mary v1.1](mary-2026-09-30-guide-v11/index.csv) and [Z3 v1.1](z3-2026-09-30/index.csv). Rebuild or reconcile only under the scoring guide; never average U with numbers. Rubric totals remain blank wherever U is present.
