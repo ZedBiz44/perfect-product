@@ -43,3 +43,4 @@
 ## Additional independent assessments
 
 - [Cody — 2026-09-30: all 41 ideas](cody-2026-09-30/README.md), with a separate [CSV index](cody-2026-09-30/index.csv) and individual sheets. Grok's original scores remain unchanged.
+- [Mary — 2026-09-30: all 41 ideas](mary-2026-09-30/README.md), with a separate [CSV index](mary-2026-09-30/index.csv) and individual sheets. Grok's original scores and Cody's assessment remain unchanged.
