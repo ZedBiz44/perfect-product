@@ -1,5 +1,8 @@
 # Product ideas catalog
 
+All 41 entries now include a **Working concept for assessment — WC1**, with proposed payer, operating model, AI/human split, acquisition route and buyer journey. [Context and assumption basis](assessment-context.md). Original catalog statuses remain in force.
+
+
 [Index](README.md) · [Entry files](entries/) · [Rubric](../framework/perfect-product-rubric.md) · [Ingredients](../ingredients.md)
 
 **41 product ideas** harvested from shovel, hopper, perspectives, satisfaction-shapes, archive, exploration-gaps, ingredients, and stated mashups. Grouped by Type into Products, Ingredients & add-ons, and Structures.

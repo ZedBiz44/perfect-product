@@ -1,5 +1,8 @@
 # Products / Catalog
 
+All 41 entries now include a **Working concept for assessment — WC1**, with proposed payer, operating model, AI/human split, acquisition route and buyer journey. [Context and assumption basis](assessment-context.md). Original catalog statuses remain in force.
+
+
 [Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Perfect Product Rubric](../framework/perfect-product-rubric.md) · [Ingredient register](../ingredients.md) · [Scores ledger](../scores/README.md)
 
 **Status:** Catalog only. Ideas are harvested from repo docs. **First rubric ranking pass recorded in [docs/scores/](../scores/README.md)** (many incomplete by design). Scoring does not change Type/Status. Do not treat listing or scores as approval to build.
