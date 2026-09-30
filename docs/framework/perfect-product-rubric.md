@@ -4,37 +4,37 @@
 
 **Purpose:** Score any product idea against Jack's ten bars so every AI agent uses the same definitions, pass/fail criteria, and total rule. Do not invent new bars. Do not soft-pass a hard fail.
 
-**Scoring scale (use everywhere):** **0 = Fail · 1 = Partial · 2 = Pass**
+**Scoring scale (use everywhere):** **U = Unknown · 0 = Fail · 1 = Partial · 2 = Pass**
+
+U means insufficient evidence. It is not a numeric score. Use 0 only for a documented conflict with a bar, 1 for an evidenced partial fit, and 2 for an evidenced fit. A named hypothesis alone is U. The criteria below describe fit; evidence determines whether that fit can be scored.
 
 ---
 
 ## How agents use this
 
-1. **Read** [perfect-product.md](perfect-product.md) for the live bar wording, then score with this rubric.
-2. **Name the idea** (working title + one sentence). Pull buyer, price hypothesis, and status from the [product catalog](../products/catalog.md) when available.
-3. **Score each of the 10 bars 0 / 1 / 2.** Write one sentence of evidence per bar (source path or observed fact). No evidence → score at most 1.
-4. **Check bar 5:** the idea must map to **exactly one** of the seven satisfaction shapes (checklist below). If none fit, bar 5 = 0.
-5. **Total = sum of 10 scores (max 20).** Interpret with the rule below — do **not** average away a zero.
-6. **Verdict rule (recommended for agents):**
-   - **Must-not-fail:** any bar scored **0** → idea is **not** a Perfect Product candidate (park, rework, or kill).
-   - **Partial bars (1s):** allowed only with a dated note on what evidence would raise them to 2.
-   - **Proceed to proof:** all bars ≥ 1, at least 7 bars = 2, and founder constraints in [current-direction.md](../current-direction.md) still hold.
-7. **Do not** treat a high total as approval to build. Record scores in [templates/product-evaluation.md](../../templates/product-evaluation.md); willingness to pay still needs experiments.
-8. **Do not** score catalog entries unless Jack or the task asks. Catalog first, rubric later.
+1. Read [perfect-product.md](perfect-product.md). Score only when Jack or the task asks; exploration and cataloging do not require scores.
+2. Name the idea, buyer, price hypothesis, status, date, and sources.
+3. Record U / 0 / 1 / 2 for each bar, with evidence and its source. State what is missing for U and what limits a 1.
+4. Name a **primary satisfaction shape** and any supporting shapes. Explain the buyer's experience; multiple compatible shapes are allowed.
+5. Record assessed coverage (for example, 7/10). If any bar is U, leave the /20 total blank and mark the assessment incomplete. Do not rank incomplete assessments against complete ones.
+6. With all ten bars assessed, add the scores. Any 0 is a documented mismatch in the current form, regardless of total. Preserve salvageable ingredients; a rubric result does not delete an idea or change its catalog status automatically.
+7. **Eligible for commercial proof consideration:** all ten assessed, no zeros, at least seven 2s (therefore at least 17/20), and founder constraints still hold. This is not product approval or an instruction to start testing.
+8. Record the result in [templates/product-evaluation.md](../../templates/product-evaluation.md). Explore interesting ideas at any score. Run commercial proof only when requested.
 
 ---
 
 ## How to total and interpret
 
-| Total | Meaning |
+| Condition | Meaning |
 | --- | --- |
-| **Any bar = 0** | **Hard fail.** Not a Perfect Product. Keep as hopper/ingredient only if salvageable. |
-| **1–10** | Weak / many gaps. Do not treat as a core candidate. |
-| **11–14** | Mixed. Several Partials. Needs rework before proof gate. |
-| **15–17** | Strong shape. Run commercial proof before build. |
-| **18–20** | Clears the bars on paper. Still unproven until buyers pay and reuse. |
+| **Any U** | Incomplete. Show assessed coverage, not a /20 total. Any documented 0 remains visible. |
+| **Any 0** | Current form conflicts with a bar. Rework or retain useful ingredients; a high total cannot cancel the conflict. |
+| **All assessed, no zeros, 10–16/20** | Partial fit. Continue exploration or rework; below the proof consideration threshold. |
+| **All assessed, no zeros, 17–20/20** | At least seven Passes. Eligible for proof consideration if founder constraints hold and Jack asks to proceed. |
 
-**Weighted scoring is optional notes only.** Default for agents: **must-not-fail any bar**, then prefer more Passes over Partials. Bars 4 (runs without you), 8 (route to buyers), and 9 (easy value) are frequent Jack-specific kill switches — call them out explicitly when Partial.
+**One rule:** seven Passes plus three Partials = 17/20. A total of 15 or 16 does not meet it. Even 20/20 is not approval to build or proof of willingness to pay.
+
+**Weighted scoring is optional notes only.** Keep the unweighted rule above. Call out limitations in bars 4 (runs without you), 8 (route to buyers), and 9 (easy value).
 
 ---
 
@@ -58,13 +58,13 @@
 
 **Definition:** Software, content, a platform, kit, or manufactured unit. The next sale keeps a worthwhile margin after reaching, serving, and supporting the customer, and does **not** require rebuilding the product.
 
-**PASS (2):** Same asset sold many times; delivery is copy/install/download; support is bounded and amortizes.
+**PASS (2):** Reusable design or asset sold repeatedly through digital delivery or repeat manufacturing; worthwhile margin after acquisition, fulfillment, and support.
 
 **PARTIAL (1):** Mostly reusable but still needs light per-buyer customization that could creep.
 
 **FAIL (0):** Each sale is custom diagnosis, rebuild, or managed service hours.
 
-**Example:** Carex Hip Kit — one SKU manufactured once, sold forever through shelves and therapists.
+**Example:** Carex Hip Kit — a reusable kit design, manufactured repeatedly and distributed through shelves and therapists.
 
 ---
 
@@ -96,17 +96,17 @@
 
 ---
 
-### 5. Satisfaction shape (one of seven)
+### 5. Satisfaction shape (primary plus supporting shapes)
 
 **Definition:** The buyer experiences a clear satisfaction shape. Cold beer is only one shape. Full write-up: [satisfaction-shapes.md](satisfaction-shapes.md).
 
-**PASS (2):** Exactly one shape named; buyer experience matches it; shape is designed into the offer.
+**PASS (2):** Primary shape named; the buyer experience supports it. Supporting shapes may strengthen the same promise.
 
-**PARTIAL (1):** Shape guessed but experience is muddy or mixes conflicting shapes without design.
+**PARTIAL (1):** Evidence shows some satisfaction, but the experience is inconsistent or supporting promises compete.
 
-**FAIL (0):** No shape fits, or "content library" with no felt satisfaction.
+**FAIL (0):** Evidence shows the offer creates no promised satisfaction, such as accumulation without useful consumption. An untested experience is U.
 
-#### Satisfaction shapes checklist (pick one)
+#### Satisfaction shapes checklist (mark primary and any supporting shapes)
 
 - [ ] **Six Pack of Beer Desire** — instant thirst; rebuy within the week.
 - [ ] **Coat of paint** — transformational reveal; buy again when a fresh surface appears.
@@ -126,7 +126,7 @@
 
 **PASS (2):** Named buyer already pays for this or a painful workaround; price is cheap vs. the cost of the problem; trigger is clear.
 
-**PARTIAL (1):** Desire plausible but price untested, or want exists without open wallets.
+**PARTIAL (1):** Evidence supports the need, but the offer has a known price or explanation barrier. Missing buyer or price evidence is U.
 
 **FAIL (0):** Vitamin with no budget line, no trigger, or price requires a sales call to justify.
 
@@ -154,7 +154,7 @@
 
 **PASS (2):** Named channel owner or built-in distribution; repeatable access without Jack performing daily.
 
-**PARTIAL (1):** Channel hypothesized (e.g. "Skool owners") but no owned path or partner commitment yet.
+**PARTIAL (1):** Some repeatable channel access exists, but its reach or founder independence is limited. A proposed audience alone is U.
 
 **FAIL (0):** Requires Jack to cold-outbound forever or build a personal audience from zero as the only path.
 
@@ -166,25 +166,25 @@
 
 **Definition:** Buyer reaches the promised satisfaction without an unexpected second project, extensive learning, or hand-holding. Effort should be clear and part of the expected experience. Buying should make life easier, not create another unfinished job.
 
-**PASS (2):** Self-serve path; time-to-value measured in minutes/hours; prerequisites clear; no discovery call required.
+**PASS (2):** Clear path to the promised outcome; effort, prerequisites, and timing fit the satisfaction shape. An event or seasonal harvest may take weeks or months.
 
 **PARTIAL (1):** Usable by capable buyers but install/setup still friction-heavy.
 
-**FAIL (0):** Needs training calls, custom setup, or creates a new unfinished project for the buyer.
+**FAIL (0):** Evidence shows unexpected work or dependence on hand-holding prevents the promised outcome.
 
-**Example:** "Comment EDGES, get the checklist" — member gets the asset in one action.
+**Example:** A coat-of-paint offer delivers value when the buyer sees the finished transformation. Getting a checklist is delivery; using it to reach the promised result is value.
 
 ---
 
 ### 10. Newton's Rule
 
-**Definition:** Increase mass → increase gravity → it gets stronger as it grows. More customers, content, data, or partners make the next sale or next year easier, not harder. (Bar 7 = asset quality over time; bar 10 = flywheel / network strength as scale increases.)
+**Definition:** Increase mass → increase gravity → it gets stronger as it grows. More customers, content, data, or partners make the next sale or next year easier, not harder. (Bar 7 = asset quality over time; bar 10 = advantages created by greater scale.)
 
-**PASS (2):** Clear flywheel (invites, data, plugins, catalog gravity, partner density) where scale reduces CAC or increases pull.
+**PASS (2):** Evidence of a scale advantage: purchasing power, reusable production, shared distribution, lower unit costs, or network/data effects make the next sale easier or more valuable.
 
-**PARTIAL (1):** Mild scale benefits (more testimonials) but no structural flywheel.
+**PARTIAL (1):** Some evidenced scale benefit, but limited in size or offset by coordination costs.
 
-**FAIL (0):** More customers make ops harder linearly (or worse) with no network/data effect.
+**FAIL (0):** Evidence shows growth worsens unit economics or operating burden without an offsetting scale advantage. Linear manufacturing or shipping cost alone is not failure.
 
 **Example:** Zoom — every meeting invite recruits new users; density increases gravity.
 
@@ -197,7 +197,10 @@ Copy into notes or [templates/product-evaluation.md](../../templates/product-eva
 ```
 Idea:
 Buyer:
-Shape (bar 5):
+Primary shape (bar 5):
+Supporting shapes:
+Date / sources:
+Use U or 0/1/2 per bar; U is not zero.
 
 1 Pays more than once:     _ / 2 — evidence:
 2 Build once, sell many:   _ / 2 — evidence:
@@ -210,9 +213,15 @@ Shape (bar 5):
 9 Easy to get the value:   _ / 2 — evidence:
 10 Newton's Rule:          _ / 2 — evidence:
 
-TOTAL: _ / 20
-Any zeros? Y/N → if Y, NOT a Perfect Product candidate.
-Verdict: park / rework / proof-gate / kill
+ASSESSED: _ / 10
+UNKNOWN BARS / missing evidence:
+TOTAL: _ / 20 (leave blank if any U)
+DOCUMENTED ZEROS / conflicts:
+PASSES: _ / 10
+Eligible for proof consideration? All assessed, no zeros, >=7 Passes (>=17/20), founder fit.
+Verdict / reasoning:
+Next exploration question:
+Any proof work requires a separate request.
 ```
 
 ## Related

@@ -7,7 +7,8 @@ Copy this worksheet for a candidate. This template combines the source framework
 - **Candidate:**
 - **Date / owner:**
 - **Status:** Idea / researching / paid test / approved / rejected
-- **Satisfaction shape:** Six Pack of Beer Desire · Coat of paint · Event Excitement · Harvest Gala · Tool in the hand · Trophy · Belonging without hosting · Other:
+- **Primary satisfaction shape:** Six Pack of Beer Desire · Coat of paint · Event Excitement · Harvest Gala · Tool in the hand · Trophy · Belonging without hosting
+- **Supporting satisfaction shapes (optional):**
 - **Buyer and payer:**
 - **Existing audience or distribution channel:**
 - **One-sentence promise:**
@@ -15,17 +16,42 @@ Copy this worksheet for a candidate. This template combines the source framework
 - **Price and repeat-purchase reason:**
 - **Evidence links:**
 
-## Source scorecard
+## Ten-bar assessment (only when requested)
 
-- [ ] Pays more than once through recurring revenue, repeat purchases, or a mass market.
-- [ ] Built once and sold many times, with a worthwhile margin after customer acquisition, delivery, and support.
-- [ ] Builds a sellable asset.
-- [ ] Can run through systems and a trainable manager or partner.
-- [ ] Meets a satisfaction shape (six-pack / paint / event / harvest / tool / trophy / belonging).
-- [ ] No Brainer: people want it; price is not friction.
-- [ ] Creates Gold: operation strengthens reputation, relationships, knowledge, distribution, catalog, or systems over time.
-- [ ] Buyers can find it through a repeatable channel without constant personal selling.
-- [ ] Buyers can reach the promised satisfaction with clear, manageable effort and little hand-holding.
+Follow the [rubric](../docs/framework/perfect-product-rubric.md): U = Unknown, 0 = documented conflict, 1 = evidenced partial fit, 2 = evidenced fit. Leave the total blank while any bar is U. Proof consideration requires all ten assessed, no zeros, at least seven Passes (17/20 minimum), and founder fit; it does not authorize testing or building.
+
+```
+Idea:
+Buyer:
+Primary shape (bar 5):
+Supporting shapes:
+Date / sources:
+Use U or 0/1/2 per bar; U is not zero.
+
+1 Pays more than once:     _ / 2 — evidence:
+2 Build once, sell many:   _ / 2 — evidence:
+3 Sellable asset:          _ / 2 — evidence:
+4 Runs without you:        _ / 2 — evidence:
+5 Satisfaction shape:      _ / 2 — evidence:
+6 No Brainer:              _ / 2 — evidence:
+7 Creates Gold:            _ / 2 — evidence:
+8 Natural route to buyers: _ / 2 — evidence:
+9 Easy to get the value:   _ / 2 — evidence:
+10 Newton's Rule:          _ / 2 — evidence:
+
+ASSESSED: _ / 10
+UNKNOWN BARS / missing evidence:
+TOTAL: _ / 20 (leave blank if any U)
+DOCUMENTED ZEROS / conflicts:
+PASSES: _ / 10
+Eligible for proof consideration? All assessed, no zeros, >=7 Passes (>=17/20), founder fit.
+Verdict / reasoning:
+Next exploration question:
+Any proof work requires a separate request.
+```
+
+## Supporting traits (not additional scored bars)
+
 - [ ] Flagship promise fits one sentence.
 - [ ] First yes is low friction.
 - [ ] Has a value ladder.
@@ -50,7 +76,7 @@ Six Pack = instant thirst. Coat of paint = reveal. Event Excitement = anticipati
 - Reasons this could fail:
 - Related rejected ideas and how this differs:
 
-## Proof and decision
+## Proof and decision (complete only when requested)
 
 - Smallest proposed paid test:
 - Success / failure criteria:

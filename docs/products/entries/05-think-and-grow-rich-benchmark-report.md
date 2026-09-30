@@ -8,7 +8,10 @@
 - **Buyer:** Agency owners / community owners who want proof of what works; later, as upgrade for Shovel or Trophy products.
 - **Price:** Included in higher tier, or ~$49–$99/report, or annual ~$199.
 - **Tier:** mid
-- **Shape:** Trophy (status/data) / Creates Gold ingredient
+- **Shape:** Trophy (hypothesis); Creates Gold is a separate bar, not a satisfaction shape
+- **Type:** ingredient
 - **Status:** hopper
+- **Related ideas:** [33. Shovel + Think and Grow Rich stickiness](33-shovel-think-and-grow-rich-stickiness.md) · [26. Local Presence Score / certificate](26-local-presence-score-certificate.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/hopper/think-and-grow-rich.md`, `docs/perspectives/grok.md`
 - **Notes:** No proprietary campaign-results dataset in repo yet.

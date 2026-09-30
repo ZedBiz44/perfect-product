@@ -9,6 +9,9 @@
 - **Price:** ~$97–$497/mo agency licence or per-season packs ~$199+.
 - **Tier:** mid
 - **Shape:** Harvest Gala / Six Pack
+- **Type:** add-on
 - **Status:** hopper
+- **Related ideas:** [9. Cash This Week](09-cash-this-week.md) · [24. Seasonal harvest campaigns (agency)](24-seasonal-harvest-campaigns-agency.md) · [32. Wholesale Shelf (generic kits)](32-wholesale-shelf-generic-kits.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/grok.md`, `docs/ingredients.md`, `docs/current-direction.md`
 - **Notes:** Explicitly not the main business.

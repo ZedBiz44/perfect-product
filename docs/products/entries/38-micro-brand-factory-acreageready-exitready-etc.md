@@ -9,6 +9,9 @@
 - **Price:** Per brand founding licences (see #14–15 bands); portfolio economics.
 - **Tier:** high (portfolio)
 - **Shape:** varies by brand
-- **Status:** mashup
+- **Type:** business structure
+- **Status:** exploration
+- **Related ideas:** [17. Product factory / contributor syndicate](17-product-factory-contributor-syndicate.md) · [14. Rural property buyer system](14-rural-property-buyer-system.md) · [15. Business-sale digital-readiness system](15-business-sale-digital-readiness-system.md) · [41. Micro-product Holding Company](41-micro-product-holding-company.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/z3.md`, `docs/research/commercial-proof-first-screen.md`
 - **Notes:** Explicit mashup of Product Factory + channel-owner hypotheses + named illustrative micro-brands. Names are examples only, not launches.

@@ -9,6 +9,9 @@
 - **Price:** Founding pilot US$99–$149 for four weeks.
 - **Tier:** mid
 - **Shape:** Harvest Gala / Six Pack
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [3. Shovel member-action unit](03-shovel-member-action-unit.md) · [36. Recurring Customer-Value Kits (weekly OS)](36-recurring-customer-value-kits-weekly-os.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/notion-ai.md`, `docs/perspectives/manus.md`, `docs/ingredients.md`
 - **Notes:** Superseded as core by Manus weekly-item correction; keep as campaign packaging proposal.

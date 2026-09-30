@@ -9,6 +9,9 @@
 - **Price:** ~$49–$149 per score / annual recert; multi-client agency seats.
 - **Tier:** mid
 - **Shape:** Trophy
-- **Status:** hopper / mashup
+- **Type:** combination
+- **Status:** hopper
+- **Related ideas:** [5. Think and Grow Rich (benchmark report)](05-think-and-grow-rich-benchmark-report.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/framework/satisfaction-shapes.md`, `docs/hopper/think-and-grow-rich.md`
 - **Notes:** Mashup: Trophy shape + Think and Grow Rich data layer.

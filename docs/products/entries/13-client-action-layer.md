@@ -9,6 +9,9 @@
 - **Price:** Licence ~$97–$497/mo white-label, or $29–$99 end-user add-on.
 - **Tier:** mid
 - **Shape:** Tool in the hand
+- **Type:** add-on
 - **Status:** hopper
+- **Related ideas:** [37. Product Ingredient Company (B2B2C layer)](37-product-ingredient-company-b2b2c-layer.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/manus.md`, `docs/perspectives/z3.md`, `docs/ingredients.md`
 - **Notes:** Related to Z3 Product Ingredient Company / CourseFinish illustrative brand.

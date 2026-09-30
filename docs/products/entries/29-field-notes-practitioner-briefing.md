@@ -9,6 +9,9 @@
 - **Price:** ~$7–$19/mo or $190/yr (archive table).
 - **Tier:** low–mid
 - **Shape:** Six Pack of Beer Desire
+- **Type:** product
 - **Status:** archive / dead-but-ingredient
+- **Related ideas:** [11. Platform Weather](11-platform-weather.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/archive/field-notes.md`, `docs/perspectives/grok.md`, `docs/archive/ghl-agency-kit.md`
 - **Notes:** Ruled out for Jack; research retained.

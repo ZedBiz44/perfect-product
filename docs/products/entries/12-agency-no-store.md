@@ -9,6 +9,9 @@
 - **Price:** $29–$149 per job product.
 - **Tier:** low–mid
 - **Shape:** Tool in the hand
+- **Type:** distribution model
 - **Status:** hopper
+- **Related ideas:** [6. Mary's one-job shelf](06-marys-one-job-shelf.md) · [13. Client Action Layer](13-client-action-layer.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/manus.md`, `docs/ingredients.md`
 - **Notes:** Structural observation; channel conflict unresolved.

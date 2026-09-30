@@ -9,6 +9,9 @@
 - **Price:** Membership ~$29–99/mo or B2B licence.
 - **Tier:** mid
 - **Shape:** Belonging without hosting
-- **Status:** hopper / mashup
+- **Type:** combination
+- **Status:** hopper
+- **Related ideas:** [18. Community Without the Host (bounded Q&A community)](18-community-without-the-host-bounded-q-a-community.md) · [27. Peer-circle operating system](27-peer-circle-operating-system.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/gemini.md`, `docs/archive/community-without-the-host.md`, `docs/research/skool-ai-groups.md`
 - **Notes:** Mashup: Skool research + AI personas + Mary's Shelf routing. Conflicts if Jack hosts.

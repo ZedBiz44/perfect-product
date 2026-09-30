@@ -9,6 +9,9 @@
 - **Price:** ~$49–$149/mo.
 - **Tier:** mid
 - **Shape:** Tool in the hand
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [29. Field Notes / Practitioner Briefing](29-field-notes-practitioner-briefing.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/mary.md`, `docs/ingredients.md`
 - **Notes:** Reputation armor, not generic news.

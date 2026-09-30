@@ -9,6 +9,9 @@
 - **Price:** Free gate; DIY ~$7–49; if productized for others ~$99–$299.
 - **Tier:** low–mid
 - **Shape:** Tool in the hand
-- **Status:** hopper / mashup
+- **Type:** funnel
+- **Status:** hopper
+- **Related ideas:** [21. Gemini C: Board of Directors report](21-gemini-c-board-of-directors-report.md) · [12. Agency "No" Store](12-agency-no-store.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/gemini.md`, `templates/shovel-proof-gate.md`, `docs/hopper/sponsor-layer.md`
 - **Notes:** Mashup: proof gate + sponsor layer + funnel. Keep as internal tool unless consulting reopened.

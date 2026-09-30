@@ -9,6 +9,9 @@
 - **Price:** ~$5–$10 per client per month.
 - **Tier:** low–mid
 - **Shape:** Six Pack of Beer Desire
+- **Type:** product
 - **Status:** dead-but-ingredient
+- **Related ideas:** [8. Save Kit](08-save-kit.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/mary.md`
 - **Notes:** Killed — sold agencies their own job. Salvage = "what am I paying for?" moment → Save Kit.

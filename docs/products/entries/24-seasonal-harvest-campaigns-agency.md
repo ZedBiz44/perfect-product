@@ -9,6 +9,9 @@
 - **Price:** ~$199–$997 per season per niche edition.
 - **Tier:** mid–high
 - **Shape:** Harvest Gala
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [10. Weekly retention drop / seasonal agency campaigns](10-weekly-retention-drop-seasonal-agency-campaigns.md) · [9. Cash This Week](09-cash-this-week.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/framework/satisfaction-shapes.md`, `docs/perspectives/grok.md`
 - **Notes:** Must stay specific vs. generic Cash This Week.

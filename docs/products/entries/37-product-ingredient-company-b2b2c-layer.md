@@ -9,6 +9,9 @@
 - **Price:** White-label licences ~$197–$997/mo or per-seat.
 - **Tier:** mid–high
 - **Shape:** — (structural; end-user shape varies)
-- **Status:** mashup
+- **Type:** business structure
+- **Status:** exploration
+- **Related ideas:** [13. Client Action Layer](13-client-action-layer.md) · [40. Benefits Factory](40-benefits-factory.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/z3.md` (Second-Layer Insights), `docs/ingredients.md` (Client Action Layer)
 - **Notes:** Combines PLR.me + Hip Kit distribution + white-label + Product Factory patterns stated in Z3.

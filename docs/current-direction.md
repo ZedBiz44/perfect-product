@@ -40,7 +40,7 @@ Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/gr
 | Direction | Status in the sources | Evidence |
 | --- | --- | --- |
 | Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
-| Definition bars 5–9 (satisfaction shapes, No Brainer, Creates Gold, route to buyers, ease of getting value) | Jack's approved framework updates; seven satisfaction shapes within nine bars | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
+| Definition bars 5–10 (satisfaction shapes, No Brainer, Creates Gold, route to buyers, ease of getting value, Newton's Rule) | Jack's approved framework updates; seven satisfaction shapes within ten bars | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
 | Gemini Ideas A/B/C | Hopper; no Jack decision yet. A conflicts with no-host rule; B conflicts if used for consulting; C is closest to a productized report | [Gemini](perspectives/gemini.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |

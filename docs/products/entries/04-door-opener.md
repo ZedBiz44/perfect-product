@@ -9,6 +9,9 @@
 - **Price:** ~$99–$249 one-time per niche pack, or low monthly refill of new niche wins.
 - **Tier:** mid
 - **Shape:** Tool in the hand
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [35. Door Opener + niche evidence pack](35-door-opener-niche-evidence-pack.md) · [5. Think and Grow Rich (benchmark report)](05-think-and-grow-rich-benchmark-report.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/hopper/door-opener.md`, `docs/perspectives/grok.md`, `docs/ingredients.md`
 - **Notes:** Must differ from free audits agencies already use; open research question.

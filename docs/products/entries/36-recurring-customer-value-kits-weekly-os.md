@@ -9,6 +9,9 @@
 - **Price:** Founding pilot ~$29–$49 for first month (Z3).
 - **Tier:** mid
 - **Shape:** Six Pack of Beer Desire
-- **Status:** mashup
+- **Type:** format variant
+- **Status:** exploration
+- **Related ideas:** [1. Shovel Your Biz-Shit](01-shovel-your-biz-shit.md) · [16. Member Wake-Up Campaign (4-week)](16-member-wake-up-campaign-4-week.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/z3.md`, `docs/concepts/shovel-your-biz-shit.md`
 - **Notes:** Mashup/reframing of Shovel as operating dependency + distributor thesis.

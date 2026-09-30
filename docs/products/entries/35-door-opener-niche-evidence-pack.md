@@ -9,6 +9,9 @@
 - **Price:** ~$149–$299 per niche pack.
 - **Tier:** mid
 - **Shape:** Tool in the hand
-- **Status:** mashup
+- **Type:** combination
+- **Status:** exploration
+- **Related ideas:** [4. Door Opener](04-door-opener.md) · [5. Think and Grow Rich (benchmark report)](05-think-and-grow-rich-benchmark-report.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/hopper/door-opener.md`, `docs/hopper/think-and-grow-rich.md`, `docs/perspectives/grok.md`
 - **Notes:** Mashup implied by Door Opener "backed by evidence about what works."

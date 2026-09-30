@@ -16,11 +16,12 @@ Each shape must still clear the bars:
 2. Build once, sell many times, with a worthwhile margin after reaching, serving, and supporting the customer
 3. Builds a sellable asset
 4. Can run without Jack as the daily center (including no community-host treadmill)
-5. Meets one satisfaction shape below
+5. Meets a primary satisfaction shape below; supporting shapes are allowed
 6. No Brainer (people want it; price is not friction)
 7. Creates Gold (operation strengthens an asset over time)
 8. A natural route to buyers (repeatable access without constant personal selling)
-9. Easy to get the value (clear, manageable effort to reach the promised satisfaction)
+9. Easy to get the value (clear, manageable effort and timing that fit the promised satisfaction)
+10. Newton's Rule (growth creates an advantage through purchasing power, reusable production, distribution, lower unit costs, or network/data effects)
 
 Plus the practical filters from [current-direction.md](../current-direction.md): no client retainers as the core, GHL/AI as infrastructure not the product, founder-fit, and a real buyer with budget.
 
@@ -193,4 +194,4 @@ Plus the practical filters from [current-direction.md](../current-direction.md):
 2. For non-beer shapes, what is the first yes (price and moment) that still feels thoughtless?
 3. Which shape reuses the most already-built ingredients (Shovel unit, Think and Grow Rich data, niche editions, agency channel)?
 
-Use [templates/product-evaluation.md](../../templates/product-evaluation.md) to score a concrete candidate under one shape.
+Use [templates/product-evaluation.md](../../templates/product-evaluation.md) when scoring is requested. Name a primary shape and any supporting shapes; record Unknown separately from failure.

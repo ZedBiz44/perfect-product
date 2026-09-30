@@ -9,6 +9,9 @@
 - **Price:** ~$79–$249 per tool; niche packs extra.
 - **Tier:** mid
 - **Shape:** Tool in the hand
+- **Type:** product family
 - **Status:** hopper
+- **Related ideas:** [6. Mary's one-job shelf](06-marys-one-job-shelf.md) · [28. No Lead Left Behind: GHL Agency Kit](28-no-lead-left-behind-ghl-agency-kit.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/framework/satisfaction-shapes.md`, `docs/hopper/marys-shelf.md`
 - **Notes:** Risk: becoming "another GHL snapshot."

@@ -9,6 +9,9 @@
 - **Price:** ~$99–$199 per campaign pack.
 - **Tier:** mid
 - **Shape:** Harvest Gala
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [10. Weekly retention drop / seasonal agency campaigns](10-weekly-retention-drop-seasonal-agency-campaigns.md) · [24. Seasonal harvest campaigns (agency)](24-seasonal-harvest-campaigns-agency.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/grok.md`, `docs/ingredients.md`
 - **Notes:** Hopper after Jack's objections; ingredient = reactivation, not unique product.

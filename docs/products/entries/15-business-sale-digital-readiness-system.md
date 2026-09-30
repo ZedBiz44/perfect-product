@@ -9,6 +9,9 @@
 - **Price:** Founding licence ~$497–$2,000.
 - **Tier:** high
 - **Shape:** Tool in the hand
+- **Type:** product
 - **Status:** hopper
+- **Related ideas:** [38. Micro-brand factory (AcreageReady / ExitReady / etc.)](38-micro-brand-factory-acreageready-exitready-etc.md) · [14. Rural property buyer system](14-rural-property-buyer-system.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/research/commercial-proof-first-screen.md`, `docs/ingredients.md`
 - **Notes:** Generic seller guides rejected; need broker gap + paid commitment first.

@@ -9,6 +9,9 @@
 - **Price:** $7–15 letter; $29–49 community; $97–149 playbook; $1.5–2.5K advisory.
 - **Tier:** mid–high ladder
 - **Shape:** Belonging without hosting
+- **Type:** business structure
 - **Status:** archive
+- **Related ideas:** [19. Gemini A: AI mentors in community](19-gemini-a-ai-mentors-in-community.md) · [27. Peer-circle operating system](27-peer-circle-operating-system.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/archive/community-without-the-host.md`, `docs/ingredients.md`
 - **Notes:** Uncommitted plan; VA mayor social engine red-flagged.

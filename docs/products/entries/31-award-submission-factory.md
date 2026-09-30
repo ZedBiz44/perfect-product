@@ -9,6 +9,9 @@
 - **Price:** Quarterly pack ~$199–$499 (unstated; guess).
 - **Tier:** mid
 - **Shape:** Trophy
+- **Type:** product
 - **Status:** dead-but-ingredient
+- **Related ideas:** [8. Save Kit](08-save-kit.md)
+- **Price basis:** Unvalidated catalog hypothesis; not evidence of willingness to pay. Sources below establish the concept; no verified market price is claimed.
 - **Sources:** `docs/perspectives/mary.md`
 - **Notes:** Killed — award occasion unsupported. Salvage = proof-asset factory at churn moment.
