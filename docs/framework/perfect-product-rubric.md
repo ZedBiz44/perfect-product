@@ -1,5 +1,7 @@
 # Perfect Product Rubric
 
+> **Read first — September 30, 2026:** The [Perfect Product Scoring Guide — Assumptions and Interpretation](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) governs current concept scoring. The ten criteria below remain the reference; where older evidence-only instructions differ, follow the maintained guide in Notion.
+
 [Repository home](../../README.md) · [Perfect Product definition](perfect-product.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Product catalog](../products/README.md) · [Decision guide](../current-direction.md)
 
 **Purpose:** Score any product idea against Jack's ten bars so every AI agent uses the same definitions, pass/fail criteria, and total rule. Do not invent new bars. Do not soft-pass a hard fail.
