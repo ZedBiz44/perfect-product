@@ -1,8 +1,8 @@
 # Products / Catalog
 
-[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Perfect Product Rubric](../framework/perfect-product-rubric.md) · [Ingredient register](../ingredients.md)
+[Repository home](../../README.md) · [Decision guide](../current-direction.md) · [Perfect Product Rubric](../framework/perfect-product-rubric.md) · [Ingredient register](../ingredients.md) · [Scores ledger](../scores/README.md)
 
-**Status:** Catalog only. Ideas are harvested from repo docs. **No rubric scores yet.** Do not treat listing as approval to build.
+**Status:** Catalog only. Ideas are harvested from repo docs. **First rubric ranking pass recorded in [docs/scores/](../scores/README.md)** (many incomplete by design). Scoring does not change Type/Status. Do not treat listing or scores as approval to build.
 
 - Full list + links: **[catalog.md](catalog.md)**
 - Full template per idea: **[entries/](entries/)** (one file each)
@@ -72,3 +72,8 @@ How the company/portfolio is built: business structure, distribution model, port
 | 41 | [Micro-product Holding Company](entries/41-micro-product-holding-company.md) | portfolio structure | exploration | varies by acquired product |
 
 **Entry count: 41** (Products 20 · Ingredients & add-ons 12 · Structures 9). Harvested from shovel, hopper, perspectives, satisfaction-shapes examples, archive productized variants, exploration-gaps format hypotheses, ingredients.md, and explicit mashups. No invented businesses beyond combining stated ideas.
+
+## Related / status
+
+- **Scores:** [docs/scores/README.md](../scores/README.md) — how agents score; [leaderboard](../scores/leaderboard.md); [index.csv](../scores/index.csv).
+- Scoring does not change catalog Type or Status. Proof gate 17/20 + seven Passes is consideration, not approval.
