@@ -2,7 +2,7 @@
 
 [Index](README.md) · [Entry files](entries/) · [Rubric](../framework/perfect-product-rubric.md) · [Ingredients](../ingredients.md)
 
-**38 product ideas** harvested from shovel, hopper, perspectives, satisfaction-shapes, archive, exploration-gaps, ingredients, and stated mashups.
+**41 product ideas** harvested from shovel, hopper, perspectives, satisfaction-shapes, archive, exploration-gaps, ingredients, and stated mashups.
 
 - **Canonical detail (full identical template):** one markdown file per idea in **[entries/](entries/)**.
 - **Index of all names/status/shapes:** **[README.md](README.md)**.
@@ -48,6 +48,9 @@
 36. [Recurring Customer-Value Kits](entries/36-recurring-customer-value-kits-weekly-os.md) — mashup
 37. [Product Ingredient Company](entries/37-product-ingredient-company-b2b2c-layer.md) — mashup
 38. [Micro-brand factory](entries/38-micro-brand-factory-acreageready-exitready-etc.md) — mashup
+39. [Collective Purchasing Engine](entries/39-collective-purchasing-engine.md) — exploration
+40. [Benefits Factory](entries/40-benefits-factory.md) — exploration
+41. [Micro-product Holding Company](entries/41-micro-product-holding-company.md) — exploration
 
 ## Template fields (every entry file)
 
@@ -57,4 +60,5 @@ Name / working title · One-sentence idea · How it would work · Who you sell i
 
 - Excluded as standalone: VA-as-social-engine; generic D2C acreage/business-sale/renewal/sponsorship guides (channel systems kept as #14–15).
 - GHL archive table extras collapsed into #28 notes.
+- New Sep 29 concepts #39–41 are exploratory architecture ideas, not approved ventures.
 - No rubric scores in this catalog.
