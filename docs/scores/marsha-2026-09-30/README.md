@@ -1,5 +1,7 @@
 # Marsha — all 41 ideas, September 30, 2026
 
+> Historical assessment of the earlier catalog. [Marsha’s current WC1 / WC1.1 reassessment](../marsha-2026-09-30-wc1/README.md) preserves this run and explains every changed bar.
+
 [Scores ledger](../README.md) · [CSV](index.csv) · [Catalog](../../products/README.md)
 
 ## Assessment basis
