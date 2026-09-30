@@ -1,6 +1,6 @@
 # Cody — working-concept assessment
 
-Date: 2026-09-30 | Guide: v1.2 | Rubric: v1.1 | Catalog version: WC1 | Status: Completed concept assessment
+Date: 2026-09-30 | Guide: v1.2 | Rubric: v1.1 | Catalog version: WC1 (01–38), WC1.1 (39–41) | Status: Completed concept assessment
 
 Jack requested working assumptions across the catalog and a new assessment, and explicitly asked to delete Cody's earlier evidence-focused assessment. The old directory and its active leaderboard results have been removed. Git history retains the earlier publication; it is not an active review or an additional reviewer vote.
 
@@ -13,13 +13,15 @@ This run covers all 41 entries with a separate sheet, ten reasons and per-bar co
 - [WC1 catalog](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/README.md) at `d18a327a597f6b9292b5cacc94448934ce90cacb`; [context and assumption basis](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/assessment-context.md).
 - [CSV index](index.csv) records every bar, confidence, total, source version and sheet path.
 
-## Coverage and remaining Unknowns
+## Coverage and clarification
 
-38 entries have complete totals. Three entries each retain one U; their totals remain blank. Across 410 bars, 407 are numeric and 3 are Unknown. The earlier 358 Unknowns are not the current result. The change reflects both a corrected concept-scoring standard and newly stated product scenarios, not newly proven demand.
+All 41 entries now have complete concept-fit totals: 410 numeric bars and no U. Jack’s clarification supplies the model for 39–41, and explicit operating assumptions permit conditional judgments. It does not supply tested demand or signed economics.
 
-- **39 Collective Purchasing Engine:** The payer model is specified, but no supplier commission, comparable landed price or channel share is established. Their relationship determines whether both sides benefit.
-- **40 Benefits Factory:** The $297 scenario names payer and price, but the available benefits, exclusivity and realistic member savings are not defined enough to judge the chamber's buying value.
-- **41 Micro-product Holding Company:** Acquisition cost, revenue share, actual support load and maintenance obligations are missing; these materially determine whether the holding model has worthwhile margins.
+- **39 Collective Purchasing Engine: 15/20.** Vendasta-style shelf; commissions, fees and shared savings are possible; lower cost, broader choice, easier delivery and client-relationship protection explain buying value. Bar 6: U to 2.
+- **40 Benefits Factory: 15/20.** Custom newsletter, blog and social content lead the offer; partner swag and event-planning packages are additional products. Bar 6: U to 1; bar 4: 1 to 2 under an operator-led delivery assumption. Per-customer review remains scored as a burden.
+- **41 Micro-product Holding Company: 13/20.** IM products first, with event-planner templates, chamber speaking and WordPress plugins as candidate lanes. The scored scenario is a reusable event-planner template business. Bar 2: U to 1; bar 1: 2 to 1 because one-off products do not automatically renew.
+
+[Clarified catalog snapshot](https://github.com/ZedBiz44/perfect-product/tree/045e1c7a042eddb0c71ef19a6cdb8d07b20611bb/docs/products/entries) pins WC1.1. The other 38 entries and their scorecards retain their original WC1 pins. Commercial terms still require evaluation before any transaction.
 
 ## Results by catalog group
 
@@ -72,9 +74,9 @@ Each group is ordered by complete total, then strong fits, preserving ties. Inco
 | 1 | 33 | [Mary's one-job shelf](sheets/33-marys-one-job-shelf.md) | 17 | 7 | 0 | hopper; Conditional concept shortlist |
 | 2 | 34 | [Agency "No" Store](sheets/34-agency-no-store.md) | 16 | 6 | 0 | hopper; No shortlist signal |
 | 3 | 37 | [Product Ingredient Company (B2B2C layer)](sheets/37-product-ingredient-company-b2b2c-layer.md) | 15 | 5 | 0 | exploration; No shortlist signal |
-| 4 | 38 | [Micro-brand factory (AcreageReady / ExitReady / etc.)](sheets/38-micro-brand-factory-acreageready-exitready-etc.md) | 13 | 3 | 0 | exploration; No shortlist signal |
-| 5 | 35 | [Product factory / contributor syndicate](sheets/35-product-factory-contributor-syndicate.md) | 12 | 2 | 0 | hopper; No shortlist signal |
-| 6 | 36 | [Community Without the Host (bounded Q&A community)](sheets/36-community-without-the-host-bounded-q-a-community.md) | 10 | 1 | 1 | archive; Excluded: recorded archive/rejection |
-| — | 39 | [Collective Purchasing Engine](sheets/39-collective-purchasing-engine.md) |  | 4 | 0 | exploration; Incomplete |
-| — | 40 | [Benefits Factory](sheets/40-benefits-factory.md) |  | 4 | 0 | exploration; Incomplete |
-| — | 41 | [Micro-product Holding Company](sheets/41-micro-product-holding-company.md) |  | 4 | 0 | exploration; Incomplete |
+| 3 | 39 | [Collective Purchasing Engine](sheets/39-collective-purchasing-engine.md) | 15 | 5 | 0 | exploration; No shortlist signal |
+| 3 | 40 | [Benefits Factory](sheets/40-benefits-factory.md) | 15 | 5 | 0 | exploration; No shortlist signal |
+| 6 | 38 | [Micro-brand factory (AcreageReady / ExitReady / etc.)](sheets/38-micro-brand-factory-acreageready-exitready-etc.md) | 13 | 3 | 0 | exploration; No shortlist signal |
+| 6 | 41 | [Micro-product Holding Company](sheets/41-micro-product-holding-company.md) | 13 | 3 | 0 | exploration; No shortlist signal |
+| 8 | 35 | [Product factory / contributor syndicate](sheets/35-product-factory-contributor-syndicate.md) | 12 | 2 | 0 | hopper; No shortlist signal |
+| 9 | 36 | [Community Without the Host (bounded Q&A community)](sheets/36-community-without-the-host-bounded-q-a-community.md) | 10 | 1 | 1 | archive; Excluded: recorded archive/rejection |

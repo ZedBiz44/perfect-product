@@ -8,15 +8,15 @@ Updated: 2026-09-30 | Agent: Cody | Catalog numbering: v2
 
 Cody's old evidence-focused assessment was deleted at Jack's request. Only the replacement WC1 assessment is current for Cody. All other reviewers' original scores are preserved.
 
-**Version matters:** Cody now assesses the expanded Working concept for assessment (WC1). Mary, Z3, Manus and Marsha below assessed earlier descriptions. These are separate views, not equivalent votes on one fully specified product. Cody authored WC1; this review does not independently validate those assumptions.
+**Version matters:** Cody assesses WC1 for 01–38 and Jack’s clarified WC1.1 for 39–41. Mary, Z3, Manus and Marsha below assessed earlier descriptions. These are separate views, not equivalent votes on one fully specified product. Cody authored WC1; this review does not independently validate those assumptions.
 
 No combined rank is calculated. Show each review separately; combine only after labelled reconciliation of matching versions under the maintained guide. Never average U with numbers. Numeric totals are concept judgments, not market proof. A zero conflict stays visible beside any total. Catalog numbers identify entries, not ranks.
 
-Current Cody results: **38 complete entries; 3 incomplete; 407 numeric bars and 3 U**. [Within-group ranking and reasoning](cody-2026-09-30-wc1/README.md).
+Current Cody results: **41 complete entries; 410 numeric bars and no U**. [Within-group ranking and reasoning](cody-2026-09-30-wc1/README.md).
 
 ## Sources and assessment versions
 
-- [Cody WC1 CSV](cody-2026-09-30-wc1/index.csv) — WC1 catalog; guide v1.2.
+- [Cody WC1 CSV](cody-2026-09-30-wc1/index.csv) — WC1 / WC1.1 catalog; guide v1.2.
 - [Mary v1.1 CSV](mary-2026-09-30-guide-v11/index.csv) — earlier catalog; original record and standards retained.
 - [Z3 v1.1 CSV](z3-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
 - [Manus v1.1 CSV](manus-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
@@ -77,9 +77,9 @@ Current Cody results: **38 complete entries; 3 incomplete; 407 numeric bars and 
 | 36 | [Community Without the Host (bounded Q&A community)](../products/entries/36-community-without-the-host-bounded-q-a-community.md) — archive | 10/20; 1 zero | U (9/10); 1 zero | U (8/10) | U (9/10) | U (9/10) |
 | 37 | [Product Ingredient Company (B2B2C layer)](../products/entries/37-product-ingredient-company-b2b2c-layer.md) — exploration | 15/20 | U (9/10) | U (9/10) | U (2/10) | U (9/10) |
 | 38 | [Micro-brand factory (AcreageReady / ExitReady / etc.)](../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) — exploration | 13/20 | U (5/10) | U (7/10) | U (3/10) | U (7/10) |
-| 39 | [Collective Purchasing Engine](../products/entries/39-collective-purchasing-engine.md) — exploration | U (9/10) | U (4/10) | U (8/10) | U (2/10) | U (6/10) |
-| 40 | [Benefits Factory](../products/entries/40-benefits-factory.md) — exploration | U (9/10) | U (8/10) | U (8/10) | U (3/10) | U (8/10) |
-| 41 | [Micro-product Holding Company](../products/entries/41-micro-product-holding-company.md) — exploration | U (9/10) | U (5/10) | U (7/10) | U (1/10) | U (4/10) |
+| 39 | [Collective Purchasing Engine](../products/entries/39-collective-purchasing-engine.md) — exploration | 15/20 | U (4/10) | U (8/10) | U (2/10) | U (6/10) |
+| 40 | [Benefits Factory](../products/entries/40-benefits-factory.md) — exploration | 15/20 | U (8/10) | U (8/10) | U (3/10) | U (8/10) |
+| 41 | [Micro-product Holding Company](../products/entries/41-micro-product-holding-company.md) — exploration | 13/20 | U (5/10) | U (7/10) | U (1/10) | U (4/10) |
 
 ## Historical evidence-standard assessments
 
