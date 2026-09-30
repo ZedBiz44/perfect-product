@@ -31,7 +31,7 @@
 | Bar | Score | Confidence | Reason | Basis | Main limitation |
 | --- | --- | --- | --- | --- | --- |
 | B1 Pays more than once | 1 | M | Irregular DIY ladder purchases; no recurring mechanism in the funnel itself. | inference | No recurrence. |
-| B2 Build once, sell many | 2 | M | Automated assessment built once and run many times; reuse real; economics hinge on conversion, support light. | inference | Conversion unproven. |
+| B2 Build once, sell many | 1 | M | Automated assessment built once and run many times; reuse real, but the funnel's economics hinge on unproven conversion -- a meaningful limitation. | inference | Conversion unproven. |
 | B3 Creates Gold | 1 | M | Assessment data accumulates modestly; limited ownable asset. | inference | Limited. |
 | B4 Runs without you | 0 | H | The funnel's pass-path leads to consulting, which Jack ruled out (no-retainers rule) -- the described value path conflicts with founder constraints. | source | Documented conflict. |
 | B5 Satisfaction shape | 1 | M | The gate is a credible disqualifying tool; the promised satisfaction (right-fit routing) is plausible but the pass-path dead-ends. | source | Pass-path dead end. |
@@ -42,7 +42,7 @@
 | B10 Newton's Rule | 1 | M | More assessments sharpen disqualification (modest data benefit); limited. | assumption | Limited. |
 
 ## Coverage, total, zeros
-- Coverage: 8/10 bars assessed | Concept-fit total: blank (incomplete) | Twos: 2 | Zeros: 1
+- Coverage: 8/10 bars assessed | Concept-fit total: blank (incomplete) | Twos: 1 | Zeros: 1
 - Every zero: B4
 
 ## Sensitivities
