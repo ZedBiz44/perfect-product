@@ -6,17 +6,12 @@
 
 ## How agents score
 
-1. Read the [Perfect Product Rubric](../framework/perfect-product-rubric.md) (and [perfect-product.md](../framework/perfect-product.md) as needed). **Score only when Jack or the task asks.** Exploration and cataloging do not require scores.
-2. Use **U / 0 / 1 / 2** exactly as the rubric defines:
-   - **U (Unknown)** — insufficient evidence. Not a numeric score. Use freely; do not invent willingness-to-pay or distribution proof. A named catalog hypothesis alone is U on bars that need evidence (especially **6 No Brainer**, **8 Natural route to buyers**, and often **5 / 7 / 10**).
-   - **0 (Fail)** — documented conflict with a bar or founder constraint (e.g. host-community treadmill, writing-dependent Field Notes for Jack, retainer/client-work shaped offers that fail build-once / runs-without-you).
-   - **1 (Partial)** — evidenced partial fit from repo docs (entries, hopper, definition-feedback, current-direction, exploration-gaps, archives).
-   - **2 (Pass)** — evidenced fit with citation to repo files or known working examples tied to the idea.
-3. Save each dated independent assessment in its own reviewer folder, with a summary, CSV and individual sheets. Grok's original [CSV](index.csv) and [sheets](sheets/) retain their existing paths. Use [templates/product-evaluation.md](../../templates/product-evaluation.md). Prefill name, buyer/price from the catalog entry when known; name primary satisfaction shape from the catalog README when listed.
-4. **Incomplete = no /20.** If any bar is U, record assessed coverage (e.g. 6/10), leave total blank, and do **not** invent a fake total. Documented zeros still show.
-5. The [shared leaderboard](leaderboard.md) compares the independent assessments. Completed individual assessments may be ranked by total, then passes; incomplete ones show coverage without /20 totals. A combined ranking method is still proposed; do not average Unknowns as zeros or treat reviewer agreement as new buyer evidence.
-6. Scoring **does not** change catalog Type or Status. Archives and dead-but-ingredient ideas stay in sheets; zeros are allowed; complete or incomplete as evidence allows.
-7. **Proof gate:** all ten assessed, **no zeros**, at least **seven Passes** (therefore **≥17/20**), and founder constraints still hold → eligible for **commercial proof consideration**. That is **not** product approval and **not** permission to start testing or building.
+1. **Review the [Perfect Product Scoring Guide — Assumptions and Interpretation](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) first.** It is the maintained guide for concept scoring, reasonable assumptions, confidence, and interpretation of all ten bars.
+2. Read the [Perfect Product Rubric](../framework/perfect-product-rubric.md) and [definition](../framework/perfect-product.md) for the ten criteria. The scoring guide governs concept-stage interpretation where older evidence-only instructions differ. Score only when Jack or the task asks.
+3. Save each dated independent assessment in its own reviewer folder with a summary, CSV and individual sheets. Record the guide version, assessed product version, assumptions, reasons and confidence as required by the guide. Preserve earlier assessments; Grok's original [CSV](index.csv) and [sheets](sheets/) retain their existing paths.
+4. Use the [shared leaderboard](leaderboard.md) to compare assessments. Identify concept-fit assessments separately from earlier evidence assessments; follow the guide before reconciling or combining their scores.
+
+The guide is maintained in Notion. This ledger links to it rather than maintaining a second copy of the procedure. Existing scores and catalog statuses are unchanged.
 
 ## Files
 
