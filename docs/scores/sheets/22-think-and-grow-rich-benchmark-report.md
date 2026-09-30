@@ -1,53 +1,69 @@
 # Evaluation: Think and Grow Rich (benchmark report)
 
-[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/22-think-and-grow-rich-benchmark-report.md) · [Rubric](../../framework/perfect-product-rubric.md)
+[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/22-think-and-grow-rich-benchmark-report.md) · [Rubric](../../framework/perfect-product-rubric.md) · [Scoring guide v1.2](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)
 
 - **Candidate:** Think and Grow Rich (benchmark report)
-- **Date / owner:** 2026-09-29 (America/Edmonton) / Perfect Product (Grok)
+- **Date / owner:** Revised 2026-09-30 (America/Edmonton) / Perfect Product (Grok). First pass 2026-09-29.
+- **Revision:** revised after catalog clarifications (WC1). Guide v1.2. Rubric v1.1 commit `8be7c589928ef681577baaa765a90583d824f128`. Catalog source `d18a327a597f6b9292b5cacc94448934ce90cacb`.
 - **Status:** hopper
 - **Group:** Ingredients & add-ons
-- **Primary satisfaction shape:** Trophy (hypothesis)
-- **Supporting satisfaction shapes (optional):** —
-- **Buyer and payer:** Agency/community owners wanting proof; upgrade for Shovel/Trophy products
-- **Existing audience or distribution channel:** Ingredient into another product, not main offer (Grok verdict).
+- **Primary satisfaction shape:** Tool in the hand
+- **Supporting satisfaction shapes (optional):** Trophy hypothesis weakened; benchmark is a decision tool
+- **Buyer and payer:** Assess a $79 quarterly benchmark report as an optional layer for agency subscribers, using permissioned comparable campaign outcomes rather than invented results.
+- **Existing audience or distribution channel:** Offer the report to an established host product's subscriber base with a sample comparison; this assumes a host and permissioned dataset actually develop.
 - **One-sentence promise:** Outcome-evidence report of what actually works across businesses — stickiness ingredient.
 - **Immediate buying or usage moment:** Retention / proof moment.
-- **Price and repeat-purchase reason:** Included in tier, or ~$49–$99/report, or ~$199 annual (hypothesis)
-- **Evidence links:** catalog entry `22-think-and-grow-rich-benchmark-report.md`; sources cited per bar below
+- **Price and repeat-purchase reason:** Working price stays the entry's recorded hypothesis. Repeat mechanism: New quarterly observations can inform recurring planning, giving buyers a reason to pay again if the data remains relevant. No new willingness-to-pay figure is claimed.
+- **Evidence links:** catalog entry `22-think-and-grow-rich-benchmark-report.md` working concept WC1; [assessment context](../../products/assessment-context.md). Prior scores were the 2026-09-29 evidence-standard pass.
 
-## Ten-bar assessment (first ranking pass)
+## Ten-bar assessment (revised after catalog clarifications)
 
-Follow the [rubric](../../framework/perfect-product-rubric.md): U = Unknown, 0 = documented conflict, 1 = evidenced partial fit, 2 = evidenced fit. Leave the total blank while any bar is U. Proof consideration requires all ten assessed, no zeros, at least seven Passes (17/20 minimum), and founder fit; it does not authorize testing or building.
+Concept fit under guide v1.2 and rubric v1.1. 2 = credible specific mechanism under the entry's labelled assumptions; 1 = partial; 0 = the described model conflicts; U only if a missing detail blocks judgment and assumptions cannot resolve it. Unsold is not U. Prices are hypotheses, not measured willingness to pay. Catalog Type/Status unchanged.
 
 ```
 Idea: Think and Grow Rich (benchmark report)
-Buyer: Agency/community owners wanting proof; upgrade for Shovel/Trophy products
-Primary shape (bar 5): Trophy (hypothesis)
-Supporting shapes: —
-Date / sources: 2026-09-29; catalog entry + cited repo docs
+Buyer: Assess a $79 quarterly benchmark report as an optional layer for agency subscribers, using permissioned comparable campaign outcomes rather than invented results.
+Primary shape (bar 5): Tool in the hand
+Supporting shapes: Trophy hypothesis weakened; benchmark is a decision tool
+Date / sources: revised 2026-09-30 America/Edmonton after catalog clarifications; WC1; entry 22-think-and-grow-rich-benchmark-report.md
 Use U or 0/1/2 per bar; U is not zero.
 
-1 Pays more than once:  1 / 2 — evidence: Recurring/annual report plausible; as ingredient may be one-time upgrade.
-2 Build once, sell many:1 / 2 — evidence: Report template reusable but needs real outcome data per wave — data collection creep risk.
-3 Creates Gold:         1 / 2 — evidence: Dataset/IP could be gold if proprietary results exist; none in repo yet (entry notes).
-4 Runs without you:     1 / 2 — evidence: Could be productized; today no production system.
-5 Satisfaction shape:   U / 2 — evidence: Trophy hypothesized; untested.
-6 No Brainer:           U / 2 — evidence: No WTP; no proprietary dataset.
-7 C3PO (AI does the work):U / 2 — evidence: Aggregation could be AI-assisted; not designed as AI-core.
-8 Natural route to buyers:U / 2 — evidence: No standalone distribution; rides another product.
-9 Easy to get the value:U / 2 — evidence: Ease depends on report design — not evidenced.
-10 Newton's Rule:       U / 2 — evidence: Dataset network effects hypothesized only.
+1 Pays more than once: 2 / 2 — Medium — assumption: New quarterly observations can inform recurring planning, giving buyers a reason to pay again if the data remains relevant. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+2 Build once, sell many: 1 / 2 — Medium — assumption: One report serves many buyers, but obtaining permission, standardizing records and checking comparability create significant recurring production costs. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+3 Creates Gold: 2 / 2 — Medium — assumption: Rights-cleared observations, taxonomy and analysis methods form accumulating assets; ownership and reuse permissions are part of the working design. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+4 Runs without you: 2 / 2 — Medium — assumption: A research operator manages collection and an analyst checks interpretation. Jack handles occasional standards decisions, assumed 0–2 hours/week. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+5 Satisfaction shape: 1 / 2 — Medium — assumption: An owner identifies a useful peer comparison and changes a decision; the original Trophy hypothesis is weaker because a benchmark alone confers no earned status. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+6 No Brainer: 1 / 2 — Low — assumption: Quarterly planning creates a purchase moment, but $79 requires relevant trustworthy comparisons that free reports cannot supply. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+7 C3PO (AI does the work): 1 / 2 — Medium — assumption: AI cleans, groups and drafts findings; humans must assess comparability and misleading causal claims for each dataset and report. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+8 Natural route to buyers: 2 / 2 — Low — assumption: Offer the report to an established host product's subscriber base with a sample comparison; this assumes a host and permissioned dataset actually develop. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+9 Easy to get the value: 1 / 2 — Medium — assumption: Select the relevant segment, read the comparison, check whether it applies and choose an action. Data literacy and implementation effort remain. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+10 Newton's Rule: 2 / 2 — Medium — assumption: Additional permissioned records can improve segment coverage and usefulness, while distribution of each completed report has low incremental cost. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
 
-ASSESSED: 4 / 10
-UNKNOWN BARS / missing evidence: 5 (Satisfaction shape), 6 (No Brainer), 7 (C3PO (AI does the work)), 8 (Natural route to buyers), 9 (Easy to get the value), 10 (Newton's Rule)
-TOTAL:  / 20 (leave blank if any U) — INCOMPLETE
+ASSESSED: 10 / 10
+UNKNOWN BARS / missing evidence: none — labelled WC assumptions were sufficient to judge every bar
+TOTAL: 15 / 20 — concept fit
 DOCUMENTED ZEROS / conflicts: none
-PASSES: 0 / 10
-Eligible for proof consideration? No — incomplete and/or below gate (17/20 + seven Passes + no zeros + founder fit)
-Verdict / reasoning: Stickiness ingredient only; incomplete. Not main business (`ingredients.md`, Grok verdict).
-Next exploration question: Where does the proprietary outcome data come from without custom client work?
+PASSES: 5 / 10
+Eligible for proof consideration? No — below 17/20 with seven strong fits
+Verdict / reasoning: Concept-fit 15/20 from labelled WC1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+Next exploration question: Confirm or replace the labelled payer, price, scope and channel before any launch. No supplier, partner or customer commitment is implied.
 Any proof work requires a separate request.
 ```
+
+## Changelog (2026-09-29 → 2026-09-30)
+
+Prior scores stay visible. Only bars that moved are listed.
+
+- Bar 1 Pays more than once: 1 → 2 — new quarterly observations are a repeat reason if the comparison stays relevant
+- Bar 3 Creates Gold: 1 → 2 — Rights-cleared observations, taxonomy and analysis methods form accumulating assets
+- Bar 4 Runs without you: 1 → 2 — A research operator manages collection and an analyst checks interpretation. Jack handles occasional standards decisions, assumed 0–2 hours/week.
+- Bar 5 Satisfaction shape: U → 1 — An owner identifies a useful peer comparison and changes a decision
+- Bar 6 No Brainer: U → 1 — Quarterly planning creates a purchase moment, but $79 requires relevant trustworthy comparisons that free reports cannot supply.
+- Bar 7 C3PO (AI does the work): U → 1 — AI cleans, groups and drafts findings
+- Bar 8 Natural route to buyers: U → 2 — Offer the report to an established host product's subscriber base with a sample comparison
+- Bar 9 Easy to get the value: U → 1 — Select the relevant segment, read the comparison, check whether it applies and choose an action. Data literacy and implementation effort remain.
+- Bar 10 Newton's Rule: U → 2 — Additional permissioned records can improve segment coverage and usefulness, while distribution of each completed report has low incremental cost.
+- Shape: Trophy (hypothesis) → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
 
 ## Supporting traits (not additional scored bars)
 
@@ -60,23 +76,23 @@ Any proof work requires a separate request.
 
 ## Satisfaction test
 
-Named shape: **Trophy (hypothesis)**. Buyer experience not commercially tested in-repo for this offer; bar 5 scored per rubric evidence rules (U when untested unless noted).
+Named working shape: **Tool in the hand**. An owner identifies a useful peer comparison and changes a decision; the original Trophy hypothesis is weaker because a benchmark alone confers no earned status. This is a design judgment from the labelled scenario, not an observed customer response. Working shape for this revision: Tool in the hand (WC). Prior sheet shape: Trophy (hypothesis).
 
 ## Buyer and operating evidence
 
-- Pain and financial stakes: see catalog entry; prices are hypotheses.
-- Budget, time, reachability, and understanding: Ingredient into another product, not main offer (Grok verdict).
-- Current alternatives, including free options: noted per bar (esp. free AI/PLR/GHL practice where relevant).
-- What the buyer has actually paid for: not evidenced for this offer in-repo.
-- Delivery and reuse: Outcome-evidence report of what actually works across businesses — stickiness ingredient.
-- Founder hours, support burden, and customization boundary: see bars 2, 4, 7.
-- Reasons this could fail: Stickiness ingredient only; incomplete. Not main business (`ingredients.md`, Grok verdict).
-- Related rejected ideas and how this differs: see catalog Related ideas + ingredients.md.
+- Pain and financial stakes: Quarterly planning creates a purchase moment, but $79 requires relevant trustworthy comparisons that free reports cannot supply.
+- Budget, time, reachability, and understanding: Offer the report to an established host product's subscriber base with a sample comparison; this assumes a host and permissioned dataset actually develop.
+- Current alternatives, including free options: stated inside the buying-trigger assumption; not a measured conversion.
+- What the buyer has actually paid for: not evidenced. The working price is the catalog hypothesis only.
+- Delivery and reuse: One report serves many buyers, but obtaining permission, standardizing records and checking comparability create significant recurring production costs.
+- Founder hours, support burden, and customization boundary: A research operator manages collection and an analyst checks interpretation. Jack handles occasional standards decisions, assumed 0–2 hours/week.
+- Reasons this could fail: Concept-fit 15/20 from labelled WC1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+- Related rejected ideas and how this differs: catalog Related ideas. A numeric score does not change archive or dead-but-ingredient status.
 
 ## Proof and decision (complete only when requested)
 
-- Smallest proposed paid test: not requested this pass.
+- Smallest proposed paid test: not requested this revision.
 - Success / failure criteria: —
 - Observed results: —
-- Decision, decision-maker, date, and source: First ranking pass only — Perfect Product (Grok), 2026-09-29. Scoring does not change catalog Type/Status.
-- Next action: Where does the proprietary outcome data come from without custom client work?
+- Decision, decision-maker, date, and source: Revised after catalog clarifications — Perfect Product (Grok), 2026-09-30 (America/Edmonton). Scoring does not change catalog Type/Status. Notion was not updated.
+- Next action: Confirm or replace the labelled payer, price, scope and channel before any launch.
