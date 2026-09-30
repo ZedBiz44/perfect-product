@@ -1,0 +1,42 @@
+# 34. Shovel + Sponsor layer - Mary's assessment
+
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/34-shovel-sponsor-layer.md) · [Grok's sheet](../../sheets/34-shovel-sponsor-layer.md) · [Cody's sheet](../cody-2026-09-30/sheets/34-shovel-sponsor-layer.md)
+
+- **Buyer and payer:** Sponsors pay; owners distribute; members receive value
+- **Price hypothesis (unvalidated):** Sponsor ~$500-$5,000/mo; owners free/$0-$19 - unvalidated
+- **Type / Status:** Ingredients & add-ons / exploration - unchanged by scoring.
+- **Primary satisfaction shape:** Six Pack of Beer Desire
+- **Supporting shapes:** -
+- **Date / scorer:** 2026-09-30 / Mary (independent assessment; scored from the evidence, not from Grok's or Cody's numbers)
+- **Catalog entry:** `docs/products/entries/34-shovel-sponsor-layer.md`
+
+## Ten-bar assessment (U = Unknown, 0 = documented conflict, 1 = evidenced partial fit, 2 = evidenced fit)
+
+1. Pays more than once: **1**/2 - sponsor ~$500-$5,000/mo (wild guess); owners free/$0-$19. Sponsor-side recurring named but hypothetical - partial.
+2. Build once, sell many: **1**/2 - rides Shovel's reusable production; derivative.
+3. Creates Gold: **1**/2 - rides Shovel's assets; partial.
+4. Runs without you: **1**/2 - rides Shovel's weekly production.
+5. Satisfaction shape: **U**/2 - missing: experience evidence.
+6. No Brainer: **U**/2 - missing: sponsor WTP ('wild guess').
+7. C3PO (AI does the work): **U**/2 - missing: AI-production evidence.
+8. Natural route to buyers: **U**/2 - missing: named sponsors.
+9. Easy to get the value: **U**/2 - missing: two-sided value delivery undescribed.
+10. Newton's Rule: **U**/2 - missing: scale evidence.
+
+ASSESSED: 4/10
+UNKNOWN BARS / missing evidence: 5, 6, 7, 8, 9, 10
+TOTAL: __/20 (leave blank: incomplete assessment)
+DOCUMENTED ZEROS / conflicts: none
+PASSES: 0/10
+Eligible for proof consideration? No - incomplete. (Requires all ten assessed, no zeros, >=7 passes, founder constraints holding.)
+
+## Next exploration question
+
+'Prove owner use first' (entry) - what is the smallest owner-use proof that would make a sponsor conversation honest?
+
+## Differences from other scorers
+
+Differs from Grok on bars: 1, 7.
+Differs from Cody on bars: 1.
+
+Grok gave bar 1 a 2; I give 1 - sponsor pricing is an explicit wild guess. Otherwise aligned.
