@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/10-gemini-c-board-of-directors-report.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/10-gemini-c-board-of-directors-report.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/10-gemini-c-board-of-directors-report.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/10-gemini-c-board-of-directors-report.md)
 
 ## Assessment identity and sources
 

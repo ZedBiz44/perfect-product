@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/17-client-retention-engine.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 12/20. No U was treated as zero.
-- Previous founder qualification: conflict; current: conflict.
-- Previous shortlist signal: No; current: No.
-- Bar 4, Runs without you: **1 → 2**. An operator handles accounts and agencies approve reports; Jack need not deliver each one.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI drafts narratives while people resolve individual facts every month.
-- Bar 8, Natural route to buyers: **U → 1**. Reporting educators have a possible referral route but weak differentiation incentives.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - Operator ownership improves founder independence on bar 4, but it does not revive the killed model or remove per-client reporting work.

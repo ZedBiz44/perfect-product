@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Marsha | Guide: v1.2 | Rubric: v1.1 | Catalog: WC1 / WC1.1
 
-[Scores ledger](../README.md) · [Current CSV](index.csv) · [Bar-by-bar change log](changes.csv) · [Earlier assessment, preserved](../marsha-2026-09-30/README.md)
+[Scores ledger](../README.md) · [Current CSV](index.csv)
 
 ## What changed
 
@@ -10,15 +10,13 @@ Jack requested reassessment after the catalog was expanded. I reviewed all 41 en
 
 - Catalog source: [`505cdcdfe92906b5621ee9f0f388354745c90c0f`](https://github.com/ZedBiz44/perfect-product/tree/505cdcdfe92906b5621ee9f0f388354745c90c0f/docs/products). WC1 for 01–38; WC1.1 for 39–41.
 - Same [rubric and definition pin](https://github.com/ZedBiz44/perfect-product/tree/8be7c589928ef681577baaa765a90583d824f128/docs/framework); [live guide v1.2](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) read September 30.
-- **41 complete totals; 410 numeric judgments; no U.** The earlier run had seven complete totals and 34 incomplete. The added payer, channel and task descriptions now permit conditional judgments; missing sales is not a reason for U.
-- **118 changed bar judgments across 40 entries**. Every unchanged bar was also rechecked. No old U was converted to zero.
-- Prior Marsha records are preserved. No other reviewer’s scores, catalog status or source description was changed.
+- **41 complete totals; 410 numeric judgments; no U.** The added payer, channel and task descriptions now permit conditional judgments; missing sales is not a reason for U.
 - This is Marsha’s separate reassessment of shared scenarios, not a blind review or an average of reviewer scores. The catalog author’s assumptions are not independently validated by my agreement.
 
 ## Main findings
 
 - Concrete shared products now score more cleanly: the review-request tool and one-job shelf each reach 18/20 under their capable-buyer, bounded-support assumptions. Member Night in a Box also reaches 18/20; normal staff hosting is the disclosed use, not an unexpected second project.
-- Member Wake-Up falls from 17 to 16: the same campaign can serve another cohort without another purchase. Its earlier assumed refill is not required by WC1.
+- Member Wake-Up scores 16: the same campaign can serve another cohort without another purchase. WC1 does not require another refill purchase.
 - Shovel and Recurring Customer-Value Kits both score 17, but weekly Jack calibration makes founder fit conditional. The themed-day add-on is also 17 and inherits that dependence.
 - Clearer per-customer human work reduces fit for reports, certificates, sponsor accounts and customized communications. Delegation can remove Jack from delivery without making the work reusable or AI-led.
 - Entry 39 is now a Vendasta-style reseller shelf (15/20); entry 40 is customized communications with optional partner offers (14/20); entry 41 is an event-planner-template acquisition scenario (13/20), not a blanket score for speakers or plugins.
@@ -92,56 +90,8 @@ Sorted by concept-fit total, then strong fits; equal values remain ties. Zeros, 
 | 41 | [Micro-product Holding Company](sheets/41-micro-product-holding-company.md) | 13/20 | 3/10 | conditional | No | — | exploration |
 | 36 | [Community Without the Host](sheets/36-community-without-the-host-bounded-q-a-community.md) | 11/20 | 1/10 | conflict | No | — | archive |
 
-## Before-and-after register
-
-Blank earlier totals mean at least one U, never zero. Same totals can conceal important qualification changes; use the individual sheets and change CSV.
-
-| ID | Previous total | Current total | Changed bars | Current qualification |
-| --- | --- | --- | --- | --- |
-| [01](sheets/01-shovel-your-biz-shit.md) | 17/20 | 17/20 | None | conditional |
-| [02](sheets/02-shovel-member-action-unit.md) | 17/20 | 16/20 | 9 | conditional |
-| [03](sheets/03-door-opener.md) | Incomplete | 16/20 | 1,7,8 | holds |
-| [04](sheets/04-save-kit.md) | Incomplete | 14/20 | 7,8,10 | conditional |
-| [05](sheets/05-cash-this-week.md) | Incomplete | 15/20 | 7,8 | conditional |
-| [06](sheets/06-platform-weather.md) | Incomplete | 17/20 | 2,6,8,9 | holds |
-| [07](sheets/07-rural-property-buyer-system.md) | Incomplete | 14/20 | 7,8 | holds |
-| [08](sheets/08-business-sale-digital-readiness-system.md) | Incomplete | 16/20 | 7,8 | holds |
-| [09](sheets/09-member-wake-up-campaign-4-week.md) | 17/20 | 16/20 | 1 | holds |
-| [10](sheets/10-gemini-c-board-of-directors-report.md) | Incomplete | 12/20 | 2,7,8 | conditional |
-| [11](sheets/11-new-coat-local-business-refresh-kits.md) | Incomplete | 17/20 | 7,8 | holds |
-| [12](sheets/12-member-night-in-a-box.md) | Incomplete | 18/20 | 7,8 | holds |
-| [13](sheets/13-seasonal-harvest-campaigns-agency.md) | Incomplete | 17/20 | 7,8 | holds |
-| [14](sheets/14-one-job-local-marketing-tools.md) | Incomplete | 18/20 | 7,9 | holds |
-| [15](sheets/15-no-lead-left-behind-ghl-agency-kit.md) | Incomplete | 15/20 | 7 | conflict |
-| [16](sheets/16-field-notes-practitioner-briefing.md) | 15/20 | 14/20 | 4 | conflict |
-| [17](sheets/17-client-retention-engine.md) | Incomplete | 12/20 | 4,7,8 | conflict |
-| [18](sheets/18-award-submission-factory.md) | Incomplete | 10/20 | 4,5,8 | conflict |
-| [19](sheets/19-wholesale-shelf-generic-kits.md) | Incomplete | 15/20 | 3,7,8 | conflict |
-| [20](sheets/20-recurring-customer-value-kits-weekly-os.md) | 17/20 | 17/20 | 4,9 | conditional |
-| [21](sheets/21-shovel-themed-day-engagement-kit.md) | 17/20 | 17/20 | 5,9 | conditional |
-| [22](sheets/22-think-and-grow-rich-benchmark-report.md) | Incomplete | 16/20 | 1,5,7,8 | conditional |
-| [23](sheets/23-sponsor-layer-on-weekly-item.md) | Incomplete | 14/20 | 5,7,8 | conditional |
-| [24](sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md) | Incomplete | 17/20 | 8 | holds |
-| [25](sheets/25-client-action-layer.md) | Incomplete | 15/20 | 4,5,8 | conditional |
-| [26](sheets/26-gemini-a-ai-mentors-in-community.md) | Incomplete | 10/20 | 1,4,6,7 | conflict |
-| [27](sheets/27-gemini-b-shovel-proof-gate-funnel.md) | Incomplete | 8/20 | 1,2,4,6,7,8 | conflict |
-| [28](sheets/28-local-presence-score-certificate.md) | Incomplete | 14/20 | 2,7,8,9 | holds |
-| [29](sheets/29-peer-circle-operating-system.md) | Incomplete | 16/20 | 7,8,10 | holds |
-| [30](sheets/30-shovel-think-and-grow-rich-stickiness.md) | 14/20 | 15/20 | 8 | conditional |
-| [31](sheets/31-shovel-sponsor-layer.md) | Incomplete | 13/20 | 7,8 | conditional |
-| [32](sheets/32-door-opener-niche-evidence-pack.md) | Incomplete | 14/20 | 2,7,8 | holds |
-| [33](sheets/33-marys-one-job-shelf.md) | Incomplete | 18/20 | 1,5,6,7,9 | holds |
-| [34](sheets/34-agency-no-store.md) | Incomplete | 17/20 | 1,5,6,7,9,10 | holds |
-| [35](sheets/35-product-factory-contributor-syndicate.md) | Incomplete | 14/20 | 1,4,5,6,8,9,10 | conditional |
-| [36](sheets/36-community-without-the-host-bounded-q-a-community.md) | Incomplete | 11/20 | 6 | conflict |
-| [37](sheets/37-product-ingredient-company-b2b2c-layer.md) | Incomplete | 15/20 | 5,10 | conditional |
-| [38](sheets/38-micro-brand-factory-acreageready-exitready-etc.md) | Incomplete | 13/20 | 4,5,6,9 | conditional |
-| [39](sheets/39-collective-purchasing-engine.md) | Incomplete | 15/20 | 1,4,6,7,8 | conditional |
-| [40](sheets/40-benefits-factory.md) | Incomplete | 14/20 | 2,6,7,10 | conditional |
-| [41](sheets/41-micro-product-holding-company.md) | Incomplete | 13/20 | 1,2,5,6,7,9 | conditional |
-
 ## Scope and remaining uncertainty
 
 No partner access, live margin, automation quality, renewal, customer outcome or acquisition deal was verified. Working prices remain hypotheses, and unspecified currency stays unspecified. Operator-hour estimates are not agreed workloads. Commercial use requires resolving the material conditions recorded per bar. The award scenario is explicitly conditional on a submission-accepting award; the original GHL award target still fails. Templates, speaking businesses and WordPress plugins require separate target-level acquisition reviews.
 
-Only Marsha’s new assessment, its historical-navigation note, and shared ledger navigation/comparison are updated. No product is selected, revived, built, sold or approved by this review.
+No product is selected, revived, built, sold or approved by this review.

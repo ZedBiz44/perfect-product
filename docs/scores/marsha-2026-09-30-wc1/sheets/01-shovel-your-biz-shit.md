@@ -45,15 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/01-shovel-your-biz-shit.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: 17/20; current total: 17/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: conditional.
-- Previous shortlist signal: No; current: No.
-- All ten numeric judgments remain unchanged; reasons, scenario and source version have been rechecked.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - Weekly selection still requires Jack; an operator handles delivery, not the practical editorial judgment.

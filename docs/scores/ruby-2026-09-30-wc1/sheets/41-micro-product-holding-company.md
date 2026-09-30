@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1.1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/41-micro-product-holding-company.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/045e1c7a042eddb0c71ef19a6cdb8d07b20611bb/docs/products/entries/41-micro-product-holding-company.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/41-micro-product-holding-company.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/41-micro-product-holding-company.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/045e1c7a042eddb0c71ef19a6cdb8d07b20611bb/docs/products/entries/41-micro-product-holding-company.md)
 
 ## Assessment identity and sources
 

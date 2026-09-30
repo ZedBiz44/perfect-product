@@ -63,13 +63,3 @@
 ## Overall interpretation
 WC1 is honest about the human cost in this model: per-business evidence verification and appeals are material, which moves B2 and B7 down together. What remains strong is the structure -- annual recertification (B1=2), an ownable Trophy shape (B5=2), and a data-improves-with-scale story (B10=2). The open question is credibility, which only publishing the standard can answer.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 26 -> new v2 ID 28)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 1 2 2 1 2 1 1 2
-New bars: 2 1 1 2 2 1 1 1 1 2
-
-- b2: 2->1 -- WC1 detail: verifying evidence, disputed scores and appeals add per-business work.
-- b7: 2->1 -- WC1 detail: a human verifies contested or material facts for each business.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

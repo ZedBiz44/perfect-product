@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — each buyer's inputs need substantive human plausibility checks
-- Bar 3 Creates Gold: 1 → 2 — intake, rules and report system transfer; confidential answers do not
-- Bar 5 Satisfaction shape: U → 1 — The buyer gets a clearer choice and next action, but a report can become another unread document and does not deliver the business outcome itself.
-- Bar 6 No Brainer: U → 1 — A stuck decision provides a trigger
-- Bar 7 C3PO (AI does the work): 2 → 1 — per-buyer analyst review is material, so this is not a shared-pack 2
-- Bar 8 Natural route to buyers: U → 1 — Bookkeepers or business advisers can refer a fixed report for referral income while retaining advisory relationships
-- Bar 10 Newton's Rule: U → 1 — Templates and software spread fixed cost, but per-report analyst review limits the scale benefit and must be priced into margins.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

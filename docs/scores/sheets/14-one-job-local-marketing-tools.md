@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — tool IP, niche variants and purchaser list can transfer
-- Bar 4 Runs without you: 1 → 2 — operator handles releases; Jack is specification and exceptions
-- Bar 5 Satisfaction shape: U → 2 — Owner generates a usable review request and puts it into the customer journey
-- Bar 6 No Brainer: U → 1 — A thin or ageing review profile is a trigger, but free review links and platform tools compete with the $99 kit.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts tailored requests and instructions from structured inputs
-- Bar 8 Natural route to buyers: U → 1 — Website providers and local-business educators could recommend the kit for a referral share
-- Bar 9 Easy to get the value: 1 → 2 — enter details, generate, test and place; ordinary website access assumed
-- Bar 10 Newton's Rule: U → 2 — One supported tool serves more businesses
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

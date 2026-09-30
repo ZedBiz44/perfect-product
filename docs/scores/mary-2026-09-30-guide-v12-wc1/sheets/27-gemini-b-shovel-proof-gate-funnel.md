@@ -61,14 +61,3 @@
 ## Overall interpretation
 WC1 resolves the earlier U bars (B6, B8) with the $19 DIY logic and partner-triage route, so the assessment is now complete at 9/20 -- but it also confirms the dead end: the money is in Jack-led consulting, which conflicts with the no-client-work constraint (B4=0), and the paid fulfillment is human (B7=1). The diagnostic is a fine lead magnet; as a product path it is closed.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 20 -> new v2 ID 27)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 1 1 0 1 U 2 U 1 1
-New bars: 1 1 1 0 1 1 1 1 1 1
-
-- b6: U->1 -- WC1 detail: a $19 DIY purchase for an immediate bottleneck is assessable buying logic, capped by artificial exclusion.
-- b7: 2->1 -- WC1 detail: subsequent consulting relies on human judgment per client.
-- b8: U->1 -- WC1 detail: partner educators can share the diagnostic for triage/referral; the funnel generates no traffic itself.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

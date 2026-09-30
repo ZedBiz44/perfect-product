@@ -62,12 +62,3 @@
 ## Overall interpretation
 Every bar is 1: a coherent, bounded add-on with no structural strength and no structural flaw. WC1 makes the economics explicit -- the business is the mapping cost, and per-course mapping plus maintenance is what keeps B2, B7 and B10 at partial. Honest 10/20.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 13 -> new v2 ID 25)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 1 1 1 1 1 1 1
-New bars: 1 1 1 1 1 1 1 1 1 1
-
-- b2: 2->1 -- WC1 detail: course mapping and keeping tasks aligned with changing lessons create meaningful setup and maintenance.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

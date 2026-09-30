@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — consent, collection and normalization add cost beyond copying the weekly pack
-- Bar 3 Creates Gold: 1 → 2 — rights-cleared outcome records add a transferable analytical asset
-- Bar 5 Satisfaction shape: U → 2 — Owner publishes a useful action, then sees how its result compares with relevant peers
-- Bar 6 No Brainer: U → 1 — A renewal or planning moment can justify the extra $20, but comparisons must be relevant enough to beat informal peer discussion.
-- Bar 8 Natural route to buyers: U → 2 — Offer a sample comparison and upgrade inside the base product's delivery and checkout
-- Bar 10 Newton's Rule: U → 2 — More comparable records can improve relevance while report costs spread across subscribers
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

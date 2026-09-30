@@ -61,12 +61,3 @@
 ## Overall interpretation
 The archived historical model: bounded Q&A with Jack's presence as the core promise. WC1 is explicit that even the bounded 1-2 hrs/week was not sustainable, so B4=0 and the archive status is confirmed. Compare #29, where the same idea with a licensee as host scores B4=2.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 38 -> new v2 ID 36)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 1 0 1 1 1 U 1 1
-New bars: 2 2 1 0 1 1 1 1 1 1
-
-- b6: U->1 -- WC1 detail: the bounded window supplies an assessable trigger, capped by limited urgency.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

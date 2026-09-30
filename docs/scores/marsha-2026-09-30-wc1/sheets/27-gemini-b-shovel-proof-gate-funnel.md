@@ -45,20 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 8/20. No U was treated as zero.
-- Previous founder qualification: conflict; current: conflict.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **U → 1**. DIY follow-ons and advisory work offer limited revenue beyond the free gate.
-- Bar 2, Build once, sell many: **1 → 0**. Reusing intake does not remove substantial new consulting work for each paid client.
-- Bar 4, Runs without you: **1 → 0**. Jack-led consulting is the promised paid delivery and does not run without him.
-- Bar 6, No Brainer: **U → 1**. A $19 DIY offer has plausible entry value but artificial exclusion adds none.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI contributes intake analysis while the paid advisory work remains human-led.
-- Bar 8, Natural route to buyers: **U → 1**. Partner educators can refer for triage value or income; the gate supplies no traffic itself.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1 explicitly chooses the consulting funnel. I score the paid path, not just the inexpensive free quiz: bespoke delivery and Jack-led advice fail bars 2 and 4.

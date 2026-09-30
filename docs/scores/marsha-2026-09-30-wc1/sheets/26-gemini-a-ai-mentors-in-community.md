@@ -45,18 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 10/20. No U was treated as zero.
-- Previous founder qualification: conflict; current: conflict.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **U → 2**. Continuing questions and interaction create a membership renewal mechanism.
-- Bar 4, Runs without you: **1 → 0**. The model retains Jack as the room’s strategic and social authority without a credible transfer of that promise.
-- Bar 6, No Brainer: **U → 1**. Free AI and existing rooms challenge the $49 membership.
-- Bar 7, C3PO (AI does the core work): **2 → 1**. AI answers routine questions while human moderation and culture remain substantial core work.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - This is still Jack’s own AI-mentor community, not the separately scored B2B peer-circle product. Naming moderators does not remove the founder-host problem.

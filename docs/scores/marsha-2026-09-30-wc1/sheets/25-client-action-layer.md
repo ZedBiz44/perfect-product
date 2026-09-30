@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/25-client-action-layer.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 15/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 4, Runs without you: **1 → 2**. An operator maintains mappings while creator staff handle students.
-- Bar 5, Satisfaction shape: **1 → 2**. A learner completing a concrete task gives the payer a credible usage result.
-- Bar 8, Natural route to buyers: **U → 1**. Platform implementers have reseller incentives, with course access and integration hurdles.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The course-company payer and no-coaching boundary clarify the model. Course mapping is still customer-specific work, so founder fit depends on keeping that work bounded.

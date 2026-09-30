@@ -45,19 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **Yes, conditional on the stated design assumptions; not selection or launch approval**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/33-marys-one-job-shelf.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 18/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: holds.
-- Previous shortlist signal: No; current: Yes.
-- Bar 1, Pays more than once: **1 → 2**. A broad ongoing local-business review-request need can sustain one-time buyers, with adjacent jobs adding repeats.
-- Bar 5, Satisfaction shape: **U → 2**. Completing a usable review-request setup provides immediate competence.
-- Bar 6, No Brainer: **U → 1**. Free instructions and native tools still challenge the $49 value.
-- Bar 7, C3PO (AI does the core work): **U → 2**. AI generates structured variants; humans check releases and exceptions.
-- Bar 9, Easy to get the value: **U → 2**. A capable buyer enters details, generates and tests the request through a bounded journey.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - This is the specified $49 review-request first item, not a score for any imaginable shelf. The selected local-operator job supports the broad one-time-buyer alternative.

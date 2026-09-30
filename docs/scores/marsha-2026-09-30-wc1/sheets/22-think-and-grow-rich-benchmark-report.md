@@ -45,18 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 16/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **1 → 2**. Fresh quarterly observations serve recurring planning decisions.
-- Bar 5, Satisfaction shape: **1 → 2**. A relevant comparison can equip a buyer to make a concrete planning choice.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI cleans and drafts while substantive human comparability judgment remains core to each dataset.
-- Bar 8, Natural route to buyers: **1 → 2**. An in-product sample and upgrade reach the assumed agency-subscriber host base directly.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The quarterly decision use and Tool-in-the-hand shape resolve the earlier vague Trophy interpretation. The host base and rights-cleared comparable data are assumptions, not existing assets.

@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — WC1 names transferable editions, list, brand and production if rights are assigned
-- Bar 5 Satisfaction shape: U → 1 — The owner feels relief when this week's useful post is ready
-- Bar 6 No Brainer: U → 1 — A quiet room before the next posting day creates a trigger, but $27 competes with free AI and the owner's own ideas
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI drafts the shared edition; human check is once per edition, not per owner
-- Bar 8 Natural route to buyers: U → 1 — Community consultants could offer a sample to owner clients for a referral share
-- Bar 9 Easy to get the value: 1 → 2 — labelled journey is buy, pick a post, short voice edit, publish the same week
-- Bar 10 Newton's Rule: U → 2 — More owners spread the same edition and review cost across more subscriptions
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

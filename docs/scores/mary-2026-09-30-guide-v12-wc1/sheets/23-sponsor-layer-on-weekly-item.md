@@ -63,12 +63,3 @@
 ## Overall interpretation
 Correctly framed as a later funding layer, not a business: every bar is 1 except B10, because the audience it monetizes does not exist yet. WC1 is explicit that this is a proposed placement, not a sold audience. The catalog's own note ('keep as later funding layer') is the right treatment.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 07 -> new v2 ID 23)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 1 1 1 1 1 1 1 1 2
-New bars: 1 1 1 1 1 1 1 1 1 2
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read (WC1 moves the working shape to Harvest Gala for the payer).
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

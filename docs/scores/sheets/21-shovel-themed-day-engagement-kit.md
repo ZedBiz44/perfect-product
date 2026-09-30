@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — theme library and bundle rights transfer with the host product
-- Bar 5 Satisfaction shape: U → 1 — The owner fills additional posting slots, but more posts may create noise instead of useful member actions.
-- Bar 6 No Brainer: U → 1 — An owner wanting a fuller week has a trigger, but the extra $15 competes with free prompts and may add unnecessary content.
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI drafts themed prompts and visual variants
-- Bar 8 Natural route to buyers: U → 2 — Offer a preview inside the base product's checkout and weekly delivery
-- Bar 9 Easy to get the value: 1 → 2 — Preview, add to subscription, receive the bundle, select relevant days and post. The owner can use it in the same week's schedule.
-- Bar 10 Newton's Rule: U → 2 — Shared theme production costs spread across add-on subscribers, with low incremental delivery cost if editions stay reusable.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

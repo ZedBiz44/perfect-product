@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — niche playbooks and buyer list are the owned asset, not Jack's sales time
-- Bar 4 Runs without you: 1 → 2 — agency staff sell; Jack is occasional product decisions at steady state
-- Bar 5 Satisfaction shape: U → 2 — The agency completes a small visible profile improvement and has a useful opening conversation
-- Bar 6 No Brainer: U → 1 — A weak prospect pipeline is a trigger, but free audits and agency experience make the $149 advantage harder to explain.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts niche research, scripts and improvement suggestions
-- Bar 8 Natural route to buyers: U → 1 — Agency trainers and niche newsletters can demonstrate the free win for affiliate income
-- Bar 10 Newton's Rule: U → 2 — More agencies share the cost of maintaining a niche pack
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

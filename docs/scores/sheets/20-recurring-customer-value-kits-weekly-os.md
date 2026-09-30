@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — editions, operator docs and association relationships are product assets
-- Bar 5 Satisfaction shape: U → 2 — Association staff can say 'this week is handled' after publishing a useful member action
-- Bar 6 No Brainer: U → 1 — The next member communication deadline supplies a trigger, but existing staff content and free AI compete with the $39 licence.
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI researches, drafts and formats one shared edition
-- Bar 8 Natural route to buyers: U → 1 — Association-management firms could include a sample in client services for referral income
-- Bar 9 Easy to get the value: 1 → 2 — Subscribe, choose an edition, add branding, schedule and share. Value begins with completing the weekly communication task.
-- Bar 10 Newton's Rule: U → 2 — Each new association shares the same edition cost
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

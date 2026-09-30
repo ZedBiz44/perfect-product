@@ -62,14 +62,3 @@
 ## Overall interpretation
 WC1.1's event-package anchor resolves the earlier unknowns: quarterly events plus a retainer give real recurrence (B1=2), and operator production with buyer-run events gives real founder independence (B4=2). The honest cap is per-customer customization (B2=1) -- every event still needs fresh production work. 14/20, no zeros.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 42 -> new v2 ID 40)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: U 2 1 U 1 1 1 1 1 2
-New bars: 2 1 2 2 1 1 1 1 1 2
-
-- b1: U->2 -- WC1.1 detail: quarterly events plus the retainer layer are concrete recurrence.
-- b2: 2->1 -- WC1.1 detail: per-customer customization costs recur per event.
-- b4: U->2 -- WC1.1 detail: operator produces, buyers run their own events; no founder in the path.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

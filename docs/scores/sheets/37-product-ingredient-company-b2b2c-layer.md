@@ -50,20 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — each new course still needs mapping and alignment
-- Bar 3 Creates Gold: 1 → 2 — delivery layer and assignable B2B licences accumulate
-- Bar 4 Runs without you: 1 → 2 — operator handles maps; Jack is occasional adviser
-- Bar 5 Satisfaction shape: U → 2 — A learner completes a useful course task and the course company sees its product being used
-- Bar 6 No Brainer: U → 1 — Low completion creates a business problem, but $297 needs useful improvement over existing course worksheets and reminders.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts mapped tasks and routine reminders
-- Bar 8 Natural route to buyers: U → 1 — Course implementers and platform consultants could resell for margin and stronger client results
-- Bar 9 Easy to get the value: U → 1 — Payer supplies outline, approves mapping, installs the layer and invites learners. This is a bounded setup project rather than instant value.
-- Shape: — (structural) → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

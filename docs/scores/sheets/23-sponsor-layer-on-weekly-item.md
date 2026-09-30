@@ -50,20 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 2 → 1 — sponsor renewal is conditional on budget and results, not an inherent subscription
-- Bar 3 Creates Gold: 1 → 2 — publication rights and assignable sponsor contracts accumulate
-- Bar 5 Satisfaction shape: U → 1 — Sponsor sees qualified voluntary visits over a campaign period
-- Bar 6 No Brainer: U → 1 — A vendor launch creates a trigger, but price cannot be attractive without plausible reach and relevance. This is a proposed placement, not a sold audience.
-- Bar 7 C3PO (AI does the work): U → 1 — AI drafts placement variants and reports
-- Bar 8 Natural route to buyers: U → 1 — Existing hosts could introduce relevant suppliers for a revenue share
-- Bar 9 Easy to get the value: U → 1 — Sponsor reviews inventory, agrees terms, approves message and waits for reporting. A useful placement requires coordination across both sides.
-- Bar 10 Newton's Rule: U → 2 — More participating hosts can increase niche reach and lower content cost per placement
-- Shape: Six Pack of Beer Desire → Harvest Gala — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

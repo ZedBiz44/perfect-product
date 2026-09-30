@@ -61,12 +61,3 @@
 ## Overall interpretation
 The WC1 scenario is explicit that author dependence is not removed, so B4 and B7 remain documented zeros and the rejection stands. WC1 also weakens B3: an archive built on Jack's personal judgment transfers less reliably. A score does not revive a rejected offer; catalog status unchanged.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 29 -> new v2 ID 16)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 2 0 1 1 0 1 2 1
-New bars: 2 2 1 0 1 1 0 1 2 1
-
-- b3: 2->1 -- WC1 detail: readers attracted to Jack's personal judgment make transfer to a different owner less reliable.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

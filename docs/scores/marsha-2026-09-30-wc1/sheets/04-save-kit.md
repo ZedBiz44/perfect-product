@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/04-save-kit.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 14/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI assembles narratives, while material factual checking recurs for every client.
-- Bar 8, Natural route to buyers: **U → 1**. Operations educators can refer, but reporting competition and data trust limit access.
-- Bar 10, Newton’s Rule: **2 → 1**. Common software helps, but account-specific failures keep support growing.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - Self-serve exports clarify the model, but routine account mapping and attribution checks limit AI, margins and scale; Jack’s recorded objection remains.

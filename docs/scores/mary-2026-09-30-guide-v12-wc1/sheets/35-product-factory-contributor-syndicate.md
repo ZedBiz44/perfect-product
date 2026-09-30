@@ -63,17 +63,3 @@
 ## Overall interpretation
 WC1's illustrative $99 kit resolves every previously-unscorable bar: the model is assessable end to end and lands as an honest all-1s profile (11/20) except B7=2. The factory is a two-sided structure whose value is the before/after of finishing -- unproven until one tool goes through the pipeline.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 37 -> new v2 ID 35)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 0 2 1 1 1 0 2 U U U
-New bars: 1 1 1 1 1 1 2 1 1 1
-
-- b1: 0->1 -- WC1 detail: contributor revenue share on ongoing box sales is assessable recurrence.
-- b2: U->1 -- WC1 detail: per-tool review, packaging and quality work cap build-once leverage.
-- b5: U->1 -- WC1 detail: split satisfaction between contributor and buyer.
-- b6: U->1 -- WC1 detail: $99 plus share vs self-publishing is the assessable B6 question.
-- b8: U->1 -- WC1 detail: practitioner communities as a plausible but unproven route.
-- b9: U->1 -- WC1 detail: value depends on finishing quality and box demand.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

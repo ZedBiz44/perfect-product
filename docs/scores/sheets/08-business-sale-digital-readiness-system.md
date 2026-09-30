@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — forms and licence relationships accumulate; seller data is not presumed IP
-- Bar 4 Runs without you: 1 → 2 — brokers own transactions; Jack is occasional commercial perspective
-- Bar 5 Satisfaction shape: U → 2 — A seller hands the broker an organized digital-asset inventory instead of scattered passwords and files
-- Bar 6 No Brainer: U → 1 — New seller onboarding supplies a clear moment, but brokers may already have adequate checklists
-- Bar 7 C3PO (AI does the work): U → 2 — AI organizes submitted inventory and drafts missing-item prompts
-- Bar 8 Natural route to buyers: U → 1 — Broker training networks and succession-adviser newsletters could distribute a sample for referral income
-- Bar 10 Newton's Rule: U → 2 — More broker licences spread maintenance cost
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

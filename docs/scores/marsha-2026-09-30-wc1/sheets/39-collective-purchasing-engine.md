@@ -45,19 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/39-collective-purchasing-engine.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 15/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **U → 2**. Recurring products, shelf access and repeated category purchases support multiple payment occasions.
-- Bar 4, Runs without you: **2 → 1**. Jack may still recruit or negotiate anchor suppliers until those relationships transfer.
-- Bar 6, No Brainer: **U → 2**. Lower sourcing costs, broader shelf and easier delivery make a clear purchase case if net savings exceed fees.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI maps and guides, but supplier selection, commercial terms and delivery exceptions remain substantive human work.
-- Bar 8, Natural route to buyers: **U → 1**. Educators and supplier networks have reseller incentives, but recruitment and partner acceptance remain hurdles.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1.1 supersedes the unspecified buying club: a Vendasta-style shelf with agency/reseller payers. Strong buying value is conditional on fees leaving genuine net savings and supplier terms protecting the client relationship.

@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 14/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: holds.
-- Previous shortlist signal: No; current: No.
-- Bar 2, Build once, sell many: **2 → 1**. Reusable scripts help, but credible case sourcing and licensing meaningfully constrain production economics.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI finds and drafts while humans substantively assess each new case’s validity and rights.
-- Bar 8, Natural route to buyers: **U → 1**. Niche trainers can demonstrate for margin but need trustworthy cases.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - A $199 sourced dental pack now has a task split and channel. Rights clearance and checking each new case remain material research work, even though the completed pack is shared.

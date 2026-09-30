@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — event formats and customer relationships transfer without Jack on stage
-- Bar 5 Satisfaction shape: U → 2 — Participants complete the shared activity and capture the event moment
-- Bar 6 No Brainer: U → 1 — An empty event-calendar slot is a trigger, but free event ideas compete and the owner still bears attendance risk.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts invitations, prompts and activity variations
-- Bar 8 Natural route to buyers: U → 1 — Chamber service newsletters or community consultants could distribute preview packs for margin
-- Bar 10 Newton's Rule: U → 2 — The same tested night serves more organizations
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

@@ -45,18 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/28-local-presence-score-certificate.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 14/20. No U was treated as zero.
-- Previous founder qualification: holds; current: holds.
-- Previous shortlist signal: No; current: No.
-- Bar 2, Build once, sell many: **2 → 1**. Common scoring reuses but verification, disputes and appeals add per-business costs.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI collects and proposes scores while humans verify material facts for each business.
-- Bar 8, Natural route to buyers: **U → 1**. Trainers and chamber teams have margin or member-value incentives, subject to issuer trust.
-- Bar 9, Easy to get the value: **2 → 1**. Corrections and evidence gathering can delay the usable result.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1 now includes per-business evidence checks and appeals rather than a licence holder doing all the work. I include that burden in reuse, AI and buyer effort.

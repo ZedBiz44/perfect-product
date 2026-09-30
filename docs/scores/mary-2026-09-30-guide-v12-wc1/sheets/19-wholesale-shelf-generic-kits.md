@@ -61,13 +61,3 @@
 ## Overall interpretation
 WC1 resolves the two open questions from the earlier pass: B5 gets a working shape (Harvest Gala) and B10 gets a specific cost-spreading mechanism, so the assessment is now complete at 14/20. But the decisive bar is unchanged: B6=0 because the generic contents were killed as a commodity, and the rejection stands. Catalog status unchanged.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 32 -> new v2 ID 19)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 1 2 U 0 2 1 1 1
-New bars: 2 2 1 2 1 0 2 1 1 2
-
-- b5: U->1 -- WC1 detail: Harvest Gala named as the working interpretation; generic contents cap it at partial.
-- b10: 1->2 -- WC1 detail: shared production and distribution spread fixed costs over more licence holders.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

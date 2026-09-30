@@ -61,12 +61,3 @@
 ## Overall interpretation
 A clean tool-in-the-hand: the first prepared sales call is the ownable value moment (B9=2), per-niche production is bounded (B2=2), and AI assembly with human claim-checks is a real C3PO shape (B7=2). The cap is market size per niche (B10=1) and self-built competition (B6=1). Natural host: #03.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 09 -> new v2 ID 32)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 1 1 2 1 2 1
-New bars: 1 2 1 2 1 1 2 1 2 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/28-local-presence-score-certificate.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/28-local-presence-score-certificate.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/28-local-presence-score-certificate.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/28-local-presence-score-certificate.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/28-local-presence-score-certificate.md)
 
 ## Assessment identity and sources
 

@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/03-door-opener.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 16/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: holds.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **2 → 1**. Additional niches or updates create optional repeats, not required replenishment of this dental pack.
-- Bar 7, C3PO (AI does the core work): **U → 2**. AI drafts niche material; human validation is shared across pack buyers.
-- Bar 8, Natural route to buyers: **U → 1**. Trainers and niche newsletters have affiliate incentives, with placement hurdles.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The assessed $149 dental pack can be reused indefinitely; a new prospect is not another paying agency purchase.

@@ -50,21 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 1 → 2 — WC1.1 makes the first offer a recurring newsletter/blog/social package
-- Bar 2 Build once, sell many: 2 → 1 — brand, facts and approvals are real per-customer cost on top of shared layouts
-- Bar 3 Creates Gold: 1 → 2 — Owned templates, production systems, brand profiles with appropriate rights and assignable customer/partner contracts accumulate
-- Bar 4 Runs without you: U → 2 — A content operator manages schedules, approvals and bounded revisions
-- Bar 5 Satisfaction shape: U → 2 — The payer sees its next communication cycle ready and published in its own voice. A completed useful newsletter/blog/social package gives recurring relief
-- Bar 6 No Brainer: U → 1 — A looming publication deadline and existing communication workload give a clear trigger. Price must beat the relevant in-house or freelance workload after approval effort
-- Bar 7 C3PO (AI does the work): U → 1 — AI researches, drafts and repurposes content into the three formats
-- Bar 8 Natural route to buyers: U → 1 — Agency, association-management and chamber-service partners can resell or bundle the package for margin and stronger relationships. Recruitment and their support expectations st...
-- Bar 10 Newton's Rule: 1 → 2 — shared research and layouts spread cost inside bounded revisions
-- Shape: Tool in the hand → Six Pack of Beer Desire — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

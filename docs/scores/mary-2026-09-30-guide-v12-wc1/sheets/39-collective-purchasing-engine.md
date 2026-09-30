@@ -62,17 +62,3 @@
 ## Overall interpretation
 WC1.1's Vendasta-style cooperative variant is what makes this assessable: quarterly deal drops (B1=2), the already-intended-purchase trigger (B6=2), and a genuine network effect on negotiating power (B10=2). The risk is all execution -- supplier deals must exist before members arrive. 14/20, no zeros.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 41 -> new v2 ID 39)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: U U 1 U U U 1 1 U 1
-New bars: 2 1 2 1 1 2 1 1 1 2
-
-- b1: U->2 -- WC1.1 detail: quarterly deal drops and ongoing supplier savings are a concrete recurrence mechanism.
-- b2: U->1 -- WC1.1 detail: supplier curation, negotiation and concierge setup recur per cycle.
-- b4: U->1 -- WC1.1 detail: ongoing supplier relations and concierge work cap founder independence.
-- b5: U->1 -- WC1.1 detail: the group-deal win is assessable but deal-quality dependent.
-- b6: U->2 -- WC1.1 detail: already-intended purchase, cheaper, is a strong trigger.
-- b9: U->1 -- WC1.1 detail: value depends on relevant deals being available.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

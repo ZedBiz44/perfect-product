@@ -63,13 +63,3 @@
 ## Overall interpretation
 WC1 makes this scenario materially harder than the original pitch: per-account export/mapping/QA costs and agency-side verification are now explicit, which moves B2 and B10 down. The concept still hangs together (acute trigger, dataset moat, operator-run), but the gating unknowns are integration cost and the recorded buying objection -- both researchable without building.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 08 -> new v2 ID 04)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 2 2 1 1 1 1 1 2
-New bars: 1 1 2 2 1 1 1 1 1 1
-
-- b2: 2->1 -- WC1 detail: inconsistent exports, account mapping and disputed metrics add per-account support and QA costs.
-- b10: 2->1 -- WC1 detail: customer-specific data failures and integrations can make support grow alongside adoption.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

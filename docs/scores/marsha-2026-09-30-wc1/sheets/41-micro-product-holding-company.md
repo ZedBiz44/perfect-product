@@ -45,20 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/41-micro-product-holding-company.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 13/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 1, Pays more than once: **U → 1**. New editions, event formats and broader licences offer limited repeats for reusable templates.
-- Bar 2, Build once, sell many: **U → 1**. Templates resell, but purchase/revenue-share terms, updates and support impose material economic constraints.
-- Bar 5, Satisfaction shape: **U → 2**. A usable event plan or client deliverable provides clear practical competence.
-- Bar 6, No Brainer: **U → 1**. The upcoming event gives a trigger but price and differentiation from free templates remain unchosen.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI adapts and updates templates; human quality, acquisition and exceptions remain material work.
-- Bar 9, Easy to get the value: **U → 2**. An intended event planner can buy, fill, check and use a bounded template without software installation.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1.1 is the event-planner-template acquisition lane only. Conservative deal screening permits a conditional partial margin judgment, not a claim that any actual purchase is attractive.

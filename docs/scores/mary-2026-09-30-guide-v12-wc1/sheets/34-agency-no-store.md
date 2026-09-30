@@ -62,12 +62,3 @@
 ## Overall interpretation
 Infrastructure scored as infrastructure: the mechanics are fine (B2/B7=2) but the value belongs to the assets distributed, not the distribution point, and Drive links compete for free. WC1 confirms the earlier read with no changes: 12/20, an ordinary-1s profile with no structural strength.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 35 -> new v2 ID 34)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 1 1 1 2 1 1 1
-New bars: 1 2 1 1 1 1 2 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

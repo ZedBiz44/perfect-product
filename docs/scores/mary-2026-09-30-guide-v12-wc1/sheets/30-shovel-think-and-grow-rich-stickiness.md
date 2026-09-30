@@ -61,12 +61,3 @@
 ## Overall interpretation
 A coherent add-on: B8 is the structural strength because the host's own user base is the route, and the honesty condition (progress data reports effort, never invents results) is what keeps B6 at 1. WC1 makes the owner-effort cost of data reporting explicit, which moves B9 down. 13/20 with no zeros.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 06 -> new v2 ID 30)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 1 2 2 1 1 1 2 2 1
-New bars: 1 1 2 2 1 1 1 2 1 1
-
-- b9: 2->1 -- WC1 detail: data reporting adds owner effort; members track and review.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — mission library and owner list are named transferable assets
-- Bar 5 Satisfaction shape: U → 2 — Owner sees a member finish one useful task rather than just like a post
-- Bar 6 No Brainer: U → 1 — An empty or passive paid group provides a trigger, but paying for another engagement tool needs differentiation from free prompts.
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI drafts the shared mission; owners handle member interaction
-- Bar 8 Natural route to buyers: U → 1 — Community setup consultants can bundle a sample mission and earn referral income
-- Bar 10 Newton's Rule: U → 2 — The same mission serves more owners
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

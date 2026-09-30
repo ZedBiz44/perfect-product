@@ -45,15 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: 17/20; current total: 16/20. No U was treated as zero.
-- Previous founder qualification: holds; current: holds.
-- Previous shortlist signal: Yes; current: No.
-- Bar 1, Pays more than once: **2 → 1**. New campaign occasions offer limited repeat purchase because the same four-week pack can be rerun.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The WC1 scenario names reuse for another cohort or quiet period, but does not require buying a fresh campaign. I no longer credit my earlier assumed replenishment automatically.

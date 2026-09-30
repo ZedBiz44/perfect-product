@@ -61,12 +61,3 @@
 ## Overall interpretation
 The mechanics are ordinary-1s across the board; the single decisive fact is the killed buying reason: agencies have no established urgent need for awards. WC1 keeps that kill explicit, so B6 stays 0 and the rejection stands. Catalog status unchanged.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 31 -> new v2 ID 18)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 1 1 0 1 1 1 1
-New bars: 1 2 1 1 1 0 1 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 confirms the historical killed model and the zero stands.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

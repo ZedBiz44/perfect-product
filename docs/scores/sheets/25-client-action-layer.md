@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — action templates and course-provider contracts accumulate
-- Bar 4 Runs without you: 0 → 2 — WC1 bounds this to mapping and support, not per-learner coaching — the old service-creep zero no longer describes the assessed model
-- Bar 5 Satisfaction shape: U → 2 — A learner completes the first concrete course task, while the payer sees learners using what was sold
-- Bar 6 No Brainer: U → 1 — A creator facing low implementation has a trigger, but $197 depends on the layer improving use beyond existing worksheets and reminders.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts tasks and adapts reminders from approved lesson maps
-- Bar 8 Natural route to buyers: U → 1 — Course-platform implementers could include the layer for reseller margin
-- Bar 9 Easy to get the value: U → 1 — Creator supplies outline, reviews the task map, publishes it, invites learners and checks completion. Initial mapping is a real project.
-- Bar 10 Newton's Rule: U → 1 — Reusable task patterns improve production efficiency, but different course content can cause per-creator maintenance to grow.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

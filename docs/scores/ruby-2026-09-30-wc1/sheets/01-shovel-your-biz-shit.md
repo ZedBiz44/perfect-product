@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/01-shovel-your-biz-shit.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/01-shovel-your-biz-shit.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/01-shovel-your-biz-shit.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/01-shovel-your-biz-shit.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/01-shovel-your-biz-shit.md)
 
 ## Assessment identity and sources
 

@@ -50,20 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: U → 1 — Repeat revenue comes from additional job products and updates sold by the output business
-- Bar 2 Build once, sell many: 2 → 1 — Research and production patterns repeat, but each new product still needs discovery, testing and distribution work
-- Bar 3 Creates Gold: 1 → 2 — Assigned contributor rights, owned product IP and documented production systems can accumulate and transfer with successful products.
-- Bar 5 Satisfaction shape: U → 1 — The example buyer completes a review-request job
-- Bar 6 No Brainer: U → 1 — The example kit addresses a recognizable job at $99, but that buying logic cannot be generalized to all future factory outputs.
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI performs research synthesis, drafting and packaging
-- Bar 8 Natural route to buyers: U → 1 — The example uses website-provider referrals for a share
-- Bar 9 Easy to get the value: U → 1 — The example buyer follows a bounded kit journey
-- Shape: — (meta) → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

@@ -60,12 +60,3 @@
 ## Overall interpretation
 WC1 restructures the model just enough to move B4: an operator (not Jack) handles accounts, so the founder-constraint conflict on B4 is lifted -- but the killed buying reason (B6) and the human per-client core (B7) are both explicitly retained, so the rejection stands. Catalog status unchanged.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 30 -> new v2 ID 17)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 1 1 0 1 0 0 1 1 1
-New bars: 2 1 1 1 1 0 0 1 1 1
-
-- b4: 0->1 -- WC1 detail: an operator handles accounts and exceptions; Jack is not the monthly account manager. Per-client human work remains, so this is partial, not clean.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

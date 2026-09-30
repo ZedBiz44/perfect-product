@@ -1,0 +1,42 @@
+id,name,group,status,Grok,Cody,Mary,Ruby,Marsha,Z3,minimum,maximum,disputed_bars,zero_bars_by_reviewer,bar4_below2_reviewers,Manus_older_version_total,Manus_coverage
+01,Shovel Your Biz-Shit,Products,core candidate,16,16,15,17,17,16,15,17,"1,4,5,10",,"Grok,Cody,Ruby,Marsha,Z3",17,10
+02,Shovel member-action unit,Products,exploration,16,16,15,16,16,16,15,16,"1,4,10",,"Grok,Cody,Ruby,Marsha,Z3",16,10
+03,Door Opener,Products,hopper,16,16,14,16,16,16,14,16,"3,5,9,10",,,,5
+04,Save Kit,Products,hopper,14,14,12,14,14,14,12,14,"1,5",,,,7
+05,Cash This Week,Products,hopper,15,15,14,14,15,15,14,15,"1,3,5,9,10",,,,5
+06,Platform Weather,Products,hopper,17,17,18,17,17,18,17,18,"1,2,6",,,,7
+07,Rural property buyer system,Products,hopper,14,14,14,14,14,15,14,15,"2,3,5,7,9",,,,6
+08,Business-sale digital-readiness system,Products,hopper,16,16,14,14,16,15,14,16,"3,5,9,10",,,,7
+09,Member Wake-Up Campaign (4-week),Products,hopper,16,16,13,17,16,16,13,17,"3,5,9,10",,,15,10
+10,Gemini C: Board of Directors report,Products,hopper,12,12,11,11,12,13,11,13,"1,3,7",,,,6
+11,New Coat local-business refresh kits,Products,hopper,16,16,14,18,17,16,14,18,"1,3,9,10",,,,9
+12,Member Night in a Box,Products,hopper,16,16,14,17,18,16,14,18,"1,3,9,10",,,,7
+13,Seasonal harvest campaigns (agency),Products,hopper,17,17,15,17,17,17,15,17,"3,10",,,,7
+14,One-job local marketing tools,Products,hopper,17,17,14,17,18,17,14,18,"1,3,5,10",,,,6
+15,No Lead Left Behind: GHL Agency Kit,Products,archive / dead-but-ingredient,15,15,11,11,15,15,11,15,"3,6,8,10","Mary:6,8; Ruby:6,8",,,9
+16,Field Notes / Practitioner Briefing,Products,archive / dead-but-ingredient,12,12,11,10,14,12,10,14,"2,5,7,10","Grok:4; Cody:4; Mary:4,7; Ruby:4,7; Marsha:4; Z3:4","Grok,Cody,Mary,Ruby,Marsha,Z3",,8
+17,Client Retention Engine,Products,dead-but-ingredient,11,11,9,11,12,11,9,12,"4,6,7","Grok:6; Cody:6; Mary:6,7; Ruby:6; Z3:6",Mary,,5
+18,Award-Submission Factory,Products,dead-but-ingredient,10,10,10,10,10,10,10,10,"2,4",Grok:6; Cody:6; Mary:6; Ruby:6; Marsha:6; Z3:6,Mary,,6
+19,Wholesale Shelf (generic kits),Products,dead-but-ingredient,14,14,14,14,15,14,14,15,6,Grok:6; Cody:6; Mary:6; Ruby:6; Z3:6,,,7
+20,Recurring Customer-Value Kits (weekly OS),Products,exploration,17,17,16,17,17,17,16,17,"4,9,10",,"Grok,Cody,Ruby,Marsha,Z3",,8
+21,Shovel themed-day engagement kit,Ingredients & add-ons,exploration,17,17,15,16,17,17,15,17,"1,3,4,8,10",,"Grok,Cody,Ruby,Marsha,Z3",16,10
+22,Think and Grow Rich (benchmark report),Ingredients & add-ons,hopper,15,15,11,13,16,15,11,16,"1,4,5,8,10",,Mary,,6
+23,Sponsor layer on weekly item,Ingredients & add-ons,hopper,12,12,11,10,14,12,10,14,"1,3,5,10",,"Grok,Cody,Mary,Ruby,Marsha,Z3",,4
+24,Weekly retention drop / seasonal agency campaigns,Ingredients & add-ons,hopper,17,17,13,16,17,17,13,17,"1,3,8,10",,,,7
+25,Client Action Layer,Ingredients & add-ons,hopper,15,15,10,14,15,15,10,15,"1,3,4,5,7",,Mary,,6
+26,Gemini A: AI mentors in community,Ingredients & add-ons,hopper,10,10,11,10,10,10,10,11,2,Grok:4; Cody:4; Mary:4; Ruby:4; Marsha:4; Z3:4,"Grok,Cody,Mary,Ruby,Marsha,Z3",,5
+27,Gemini B: Shovel-Proof Gate funnel,Ingredients & add-ons,hopper,8,8,9,9,8,8,8,9,2,"Grok:2,4; Cody:2,4; Mary:4; Ruby:4; Marsha:2,4; Z3:2,4","Grok,Cody,Mary,Ruby,Marsha,Z3",,5
+28,Local Presence Score / certificate,Ingredients & add-ons,hopper,14,14,14,14,14,14,14,14,"3,5",,,,9
+29,Peer-circle operating system,Ingredients & add-ons,hopper,16,16,15,16,16,16,15,16,"3,6,10",,,,8
+30,Shovel + Think and Grow Rich stickiness,Ingredients & add-ons,exploration,15,15,13,14,15,15,13,15,"1,4,5,8,10",,"Grok,Cody,Ruby,Marsha,Z3",15,10
+31,Shovel + Sponsor layer,Ingredients & add-ons,exploration,12,12,11,10,13,12,10,13,"1,3,10",,"Grok,Cody,Mary,Ruby,Marsha,Z3",,6
+32,Door Opener + niche evidence pack,Ingredients & add-ons,exploration,14,14,14,14,14,14,14,14,"2,3,5,7,9,10",,,,7
+33,Mary's one-job shelf,Structures,hopper,17,17,18,17,18,17,17,18,"1,6",,,,4
+34,"Agency ""No"" Store",Structures,hopper,16,16,12,16,17,17,12,17,"1,3,4,5,10",,Mary,,6
+35,Product factory / contributor syndicate,Structures,hopper,12,12,11,12,14,12,11,14,"1,3,5",,"Grok,Cody,Mary,Ruby,Marsha,Z3",,2
+36,Community Without the Host,Structures,archive,10,10,11,10,11,10,10,11,"2,4",Grok:4; Cody:4; Mary:4; Ruby:4; Z3:4,"Grok,Cody,Mary,Ruby,Marsha,Z3",,9
+37,Product Ingredient Company (B2B2C layer),Structures,exploration,15,15,11,14,15,15,11,15,"3,4,5,7",,Mary,,2
+38,Micro-brand factory,Structures,exploration,13,13,11,11,13,13,11,13,"5,7",,"Grok,Cody,Mary,Ruby,Marsha,Z3",,3
+39,Collective Purchasing Engine,Structures,exploration,15,15,14,15,15,15,14,15,5,,"Grok,Cody,Mary,Ruby,Marsha,Z3",,2
+40,Benefits Factory,Structures,exploration,15,15,14,14,14,15,14,15,"5,10",,,,3
+41,Micro-product Holding Company,Structures,exploration,13,13,12,13,13,13,12,13,"2,3,5",,"Grok,Cody,Mary,Ruby,Marsha,Z3",,1

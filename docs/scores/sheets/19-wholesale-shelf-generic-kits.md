@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 4 Runs without you: 1 → 2 — operator manages the edition; agency staff serve clients
-- Bar 5 Satisfaction shape: U → 1 — Campaign results could provide a harvest, but generic kits may pile up without being used across varied client needs.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts seasonal assets and formats
-- Bar 9 Easy to get the value: U → 1 — Choose a kit, adapt to client, configure delivery, launch and follow up
-- Bar 10 Newton's Rule: U → 2 — Shared production and distribution spread fixed costs over more licence holders, even though those economics do not solve weak demand.
-- Shape: — → Harvest Gala — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

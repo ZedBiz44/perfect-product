@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — campaign assets and agency licences accumulate with documented rights
-- Bar 4 Runs without you: 1 → 2 — campaign operator publishes; Jack is occasional strategy
-- Bar 5 Satisfaction shape: U → 1 — Agencies can show a season's useful client activity, but combining weekly drops with bigger campaigns risks an unfocused pile of assets.
-- Bar 6 No Brainer: U → 1 — An upcoming client campaign provides a trigger
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts and formats editions
-- Bar 8 Natural route to buyers: 1 → 2 — Offer as an add-on through an existing campaign-product customer list or reseller checkout
-- Bar 10 Newton's Rule: U → 2 — Recurring editions spread production costs over licences and use the same agency relationships for later seasonal sales.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

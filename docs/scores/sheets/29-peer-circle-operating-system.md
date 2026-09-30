@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — facilitation IP transfers without Jack as the community personality
-- Bar 5 Satisfaction shape: U → 1 — Members completing a shared mission can feel connection, but prompts and scoreboards alone cannot manufacture a healthy peer culture.
-- Bar 6 No Brainer: U → 1 — An owner seeking member interaction has a trigger
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI drafts shared missions; buyer staff do member-facing facilitation
-- Bar 8 Natural route to buyers: U → 1 — Community managers and membership consultants could resell for margin
-- Bar 10 Newton's Rule: U → 2 — One format serves more communities
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

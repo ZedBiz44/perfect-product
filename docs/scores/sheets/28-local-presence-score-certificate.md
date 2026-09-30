@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — evidence checks, disputes and appeals are per-business work
-- Bar 3 Creates Gold: 1 → 2 — criteria, permissioned benchmarks and issuer relationships accumulate
-- Bar 4 Runs without you: 1 → 2 — assessment operator handles appeals; Jack maintains standards occasionally
-- Bar 5 Satisfaction shape: U → 1 — The client can display an earned result, but satisfaction and recognition depend on whether others understand and trust the standard.
-- Bar 6 No Brainer: U → 1 — A review or renewal creates a trigger, but $99 competes with free audits and an unknown badge may have little status value.
-- Bar 7 C3PO (AI does the work): U → 1 — AI collects public inputs, proposes scores and produces certificates
-- Bar 8 Natural route to buyers: U → 1 — Agency trainers and chamber service teams could distribute for member value or margin
-- Bar 10 Newton's Rule: U → 2 — More permissioned assessments can improve comparison ranges and spread standards maintenance cost, if consistent methods prevent noisy data.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

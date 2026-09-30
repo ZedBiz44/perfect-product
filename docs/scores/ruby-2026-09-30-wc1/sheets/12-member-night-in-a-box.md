@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/12-member-night-in-a-box.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/12-member-night-in-a-box.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/12-member-night-in-a-box.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/12-member-night-in-a-box.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/12-member-night-in-a-box.md)
 
 ## Assessment identity and sources
 

@@ -45,20 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **Yes, conditional on the stated design assumptions; not selection or launch approval**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/34-agency-no-store.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 17/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: holds.
-- Previous shortlist signal: No; current: Yes.
-- Bar 1, Pays more than once: **1 → 2**. Agencies’ continuing below-budget enquiries can supply a broad flow of one-time SMB buyers.
-- Bar 5, Satisfaction shape: **U → 2**. A published announcement finishes the job that an agency declined.
-- Bar 6, No Brainer: **U → 1**. A deadline gives urgency but free templates and done-for-you expectations complicate $79.
-- Bar 7, C3PO (AI does the core work): **U → 2**. AI adapts approved fields with human release-level QA and buyer factual checks.
-- Bar 9, Easy to get the value: **U → 1**. Editing independently after referral may be difficult for some below-budget buyers.
-- Bar 10, Newton’s Rule: **1 → 2**. More referring agencies share the same bounded product and fulfillment system.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The SMB payer, referral share and reopening kit resolve the previous undefined handoff. Channel conflict and the customer’s DIY capability remain real limits.

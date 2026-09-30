@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 1 → 2 — monthly access is tied to repeated client-review and cancellation events
-- Bar 3 Creates Gold: 1 → 2 — packet software and templates transfer; client data stays with the client
-- Bar 4 Runs without you: 1 → 2 — product operator handles incidents; agency signs off each packet
-- Bar 5 Satisfaction shape: U → 2 — The agency produces a clear answer to 'what did you do?' before a client meeting
-- Bar 6 No Brainer: U → 1 — A cancellation threat makes the need urgent, but built-in reports and AI summaries compete
-- Bar 8 Natural route to buyers: U → 1 — Agency operations educators could demonstrate packets and refer users for a share
-- Bar 10 Newton's Rule: U → 1 — Shared software spreads fixed costs, but customer-specific data failures and integrations can make support grow alongside adoption.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

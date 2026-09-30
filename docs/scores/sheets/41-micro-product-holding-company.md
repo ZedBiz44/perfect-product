@@ -50,17 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 4 Runs without you: U → 1 — An operator handles sales and product support, but Jack still selects targets and resolves acquisition/integration decisions. A business dependent on its original speaker may no...
-- Bar 5 Satisfaction shape: U → 2 — An event planner uses the template to produce a usable plan or client deliverable
-- Bar 6 No Brainer: U → 1 — An upcoming event-planning job is a clear trigger, but price and differentiation from free templates are unchosen. Conditional buying value is plausible with meaningful limitati...
-- Bar 7 C3PO (AI does the work): U → 1 — AI can adapt templates from structured inputs, draft updates and handle routine support
-- Bar 9 Easy to get the value: U → 2 — For the template example: buy, download, fill in event details, check and use the plan. This bounded journey does not represent plugin installation or booking a live speaker.
-- Shape: varies by acquired product → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

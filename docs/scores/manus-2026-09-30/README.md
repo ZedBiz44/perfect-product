@@ -1,5 +1,7 @@
 # Manus independent Perfect Product assessment — 2026-09-30
 
+Current-record note — 2026-09-30, Cody: this is Manus’s latest assessment. It predates WC1/WC1.1 descriptions and is excluded from the current-version comparison until refreshed. [Current comparison](../leaderboard.md).
+
 Catalog numbering v2 (2026-09-30): IDs now match Notion group order. Only identifiers and links changed; scores, confidence and reasoning retain their original meaning. See the [old-to-new map](../catalog-id-map.md).
 
 **Reviewer:** Manus

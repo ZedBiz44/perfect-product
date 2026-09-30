@@ -2,13 +2,12 @@
 
 Date: 2026-09-30 | Guide: v1.2 | Rubric: v1.1 | Catalog version: WC1 (01–38), WC1.1 (39–41) | Status: Completed concept assessment
 
-[Scores ledger](../README.md) · [Ruby CSV](index.csv) · [Shared leaderboard](../leaderboard.md) · [Ruby historical pass](../ruby-2026-09-30/README.md) · [Assumption context](../../products/assessment-context.md)
+[Scores ledger](../README.md) · [Ruby CSV](index.csv) · [Shared leaderboard](../leaderboard.md) · [Assumption context](../../products/assessment-context.md)
 
 ## What this run is
 
 Jack asked Ruby to review the catalog adjustments and re-score accordingly. The catalog now carries Cody's **WC1 working concepts** (labelled scenarios and operating assumptions on all 41 entries, authorized by Jack) and **WC1.1** clarifications for 39–41 from Jack's recorded direction. This run re-scores all 41 entries against those scenarios under **Guide v1.2 concept-fit rules** — design and labelled assumptions can support numeric scores; U is reserved for genuinely missing essential detail; confidence is recorded per bar.
 
-My earlier [evidence-standard pass](../ruby-2026-09-30/README.md) (2026-09-30) is preserved untouched as a historical record; it assessed the pre-WC1 entries and is not directly comparable to this run.
 
 ## Version pins
 
@@ -91,5 +90,5 @@ Ordered by concept-fit total, then strong fits, ties preserved. Zeros displayed 
 ## Notes
 
 - Shortlist signals on archived/rejected entries are impossible by construction (zeros preserved); none appear above 15–19/26/27/36.
-- The [shared leaderboard](../leaderboard.md) lists this run alongside Cody's WC1 run, Marsha's v1.2 run, and the historical evidence-standard runs. Combination happens only via a labelled reconciliation under the guide; never averaged with U-standard passes.
+- The [shared leaderboard](../leaderboard.md) shows the latest assessment per agent, with compatible working concepts compared together.
 - Per-bar scores, confidence, reasons, limitations, and next exploration questions: [sheets/](sheets/). Machine-readable: [index.csv](index.csv).

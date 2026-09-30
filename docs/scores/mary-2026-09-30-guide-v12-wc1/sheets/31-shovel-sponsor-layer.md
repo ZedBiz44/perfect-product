@@ -63,12 +63,3 @@
 ## Overall interpretation
 The same funding-layer profile as #23, smaller and Shovel-specific: everything is 1 except B10, because the audience it monetizes is the future audience of #01. The catalog is explicit -- this is a later funding step, not an early product. Do not build it before the host audience exists.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 07 -> new v2 ID 31)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 1 1 1 1 1 1 2
-New bars: 1 1 1 1 1 1 1 1 1 2
-
-- b2: 2->1 -- WC1 detail: sponsor negotiation, approvals and reporting add account-level work.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 12/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 2, Build once, sell many: **2 → 1**. Reusable intake is offset by substantive checks of each customer’s facts and recommendations.
-- Bar 7, C3PO (AI does the core work): **2 → 1**. AI does meaningful analysis, but substantive human review recurs per report.
-- Bar 8, Natural route to buyers: **U → 1**. Advisers and bookkeepers have referral incentives; trust and access remain hurdles.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - The broad one-time buyer flow remains plausible, but WC1 explicitly adds substantive analyst review for each report. That lowers reuse and AI fit; no consulting is included.

@@ -61,12 +61,3 @@
 ## Overall interpretation
 Scored as the historical rejected offer per WC1, with rejection in force: the mechanics (B2/B4/B5) are genuinely good, which is why the ingredients are worth keeping, but B6 and B8 are documented zeros because the buyer is explicitly ruled out for Jack. A score does not revive a rejected offer; catalog status unchanged.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 28 -> new v2 ID 15)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 2 0 1 0 1 1
-New bars: 1 2 1 2 2 0 1 0 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 confirms the historical rejected model and the zeros stand.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

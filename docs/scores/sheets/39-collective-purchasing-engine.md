@@ -50,20 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 1 → 2 — WC1.1 names recurring shelf purchases, membership and repeat orders — stronger than a one-time club
-- Bar 3 Creates Gold: 1 → 2 — catalog integration and assignable supplier agreements are the transferable asset
-- Bar 4 Runs without you: U → 1 — An operator runs the shelf and supplier support
-- Bar 5 Satisfaction shape: U → 2 — A participating business adds and delivers an offer under its relationship with the client
-- Bar 6 No Brainer: U → 2 — Jack has named four specific buying benefits: lower sourcing cost, broader shelf, easier delivery and a stronger client relationship. Assume fees leave meaningful net value vers...
-- Bar 7 C3PO (AI does the work): U → 1 — AI handles catalog mapping, product guidance, content adaptation and routine support triage
-- Bar 8 Natural route to buyers: U → 1 — Agency educators, supplier partner networks and associations can introduce the shelf for reseller margin and client-retention value
-- Bar 9 Easy to get the value: U → 1 — Join or obtain access, choose and brand an offer, activate/order, deliver and support the client. A common interface helps but onboarding and supplier-specific steps remain.
-- Bar 10 Newton's Rule: 1 → 2 — aggregate purchasing and shared catalog cost are a scale mechanism, not only an asset pile
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

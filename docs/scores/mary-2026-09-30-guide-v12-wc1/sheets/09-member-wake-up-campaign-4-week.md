@@ -62,12 +62,3 @@
 ## Overall interpretation
 A well-bounded campaign product: the four-week arc gives it a promised harvest moment that the weekly Shovel lacks, but everything (value timing, participation, renewal) depends on the owner executing. WC1 is explicit that US$129 is a considered purchase, which is why B6 moved down from the earlier read.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 16 -> new v2 ID 09)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 1 2 2 1 1 1
-New bars: 1 2 1 2 1 1 2 1 1 1
-
-- b6: 2->1 -- WC1 detail: owner effort and uncertain member participation make US$129 a considered purchase.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

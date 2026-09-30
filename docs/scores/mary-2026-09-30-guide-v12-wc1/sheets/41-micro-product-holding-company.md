@@ -63,17 +63,3 @@
 ## Overall interpretation
 The portfolio structure assessed honestly: WC1.1's template lane resolves the unknowns and the profile is a coherent 12/20 -- B2=2 and B9=2 are the structural strengths (shared methods, concrete template value), while fragmentation across lanes caps B3, B4, B8 and B10 at 1. Same advice as #38: launch one product, not a holding company.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 43 -> new v2 ID 41)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: U 1 2 1 U U 1 U U 2
-New bars: 1 2 1 1 1 1 1 1 2 1
-
-- b1: U->1 -- WC1.1 detail: per-product stand-alone purchases; repeat is per-product.
-- b5: U->1 -- WC1.1 detail: per-product satisfaction via the template lane.
-- b6: U->1 -- WC1.1 detail: lane trigger assessable, but each product earns its audience from zero.
-- b8: U->1 -- WC1.1 detail: lane-specific channels; no shared channel.
-- b9: U->2 -- WC1.1 detail: the template lane makes value concrete and immediate.
-- b10: 2->1 -- WC1.1 detail: per-lane audience building offsets the economies.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

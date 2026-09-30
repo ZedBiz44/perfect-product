@@ -63,12 +63,3 @@
 ## Overall interpretation
 The 'operating dependency' framing is what lifts this above a content subscription: the weekly obligation is the recurrence engine (B1=2) and 'this week is handled' is an ownable relief moment (B5=2). The risk is all on the buying side -- whether the obligation is felt and whether staff content plus free AI is 'good enough'.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 36 -> new v2 ID 20)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 2 2 2 1 2 1 1 1
-New bars: 2 2 2 2 2 1 2 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

@@ -63,12 +63,3 @@
 ## Overall interpretation
 A disciplined product shape: fixed layouts, no custom creep, reseller-served. The reveal moment is genuinely ownable (B5=2), but the buy competes with free/cheap design tools, so B6 stays capped, and value arrives only after buyer customization (B9=1).
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 22 -> new v2 ID 11)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 2 1 2 1 1 1
-New bars: 1 2 1 2 2 1 2 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

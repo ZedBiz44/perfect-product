@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 2 → 1 — sponsor payment repeats only if voluntary visits justify the next budget
-- Bar 3 Creates Gold: 1 → 2 — publication, host relationships and sponsor contracts accumulate
-- Bar 5 Satisfaction shape: U → 1 — Owners get weekly relief and sponsors seek a harvest of relevant voluntary interest
-- Bar 6 No Brainer: U → 1 — A vendor campaign provides a trigger, but $1,000 requires a plausible relevant audience
-- Bar 8 Natural route to buyers: U → 1 — Community consultants recruit hosts for free useful materials
-- Bar 9 Easy to get the value: U → 1 — Sponsor agrees terms and approves copy
-- Bar 10 Newton's Rule: U → 2 — Shared units can reach more hosts at low production cost, improving the inventory offered to sponsors if permissions and relevance hold.
-- Shape: Six Pack of Beer Desire → Harvest Gala — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

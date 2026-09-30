@@ -63,17 +63,3 @@
 ## Overall interpretation
 The shelf idea (#33) taken to its fragmented extreme: every brand starts at zero audience, needs its own route, and multiplies quality oversight. WC1's example lane makes it assessable -- 11/20, an all-1s profile except B3=2. The honest advice is in the improvements: launch one brand, not a factory.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 40 -> new v2 ID 38)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 U 2 1 U U 1 U U 2
-New bars: 1 1 2 1 1 1 1 1 1 1
-
-- b2: U->1 -- WC1 detail: per-brand niche research, content and quality work; fragmentation caps build-once leverage.
-- b5: U->1 -- WC1 detail: per-brand satisfaction via the example lane.
-- b6: U->1 -- WC1 detail: niche trigger assessable, but each brand earns its audience from zero.
-- b8: U->1 -- WC1 detail: per-brand niche channels; no shared channel.
-- b9: U->1 -- WC1 detail: discovery per brand is the hurdle.
-- b10: 2->1 -- WC1 detail: fragmentation offsets the portfolio economies.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

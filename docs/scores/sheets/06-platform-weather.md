@@ -50,20 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — monitoring, false alarms and editorial availability are a real margin limit
-- Bar 3 Creates Gold: 1 → 2 — incident archive, taxonomy and subscriber relationships accumulate
-- Bar 4 Runs without you: 1 → 2 — monitoring operator sends notices; Jack is occasional policy only
-- Bar 5 Satisfaction shape: U → 2 — An agency identifies an incident and sends a clear client message promptly
-- Bar 6 No Brainer: U → 1 — An active outage makes the need obvious, but free status pages and peer groups compete
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI collects signals, clusters incidents and drafts notices
-- Bar 8 Natural route to buyers: U → 1 — Agency newsletters and operations communities can carry a useful public alert and paid referral link
-- Bar 9 Easy to get the value: 1 → 2 — Subscribe, choose platforms, receive a relevant alert, check applicability and adapt the client message. Value arrives when a covered incident occurs.
-- Bar 10 Newton's Rule: 1 → 2 — The same verified incident serves more agencies at lower per-subscriber cost
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

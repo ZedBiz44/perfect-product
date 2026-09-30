@@ -62,12 +62,3 @@
 ## Overall interpretation
 The Event Excitement shape is genuinely ownable here (B5=2), and the mechanics are clean because the buyer owns all logistics. Commercially it is a considered $99 purchase against free ideas, with the buyer carrying attendance risk -- hence B6 and B9 stay at 1.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 23 -> new v2 ID 12)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 2 1 2 1 1 1
-New bars: 1 2 1 2 2 1 2 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

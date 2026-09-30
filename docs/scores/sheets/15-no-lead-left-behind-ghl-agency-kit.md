@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — workflow package and customer list can transfer subject to platform rights
-- Bar 4 Runs without you: 1 → 2 — agencies own client delivery; Jack is occasional overseer
-- Bar 5 Satisfaction shape: U → 2 — A test lead receives the expected response and routes correctly, giving the buyer a concrete first-use success.
-- Bar 6 No Brainer: 0 → 1 — missed leads are a real trigger; withdrawal and competing snapshots are a hurdle, not a missing buyer
-- Bar 7 C3PO (AI does the work): U → 1 — Automation routes leads
-- Bar 8 Natural route to buyers: 0 → 1 — agency educators are a named resale route; crowding is a hurdle, not 'no channel'
-- Bar 10 Newton's Rule: U → 2 — Reusable releases spread maintenance cost over agencies, provided support stays bounded and accounts use a supported configuration.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

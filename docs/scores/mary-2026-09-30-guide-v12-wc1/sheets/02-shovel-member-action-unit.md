@@ -62,13 +62,3 @@
 ## Overall interpretation
 The member-action framing is what makes this the strongest Shovel variant: completion is a concrete, ownable satisfaction moment. WC1 is honest that facilitation is real owner work, which caps B9, and that differentiation from free prompts is the B6 question. No founder-constraint conflict in the described model.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 03 -> new v2 ID 02)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 2 2 2 2 2 1 2 1
-New bars: 1 2 2 2 2 1 2 1 1 1
-
-- b6: 2->1 -- WC1 detail: paying for another engagement tool needs differentiation from free prompts.
-- b9: 2->1 -- WC1 detail: owner facilitation creates more effort than simply posting a drop.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

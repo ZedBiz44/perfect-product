@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/31-shovel-sponsor-layer.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/31-shovel-sponsor-layer.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/31-shovel-sponsor-layer.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/31-shovel-sponsor-layer.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/31-shovel-sponsor-layer.md)
 
 ## Assessment identity and sources
 

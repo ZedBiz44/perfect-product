@@ -45,17 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/18-award-submission-factory.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 10/20. No U was treated as zero.
-- Previous founder qualification: conflict; current: conflict.
-- Previous shortlist signal: No; current: No.
-- Bar 4, Runs without you: **1 → 2**. An editor can handle submissions without Jack checking every packet.
-- Bar 5, Satisfaction shape: **0 → 1**. A legitimate submission-ready packet offers partial satisfaction if the award accepts entries; winning remains external.
-- Bar 8, Natural route to buyers: **U → 1**. Calendars and educators provide a possible route, with promotion restrictions and weak buyer interest.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1 can only earn partial Trophy fit on a hypothetical submission-accepting award. It does not fix the original GHL award, which accepts no submissions, or establish a reason to buy.

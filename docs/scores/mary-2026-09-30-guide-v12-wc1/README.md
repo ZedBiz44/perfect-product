@@ -2,7 +2,6 @@
 
 Independent re-score of all 41 Perfect Product catalog entries under guide v1.2, scored against the WC1 working scenarios (entries 01-38) and the WC1.1 scenarios (entries 39-41, per Jack's recorded clarification), at Jack's explicit request. Scored INDEPENDENTLY -- Cody's WC1 assessment was consulted only for rule questions, never for numbers.
 
-Mary's two earlier assessments (`docs/scores/mary-2026-09-30/`, original evidence standard; `docs/scores/mary-2026-09-30-guide-v11/`, concept fit v1.1) are preserved untouched; this is a new dated assessment. All other reviewers' entries are untouched.
 
 ## Pins
 - Rubric v1.1: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product-rubric.md
@@ -19,10 +18,8 @@ Mary's two earlier assessments (`docs/scores/mary-2026-09-30/`, original evidenc
 - Founder constraints applied throughout: Jack never in the per-client delivery path; no trust-gated access to each client's books; no community-host treadmill (max bounded weekly 1-2hr Q&A); buyer must feel a painful expensive problem, be reachable, and have time to buy. Documented conflicts earn 0.
 - A rejected model remains rejected: zeros stay on the conflicted bars; a score does not revive a rejected offer; catalog statuses unchanged.
 
-## Calibration notes (changes vs Mary's guide v1.1 pass)
-- WC1 detail drove targeted DEMOTIONS (no genuine re-judgments): 04 b2/b10 (per-account export/mapping/QA and support costs), 10 b2/b7 (material per-buyer analyst review), 16 b3 (personal-brand transfer weakness), 26 b4 2->0 (WC1 forbids the B2B-licence reinterpretation; founder-host conflict documented) and b7 2->1 (substantial social work), 28 b2/b7 (per-business evidence verification), 30 b9 (data-reporting adds owner effort), 31 b2 (per-sponsor negotiation), 37 b2 (per-course mapping), 38 b10 (fragmentation offsets portfolio economies), 40 b2 (per-customer customization), 41 b10 (per-lane costs offset economies).
-- WC1/WC1.1 RESOLVED every prior U: 19 b5 (Harvest Gala shape named), 27 b6/b8 ($19 DIY logic, partner-triage route), 35/36/37/38 and 39/40/41 (illustrative kits / example lanes make every bar assessable). No U cells remain in this assessment.
-- Zeros are concentrated in rejected/dead entries and record documented conflicts: 15 (B6/B8, buyer ruled out), 16 (B4/B7, author ruled out), 17 (B6/B7, killed buying reason + human core; B4 lifted to 1 as operator removes Jack from monthly path), 18 (B6, killed buying reason), 19 (B6, generic commodity), 26 (B4, founder-host conflict), 27 (B4, Jack-led consulting dead end), 36 (B4, founder-presence conflict).
+## Current interpretation notes
+- Zeros are concentrated in rejected/dead entries and record documented conflicts: 15 (B6/B8, buyer ruled out), 16 (B4/B7, author ruled out), 17 (B6/B7, killed buying reason + human core; B4 is 1 because an operator removes Jack from the monthly path), 18 (B6, killed buying reason), 19 (B6, generic commodity), 26 (B4, founder-host conflict), 27 (B4, Jack-led consulting dead end), 36 (B4, founder-presence conflict).
 - B8 is the most common low-confidence bar: plausible routes are named with labelled assumptions, but owned access is rarely documented.
 - Shortlist signal = all ten assessed + no zeros + >=7 twos + >=17/20 + founder constraints hold. It is a signal to explore, not proof or launch approval.
 

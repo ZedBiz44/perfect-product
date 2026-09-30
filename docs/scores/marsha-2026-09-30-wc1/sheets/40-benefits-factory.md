@@ -45,18 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/40-benefits-factory.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 14/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 2, Build once, sell many: **2 → 1**. Research and layouts reuse, but every customer needs factual, brand and revision work.
-- Bar 6, No Brainer: **U → 1**. Deadlines are clear, but unpriced customization must beat in-house or freelance alternatives.
-- Bar 7, C3PO (AI does the core work): **U → 1**. AI researches and repurposes while customer-specific facts and approvals remain substantial human work.
-- Bar 10, Newton’s Rule: **2 → 1**. Segment reuse and pooled orders help, but per-customer revisions and partner coordination offset scale.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1.1 is a customized newsletter/blog/social package, not the previous discount-benefits portfolio. Delegating it does not erase per-client approval work or Jack’s no-custom-client-work constraint.

@@ -63,12 +63,3 @@
 ## Overall interpretation
 The WC1 scenario is the cleanest of the Shovel family: one shared edition, asset-level Jack time, value beginning the first week. The open questions are all buyer-behavior (do owners post, do they stay in quiet months, can consultants be recruited). Nothing in the described model conflicts with founder constraints.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 01 -> new v2 ID 01)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 2 2 1 2 2 1 2 1
-New bars: 1 2 2 2 1 1 2 1 2 1
-
-- b6: 2->1 -- WC1 detail: the scenario states retention value is hypothetical and $27 competes with free AI and the owner's own ideas.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

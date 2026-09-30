@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 4 Runs without you: 1 → 2 — catalog operator maintains the shelf; Jack selects occasional additions
-- Bar 5 Satisfaction shape: U → 2 — The operator finishes a review-request setup and can immediately use it
-- Bar 6 No Brainer: U → 1 — A sparse review profile provides a trigger, but a $49 kit still competes with free instructions and native tools.
-- Bar 7 C3PO (AI does the work): U → 2 — AI generates structured request variants and prepares shared kit assets
-- Bar 8 Natural route to buyers: U → 1 — Website providers can refer the kit for a share and job-specific search can attract buyers
-- Bar 9 Easy to get the value: 1 → 2 — named-job kit: buy, enter details, generate and test
-- Bar 10 Newton's Rule: 1 → 2 — later buyers reuse checkout and support; that is scale, not just an asset list
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

@@ -50,16 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — evidence, award rules and permissions are meaningful work per submission
-- Bar 4 Runs without you: 1 → 2 — an editor manages submissions; Jack sets occasional standards
-- Bar 5 Satisfaction shape: U → 1 — A polished submission feels ready, but the desired trophy depends on an external judge
-- Bar 8 Natural route to buyers: U → 1 — Award calendars and agency educators provide a possible route, but organizers may restrict promotion and buyer interest remains weak.
-- Bar 10 Newton's Rule: U → 1 — Shared templates save time, but different award rules and bespoke evidence limit scale benefits.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

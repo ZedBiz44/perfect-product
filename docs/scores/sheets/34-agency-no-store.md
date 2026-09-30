@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — kit assets, referral relationships and transaction records accumulate
-- Bar 4 Runs without you: 1 → 2 — operator fulfils; the agency only refers; Jack is rare product decisions
-- Bar 5 Satisfaction shape: U → 2 — The small business publishes a usable announcement instead of leaving the job undone after an agency declines it.
-- Bar 6 No Brainer: U → 1 — A reopening deadline creates urgency, but $79 competes with free templates and the buyer may still expect done-for-you help.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts variations and populates approved fields
-- Bar 8 Natural route to buyers: U → 1 — Below-budget agency enquiries are the specific route
-- Bar 10 Newton's Rule: U → 2 — More referring agencies reuse the same product shelf and fulfilment system
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

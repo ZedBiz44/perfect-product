@@ -45,16 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **Yes, conditional on the stated design assumptions; not selection or launch approval**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 17/20. No U was treated as zero.
-- Previous founder qualification: unknown; current: holds.
-- Previous shortlist signal: No; current: Yes.
-- Bar 7, C3PO (AI does the core work): **U → 2**. AI drafts shared campaign assets and human QA checks the edition.
-- Bar 8, Natural route to buyers: **U → 1**. Niche trainers and supplier programmes have margin/member-value incentives, with access hurdles.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - Seasonal home-service scope supplies a real replenishment cycle; the agency still owns every client campaign.

@@ -61,13 +61,3 @@
 ## Overall interpretation
 The critical WC1 instruction is the assessment: score the Jack-owned community, not the B2B licence. That makes B4 a documented zero -- the founder-host failure mode is explicitly unresolved -- and caps B7 because social work stays substantial. The viable version of this idea is #29; this variant's 11/20 with a founder-constraint zero is the honest read.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 19 -> new v2 ID 26)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 1 2 1 1 2 1 1 1
-New bars: 2 2 1 0 1 1 1 1 1 1
-
-- b4: 2->0 -- WC1 detail: WC1 forbids silently replacing this with product 29's B2B licence; Jack owning the room leaves the recorded founder-host failure mode unresolved.
-- b7: 2->1 -- WC1 detail: humans moderate conflict and maintain culture; the social work remains substantial.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

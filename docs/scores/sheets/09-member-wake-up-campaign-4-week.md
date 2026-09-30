@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — campaign library and customer relationships are transferable product assets
-- Bar 4 Runs without you: 1 → 2 — owner staff run the room; Jack is occasional oversight
-- Bar 5 Satisfaction shape: U → 2 — The owner sees completed member actions accumulate across four weeks
-- Bar 6 No Brainer: U → 1 — A quiet paid group creates a trigger, but owner effort and uncertain member participation make US$129 a considered purchase.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts missions, posts and tracking summaries
-- Bar 8 Natural route to buyers: U → 1 — Membership consultants can bundle the campaign into community refresh work for margin
-- Bar 10 Newton's Rule: U → 2 — One campaign serves multiple communities
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

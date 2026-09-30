@@ -50,16 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 1 → 0 — the paid path assessed is bespoke consulting, so the quiz does not make fulfillment build-once
-- Bar 5 Satisfaction shape: U → 1 — A prospect gets a clearer diagnosis, but harsh rejection can frustrate buyers and a label alone does not solve the underlying problem.
-- Bar 6 No Brainer: U → 1 — An immediate bottleneck may prompt a $19 DIY purchase, but artificial exclusion does not by itself establish useful buying value.
-- Bar 8 Natural route to buyers: U → 1 — Partner educators can share the free diagnostic for useful triage or referral income, but a funnel does not generate its own traffic.
-- Bar 10 Newton's Rule: U → 1 — The gate handles more submissions cheaply, but growth in qualified consulting work creates additional human delivery rather than strong product leverage.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

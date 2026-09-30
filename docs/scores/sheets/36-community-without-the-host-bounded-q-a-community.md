@@ -50,16 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 5 Satisfaction shape: U → 1 — Members may get a useful answer and connection, but belonging depends on active peers and reliable human participation.
-- Bar 6 No Brainer: U → 1 — A practitioner with a live problem may pay $39, but free groups and AI compete
-- Bar 8 Natural route to buyers: U → 1 — Practitioner newsletters and affiliates can refer for a share, but Jack-led content and appearances may still be needed to earn trust.
-- Bar 9 Easy to get the value: U → 1 — Join, orient, attend at the scheduled time, ask and apply the answer. Waiting and participation remain necessary to get value.
-- Bar 10 Newton's Rule: U → 1 — More members can create useful peer exchanges, but moderation and founder demand can grow alongside membership.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

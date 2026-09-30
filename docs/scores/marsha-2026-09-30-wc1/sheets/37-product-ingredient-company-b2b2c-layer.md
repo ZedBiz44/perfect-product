@@ -45,16 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: blank (one or more U); current total: 15/20. No U was treated as zero.
-- Previous founder qualification: conditional; current: conditional.
-- Previous shortlist signal: No; current: No.
-- Bar 5, Satisfaction shape: **U → 2**. Learner task completion is a concrete usage result for the payer.
-- Bar 10, Newton’s Rule: **2 → 1**. Same-course learner volume helps but new course companies add mapping maintenance.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - CourseFinish supplies the previously missing user experience. The score covers this course-action application; per-course mapping limits cross-customer scale.

@@ -50,21 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 1 Pays more than once: 1 → 2 — new quarterly observations are a repeat reason if the comparison stays relevant
-- Bar 3 Creates Gold: 1 → 2 — Rights-cleared observations, taxonomy and analysis methods form accumulating assets
-- Bar 4 Runs without you: 1 → 2 — A research operator manages collection and an analyst checks interpretation. Jack handles occasional standards decisions, assumed 0–2 hours/week.
-- Bar 5 Satisfaction shape: U → 1 — An owner identifies a useful peer comparison and changes a decision
-- Bar 6 No Brainer: U → 1 — Quarterly planning creates a purchase moment, but $79 requires relevant trustworthy comparisons that free reports cannot supply.
-- Bar 7 C3PO (AI does the work): U → 1 — AI cleans, groups and drafts findings
-- Bar 8 Natural route to buyers: U → 2 — Offer the report to an established host product's subscriber base with a sample comparison
-- Bar 9 Easy to get the value: U → 1 — Select the relevant segment, read the comparison, check whether it applies and choose an action. Data literacy and implementation effort remain.
-- Bar 10 Newton's Rule: U → 2 — Additional permissioned records can improve segment coverage and usefulness, while distribution of each completed report has low incremental cost.
-- Shape: Trophy (hypothesis) → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

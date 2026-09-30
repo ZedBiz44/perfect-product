@@ -62,13 +62,3 @@
 ## Overall interpretation
 The ingredient-company structure: the economics are per-host integration work, which is what keeps B2, B7 and B10 at 1. The satisfaction is real but host-filtered (B5=1). This is the structure behind #25's action layer -- as a company, the question is whether hosts buy vs build.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 39 -> new v2 ID 37)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 2 2 1 1 U 1 1 1 1 1
-New bars: 2 1 1 1 1 1 1 1 1 1
-
-- b2: 2->1 -- WC1 detail: per-host integration, mapping and compatibility work recur.
-- b5: U->1 -- WC1 detail: the example lane makes the host-filtered satisfaction assessable at partial.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

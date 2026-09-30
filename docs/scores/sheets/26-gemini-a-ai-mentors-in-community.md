@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — moderation and support rise with member activity
-- Bar 5 Satisfaction shape: U → 1 — A useful answer can feel supportive, but AI replies alone may not deliver real peer belonging or sustained community culture.
-- Bar 6 No Brainer: U → 1 — An operator with a live business question has a trigger, but free AI and established communities compete with the $49 membership.
-- Bar 7 C3PO (AI does the work): 2 → 1 — AI answers routine questions, but social moderation stays a large part of fulfillment
-- Bar 8 Natural route to buyers: U → 1 — Partner newsletters could refer members for revenue share
-- Bar 9 Easy to get the value: U → 1 — Join, orient, post a question, assess the response and participate. Value depends on answer quality and active members rather than access alone.
-- Bar 10 Newton's Rule: U → 1 — More useful discussions can strengthen the knowledge base, but moderation and founder expectations can rise with membership.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

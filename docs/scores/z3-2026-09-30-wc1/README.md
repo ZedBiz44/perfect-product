@@ -13,7 +13,6 @@ Fresh independent re-score of all 41 catalog entries after the catalog-v2 renumb
 - Catalog/product source snapshot: `045e1c7a042eddb0c71ef19a6cdb8d07b20611bb`
 - Rubric pin: `8be7c589928ef681577baaa765a90583d824f128`
 - All 41 entries receive complete numeric concept-fit scores; no U cells remain.
-- Earlier Z3 v1.1 assessment remains preserved and should not be treated as the current catalog assessment.
 
 ## Conditional shortlist signals
 
@@ -42,16 +41,6 @@ These clear the rubric's concept-fit threshold. This is not market proof, a laun
 10. **02 Shovel member-action unit** — 16/20
 11. **03 Door Opener** — 16/20
 12. **09 Member Wake-Up Campaign (4-week)** — 16/20
-
-## Main changes from my prior run
-
-- The old run had 27 incomplete ideas; the clarified catalog now makes all 41 numerically assessable.
-- **Platform Weather** remains one of the strongest product concepts, but drops from 19 to 18 because WC1 explicitly surfaces ongoing monitoring/editorial cost and free alternatives.
-- **Recurring Customer-Value Kits** moves from 18 to 17 because WC1 makes the continuing Jack calibration role explicit.
-- **Shovel** and its member-action variant move from 17 to 16 for the same founder-calibration reason.
-- Previously unranked structures can now be scored: **Collective Purchasing Engine 15**, **Benefits Factory 15**, and **Micro-product Holding Company 13**.
-- **Agency "No" Store** improves materially under its concrete below-budget referral scenario and scores 17.
-- Archived/dead ideas remain archived/dead even when mechanics score well.
 
 ## Interpretation
 

@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — each new brand and jurisdiction needs research and specialist review
-- Bar 3 Creates Gold: 1 → 2 — Separate owned brand, IP, customer contracts and operating records can form a sellable asset independent of the wider ZedBiz business.
-- Bar 5 Satisfaction shape: U → 2 — In the example, the buyer uses the rural-property checklist before an offer and asks a better question
-- Bar 6 No Brainer: U → 1 — A brokerage's next rural buyer intake creates a trigger, but its existing checklist and unproven licence value remain barriers.
-- Bar 7 C3PO (AI does the work): 1 → 2 — AI drafts the shared product and marketing assets
-- Bar 8 Natural route to buyers: U → 1 — Rural brokerage trainers and lending partners could introduce the brand for referral value
-- Bar 9 Easy to get the value: U → 1 — Broker brands and deploys the kit, buyer gathers information and consults professionals. Each new brand may have a different adoption burden.
-- Shape: varies → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

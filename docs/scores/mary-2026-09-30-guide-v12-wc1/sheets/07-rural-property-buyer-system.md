@@ -62,12 +62,3 @@
 ## Overall interpretation
 A credible niche tool with honest economics: one regional kit serves many brokerages, expert review is per edition, and expansion is linear by jurisdiction. The commercial risk is concentrated in B6/B8 -- the kit must demonstrably beat the brokerage's existing checklist, and the channel is unconfirmed. No founder-constraint conflict.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 14 -> new v2 ID 07)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 1 1 2 1 2 1
-New bars: 1 2 1 2 1 1 2 1 2 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

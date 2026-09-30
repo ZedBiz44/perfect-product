@@ -45,16 +45,6 @@ Source statements below are facts about the documented working design, not proof
 - Shortlist signal: **No — numeric threshold, zero conflict or founder/status qualification prevents an unqualified signal**.
 - Remaining work before commercial reliance: confirm the price, delivery/support boundaries, reusable rights and actual channel access. Numeric concept scores do not settle those operating questions.
 
-## Change from Marsha’s earlier assessment
-
-[Earlier sheet, preserved](../../marsha-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md) used catalog `bce3647216bbb101be6ffb4127d8f69e1c61f585`, guide v1.2 and the same rubric pin.
-- Previous total: 17/20; current total: 17/20. No U was treated as zero.
-- Previous founder qualification: holds; current: conditional.
-- Previous shortlist signal: Yes; current: No.
-- Bar 4, Runs without you: **2 → 1**. Jack still calibrates usefulness every shared week.
-- Bar 9, Easy to get the value: **1 → 2**. Selecting, branding and scheduling a finished weekly kit is manageable staff work.
-- Bars not listed above were rechecked and retained, not skipped. Changes combine newly specified mechanisms with corrections to earlier assumptions; they are not evidence of new sales.
-
 ## Sensitivity and improvements — not credited as current features
 
 - WC1 restores regular Jack usefulness review. The total remains 17, but the founder qualification now matches Shovel; it is no longer an unconditional shortlist signal.

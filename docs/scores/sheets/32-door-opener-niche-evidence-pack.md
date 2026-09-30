@@ -50,19 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 2 Build once, sell many: 2 → 1 — rights-cleared examples cost more than reusable scripts alone
-- Bar 3 Creates Gold: 1 → 2 — method plus evidence library and buyer list are the asset
-- Bar 4 Runs without you: 1 → 2 — research editor maintains the pack; Jack is occasional standards
-- Bar 5 Satisfaction shape: U → 2 — The agency can show a relevant example and perform a small useful improvement, making its first prospect conversation more concrete.
-- Bar 6 No Brainer: U → 1 — Client acquisition pain creates a trigger, but $199 must beat free audits and credible case studies may not transfer to the prospect's situation.
-- Bar 7 C3PO (AI does the work): U → 1 — AI finds candidate sources and drafts scripts
-- Bar 8 Natural route to buyers: U → 1 — Niche agency trainers can demonstrate the pack and earn margin
-- Bar 10 Newton's Rule: U → 2 — Each verified example can serve many pack buyers
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

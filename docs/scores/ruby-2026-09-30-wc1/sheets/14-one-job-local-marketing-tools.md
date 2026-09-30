@@ -2,7 +2,7 @@
 
 Date: 2026-09-30 | Reviewer: Ruby | Mode: Concept fit | Product version: WC1 | Catalog numbering: v2
 
-[Run summary](../README.md) · [Current catalog entry](../../../products/entries/14-one-job-local-marketing-tools.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/14-one-job-local-marketing-tools.md) · [Ruby historical pass](../ruby-2026-09-30/sheets/14-one-job-local-marketing-tools.md)
+[Run summary](../README.md) · [Current catalog entry](../../../products/entries/14-one-job-local-marketing-tools.md) · [Assessed entry snapshot](https://github.com/ZedBiz44/perfect-product/blob/d18a327a597f6b9292b5cacc94448934ce90cacb/docs/products/entries/14-one-job-local-marketing-tools.md)
 
 ## Assessment identity and sources
 

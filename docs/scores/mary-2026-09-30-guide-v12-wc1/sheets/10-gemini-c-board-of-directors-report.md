@@ -62,13 +62,3 @@
 ## Overall interpretation
 The honest version of an AI-report product: WC1 documents material per-buyer analyst review, which caps B2, B7 and B10 together. The concept is coherent (bounded intake, signed report, no upsell trap), but its economics are analyst-throughput economics, not software economics.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 21 -> new v2 ID 10)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 1 1 2 1 1 1
-New bars: 1 1 1 2 1 1 1 1 1 1
-
-- b2: 2->1 -- WC1 detail: each buyer's inputs require processing and substantive human plausibility checks.
-- b7: 2->1 -- WC1 detail: per-buyer review of assumptions and recommendation quality is material.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

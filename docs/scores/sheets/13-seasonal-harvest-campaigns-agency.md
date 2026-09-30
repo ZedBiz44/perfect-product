@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — seasonal IP and agency relationships accumulate across editions
-- Bar 4 Runs without you: 1 → 2 — agencies run campaigns; Jack is occasional positioning input
-- Bar 5 Satisfaction shape: U → 2 — A visible collection of seasonal enquiries or bookings creates the harvest
-- Bar 6 No Brainer: U → 1 — The approaching busy season creates urgency, but $399 needs a useful niche-specific offer and competes with existing agency assets.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts niche messages, landing-copy variants and follow-up assets
-- Bar 8 Natural route to buyers: U → 1 — Home-service agency trainers and supplier marketing programmes could distribute for margin or member value
-- Bar 10 Newton's Rule: U → 2 — Seasonal research and production costs spread over agencies
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

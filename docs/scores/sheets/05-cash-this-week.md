@@ -50,18 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 3 Creates Gold: 1 → 2 — campaign editions and buyer list transfer under contribution rights
-- Bar 4 Runs without you: 1 → 2 — operator maintains packs; Jack handles exceptions, not campaigns
-- Bar 5 Satisfaction shape: U → 1 — Booked responses during the campaign create a harvest feeling
-- Bar 6 No Brainer: U → 1 — A slow booking week is a trigger, but existing GoHighLevel reactivation workflows and free copy undermine urgency to buy this pack.
-- Bar 7 C3PO (AI does the work): U → 2 — AI drafts niche messages, variants and instructions
-- Bar 8 Natural route to buyers: U → 1 — Agency trainers can recommend a niche demonstration with an affiliate share
-- Bar 10 Newton's Rule: U → 2 — Each added buyer shares fixed pack costs
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

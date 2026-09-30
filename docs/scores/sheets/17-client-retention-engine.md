@@ -50,15 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 4 Runs without you: 1 → 2 — operator handles accounts; Jack is not the monthly account manager
-- Bar 5 Satisfaction shape: U → 1 — The agency gets its monthly reporting task partly handled, but the client may see another generic report rather than useful new value.
-- Bar 8 Natural route to buyers: U → 1 — Reporting-tool educators could refer for a share, but the overlap with existing reports gives distributors a weak reason to carry it.
-- Bar 10 Newton's Rule: U → 1 — Shared templates lower drafting cost, while customer-data exceptions and low per-client prices constrain margin improvements with volume.
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

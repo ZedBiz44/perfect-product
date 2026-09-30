@@ -63,12 +63,3 @@
 ## Overall interpretation
 A data-asset concept scored honestly: the accumulating permissioned dataset is real (B3=2), but everything else is capped at 1 because permission, standardization and comparability judgment are significant recurring human costs. WC1 correctly demotes the Trophy hypothesis -- a benchmark confers no earned status.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 05 -> new v2 ID 22)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 1 2 1 1 1 1 1 1 1
-New bars: 1 1 2 1 1 1 1 1 1 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read (WC1 also moves the working shape to Tool in the hand).
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

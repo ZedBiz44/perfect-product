@@ -63,12 +63,3 @@
 ## Overall interpretation
 A clean one-job tool: the mechanics score well (B2/B4/B7/B9) because the agency does all the variable work. The commercial questions are all on the buying side -- differentiation from free audits and weak per-niche recurrence. No founder-constraint conflict.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 04 -> new v2 ID 03)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 1 2 1 1 2 1 2 1
-New bars: 1 2 1 2 1 1 2 1 2 1
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._

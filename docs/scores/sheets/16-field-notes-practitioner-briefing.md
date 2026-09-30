@@ -50,14 +50,6 @@ Next exploration question: Confirm or replace the labelled payer, price, scope a
 Any proof work requires a separate request.
 ```
 
-## Changelog (2026-09-29 → 2026-09-30)
-
-Prior scores stay visible. Only bars that moved are listed.
-
-- Bar 6 No Brainer: U → 1 — a practitioner seeking a useful note is a partial trigger; free commentary remains the hurdle
-- Bar 7 C3PO (AI does the work): 0 → 1 — AI drafts, but the promised unit is Jack's judgment once per shared issue — partial, not incidental-only
-- Bar 8 Natural route to buyers: 0 → 1 — newsletter exchanges are a named referral route; trust still has to be earned
-
 ## Supporting traits (not additional scored bars)
 
 - [ ] Flagship promise fits one sentence.

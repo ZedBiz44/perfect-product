@@ -64,12 +64,3 @@
 ## Overall interpretation
 The shelf is the salvage structure for the killed generic wholesale idea (#19): the same distribution shape, but each box must be a genuine one-job tool -- that is what converts #19's B6=0 into B6=2 here. Eight twos, no zeros, 18/20. The weak bars are structural to the design: no subscription recurrence (B1=1) and the no-cross-promotion rule limiting the channel (B8=1). SHORTLIST candidate.
 
-## Changes vs previous assessment (Mary guide v1.1, old v1 ID 34 -> new v2 ID 33)
-Previous scores: `docs/scores/mary-2026-09-30-guide-v11/index.csv` (preserved untouched).
-
-Old bars: 1 2 2 2 2 2 2 1 2 2
-New bars: 1 2 2 2 2 2 2 1 2 2
-
-- No changes vs Mary's guide v1.1 pass; WC1 scenario confirms the earlier read.
-
-_Concept-fit mode: an unbuilt idea can be scored from documented design + business logic + labelled assumptions. U only where a missing detail materially prevents judgment. A concept score is not proof of demand or operating results; scores alone never authorize outreach, tests, building, or spending._
