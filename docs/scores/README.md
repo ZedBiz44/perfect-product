@@ -38,3 +38,8 @@
 - [Product catalog README](../products/README.md)
 - [Ingredient register](../ingredients.md)
 - [Current direction](../current-direction.md)
+
+
+## Additional independent assessments
+
+- [Cody — 2026-09-30: all 41 ideas](cody-2026-09-30/README.md), with a separate [CSV index](cody-2026-09-30/index.csv) and individual sheets. Grok's original scores remain unchanged.
