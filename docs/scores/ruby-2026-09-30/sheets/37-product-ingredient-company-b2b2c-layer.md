@@ -1,5 +1,7 @@
 # 37. Product Ingredient Company (B2B2C layer) - Ruby's assessment
 
+Catalog numbering v2: current ID **37**; earlier ID **37**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 [Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/37-product-ingredient-company-b2b2c-layer.md) · [Grok's sheet](../../sheets/37-product-ingredient-company-b2b2c-layer.md) · [Cody's sheet](../../cody-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md) · [Mary's sheet](../../mary-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md)
 
 - **Buyer and payer:** Upstream businesses who lose money when end users don't get results.

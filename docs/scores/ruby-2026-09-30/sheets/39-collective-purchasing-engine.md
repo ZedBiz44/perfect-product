@@ -1,5 +1,7 @@
 # 39. Collective Purchasing Engine - Ruby's assessment
 
+Catalog numbering v2: current ID **39**; earlier ID **39**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 [Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/39-collective-purchasing-engine.md) · [Grok's sheet](../../sheets/39-collective-purchasing-engine.md) · [Cody's sheet](../../cody-2026-09-30/sheets/39-collective-purchasing-engine.md) · [Mary's sheet](../../mary-2026-09-30/sheets/39-collective-purchasing-engine.md)
 
 - **Buyer and payer:** Agencies, associations, chambers, franchise systems, and their SMB client/member bases.

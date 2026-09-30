@@ -1,5 +1,7 @@
 # 41. Micro-product Holding Company - Ruby's assessment
 
+Catalog numbering v2: current ID **41**; earlier ID **41**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 [Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/41-micro-product-holding-company.md) · [Grok's sheet](../../sheets/41-micro-product-holding-company.md) · [Cody's sheet](../../cody-2026-09-30/sheets/41-micro-product-holding-company.md) · [Mary's sheet](../../mary-2026-09-30/sheets/41-micro-product-holding-company.md)
 
 - **Buyer and payer:** Portfolio model; end buyers vary by acquired product.

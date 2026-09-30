@@ -1,5 +1,7 @@
 # 38. Micro-brand factory - Ruby's assessment
 
+Catalog numbering v2: current ID **38**; earlier ID **38**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 [Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) · [Grok's sheet](../../sheets/38-micro-brand-factory-acreageready-exitready-etc.md) · [Cody's sheet](../../cody-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md) · [Mary's sheet](../../mary-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md)
 
 - **Buyer and payer:** Channel owners per micro-brand (realtors, brokers, community owners, course creators, chambers).
