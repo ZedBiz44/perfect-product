@@ -2459,413 +2459,413 @@ id,reviewer,bar,score,concept_total,comparison_status,source
 41,Z3,8,1,13,included,docs/scores/z3-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
 41,Z3,9,2,13,included,docs/scores/z3-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
 41,Z3,10,1,13,included,docs/scores/z3-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
-01,Manus,1,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,2,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,3,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,4,1,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,5,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,6,1,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,7,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,8,1,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,9,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-01,Manus,10,2,17,needs refresh,docs/scores/manus-2026-09-30/sheets/01-shovel-your-biz-shit.md
-02,Manus,1,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,2,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,3,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,4,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,5,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,6,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,7,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,8,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,9,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-02,Manus,10,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/02-shovel-member-action-unit.md
-03,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-03,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/03-door-opener.md
-04,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-04,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/04-save-kit.md
-05,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-05,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/05-cash-this-week.md
-06,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,6,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-06,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/06-platform-weather.md
-07,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-07,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/07-rural-property-buyer-system.md
-08,Manus,1,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-08,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/08-business-sale-digital-readiness-system.md
-09,Manus,1,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,2,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,3,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,4,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,5,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,6,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,7,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,8,0,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,9,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-09,Manus,10,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md
-10,Manus,1,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,7,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-10,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/10-gemini-c-board-of-directors-report.md
-11,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,4,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-11,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md
-12,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-12,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/12-member-night-in-a-box.md
-13,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-13,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/13-seasonal-harvest-campaigns-agency.md
-14,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,4,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-14,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/14-one-job-local-marketing-tools.md
-15,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,8,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,9,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-15,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md
-16,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,4,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,7,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,9,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-16,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/16-field-notes-practitioner-briefing.md
-17,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,6,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,7,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-17,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/17-client-retention-engine.md
-18,Manus,1,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,5,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,6,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,9,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-18,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/18-award-submission-factory.md
-19,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,5,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,6,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-19,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md
-20,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,5,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,7,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-20,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/20-recurring-customer-value-kits-weekly-os.md
-21,Manus,1,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,2,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,3,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,4,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,5,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,6,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,7,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,8,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,9,1,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-21,Manus,10,2,16,needs refresh,docs/scores/manus-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md
-22,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-22,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/22-think-and-grow-rich-benchmark-report.md
-23,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-23,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md
-24,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-24,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
-25,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-25,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/25-client-action-layer.md
-26,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,4,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,7,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-26,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md
-27,Manus,1,0,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-27,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md
-28,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,4,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-28,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/28-local-presence-score-certificate.md
-29,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,2,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-29,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/29-peer-circle-operating-system.md
-30,Manus,1,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,2,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,3,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,4,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,5,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,6,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,7,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,8,1,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,9,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-30,Manus,10,2,15,needs refresh,docs/scores/manus-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md
-31,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,7,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-31,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/31-shovel-sponsor-layer.md
-32,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,6,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-32,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md
-33,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-33,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/33-marys-one-job-shelf.md
-34,Manus,1,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,9,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-34,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/34-agency-no-store.md
-35,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-35,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/35-product-factory-contributor-syndicate.md
-36,Manus,1,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,2,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,7,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,9,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-36,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md
-37,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-37,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
-38,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,4,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-38,Manus,10,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
-39,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,3,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,8,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-39,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/39-collective-purchasing-engine.md
-40,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,3,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,5,1,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-40,Manus,10,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/40-benefits-factory.md
-41,Manus,1,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,2,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,3,2,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,4,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,5,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,6,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,7,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,8,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,9,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
-41,Manus,10,U,,needs refresh,docs/scores/manus-2026-09-30/sheets/41-micro-product-holding-company.md
+01,Manus,1,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,2,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,3,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,4,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,5,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,6,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,7,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,8,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,9,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+01,Manus,10,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/01-shovel-your-biz-shit.md
+02,Manus,1,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,4,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,5,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,9,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+02,Manus,10,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/02-shovel-member-action-unit.md
+03,Manus,1,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,5,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,9,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+03,Manus,10,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/03-door-opener.md
+04,Manus,1,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,2,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,3,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,4,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,5,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,6,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,7,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,8,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,9,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+04,Manus,10,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/04-save-kit.md
+05,Manus,1,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,2,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,3,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,4,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,5,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+05,Manus,10,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/05-cash-this-week.md
+06,Manus,1,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,2,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,3,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,4,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,5,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,6,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,7,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,8,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,9,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+06,Manus,10,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/06-platform-weather.md
+07,Manus,1,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,3,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,4,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,9,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+07,Manus,10,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/07-rural-property-buyer-system.md
+08,Manus,1,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,2,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,3,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,4,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,5,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,6,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,7,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,8,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,9,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+08,Manus,10,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/08-business-sale-digital-readiness-system.md
+09,Manus,1,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,2,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,3,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,4,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,5,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,6,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,7,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,8,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,9,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+09,Manus,10,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/09-member-wake-up-campaign-4-week.md
+10,Manus,1,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,2,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,3,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,4,2,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,5,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,6,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,7,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,8,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,9,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+10,Manus,10,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/10-gemini-c-board-of-directors-report.md
+11,Manus,1,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,2,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,3,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,4,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,5,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,6,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,7,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,8,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,9,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+11,Manus,10,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/11-new-coat-local-business-refresh-kits.md
+12,Manus,1,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,5,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,9,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+12,Manus,10,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/12-member-night-in-a-box.md
+13,Manus,1,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,2,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,3,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,4,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,5,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,6,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,7,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,8,1,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,9,1,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+13,Manus,10,2,18,included,docs/scores/manus-2026-09-30-wc1/sheets/13-seasonal-harvest-campaigns-agency.md
+14,Manus,1,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,5,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,9,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+14,Manus,10,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/14-one-job-local-marketing-tools.md
+15,Manus,1,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,2,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,3,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,4,2,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,5,2,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,6,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,7,0,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,8,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,9,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+15,Manus,10,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/15-no-lead-left-behind-ghl-agency-kit.md
+16,Manus,1,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,2,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,3,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,4,0,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,5,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,6,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,7,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,8,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,9,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+16,Manus,10,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/16-field-notes-practitioner-briefing.md
+17,Manus,1,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,2,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,3,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,4,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,5,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,6,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,7,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,8,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,9,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+17,Manus,10,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/17-client-retention-engine.md
+18,Manus,1,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,2,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,3,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,4,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,5,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,6,0,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,7,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,8,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,9,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+18,Manus,10,1,9,included,docs/scores/manus-2026-09-30-wc1/sheets/18-award-submission-factory.md
+19,Manus,1,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,2,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,3,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,4,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,5,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+19,Manus,10,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/19-wholesale-shelf-generic-kits.md
+20,Manus,1,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,2,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,3,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,4,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,5,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,6,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,7,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,8,1,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,9,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+20,Manus,10,2,17,included,docs/scores/manus-2026-09-30-wc1/sheets/20-recurring-customer-value-kits-weekly-os.md
+21,Manus,1,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,3,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,4,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,5,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+21,Manus,10,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/21-shovel-themed-day-engagement-kit.md
+22,Manus,1,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,2,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,3,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,4,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,5,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,6,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,7,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,8,U,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,9,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+22,Manus,10,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/22-think-and-grow-rich-benchmark-report.md
+23,Manus,1,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,2,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,3,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,4,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,5,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,6,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,7,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,8,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,9,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+23,Manus,10,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/23-sponsor-layer-on-weekly-item.md
+24,Manus,1,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,5,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,9,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+24,Manus,10,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md
+25,Manus,1,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,3,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,4,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+25,Manus,10,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/25-client-action-layer.md
+26,Manus,1,2,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,2,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,3,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,4,0,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,5,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,6,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,7,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,8,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,9,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+26,Manus,10,1,10,included,docs/scores/manus-2026-09-30-wc1/sheets/26-gemini-a-ai-mentors-in-community.md
+27,Manus,1,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,2,0,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,3,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,4,0,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,5,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,6,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,7,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,8,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,9,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+27,Manus,10,1,8,included,docs/scores/manus-2026-09-30-wc1/sheets/27-gemini-b-shovel-proof-gate-funnel.md
+28,Manus,1,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,2,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,3,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,4,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,5,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,6,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,7,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,8,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,9,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+28,Manus,10,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/28-local-presence-score-certificate.md
+29,Manus,1,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,5,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,9,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+29,Manus,10,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/29-peer-circle-operating-system.md
+30,Manus,1,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,3,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,4,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,7,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+30,Manus,10,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/30-shovel-plus-think-and-grow-rich-stickiness.md
+31,Manus,1,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,2,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,3,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,4,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,5,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,6,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,7,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,8,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,9,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+31,Manus,10,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/31-shovel-plus-sponsor-layer.md
+32,Manus,1,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,2,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,3,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,4,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,5,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,6,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,7,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,8,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,9,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+32,Manus,10,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/32-door-opener-plus-niche-evidence-pack.md
+33,Manus,1,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,2,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,3,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,4,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,5,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,6,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,7,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,8,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,9,2,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+33,Manus,10,1,16,included,docs/scores/manus-2026-09-30-wc1/sheets/33-mary-s-one-job-shelf.md
+34,Manus,1,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,2,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,3,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,4,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,5,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,6,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,7,2,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,8,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,9,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+34,Manus,10,1,13,included,docs/scores/manus-2026-09-30-wc1/sheets/34-agency-no-store.md
+35,Manus,1,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,2,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,3,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,4,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,5,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,6,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,7,2,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,8,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,9,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+35,Manus,10,1,12,included,docs/scores/manus-2026-09-30-wc1/sheets/35-product-factory-contributor-syndicate.md
+36,Manus,1,2,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,2,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,3,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,4,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,5,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,6,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,7,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,8,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,9,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+36,Manus,10,1,11,included,docs/scores/manus-2026-09-30-wc1/sheets/36-community-without-the-host-bounded-qanda-community.md
+37,Manus,1,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,2,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,3,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,4,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,5,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,6,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,7,2,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,8,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,9,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+37,Manus,10,1,15,included,docs/scores/manus-2026-09-30-wc1/sheets/37-product-ingredient-company-b2b2c-layer.md
+38,Manus,1,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,3,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,4,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,7,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,9,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+38,Manus,10,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+39,Manus,1,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,2,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,3,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,4,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,7,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,9,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+39,Manus,10,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/39-collective-purchasing-engine.md
+40,Manus,1,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,2,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,3,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,4,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,5,2,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,6,U,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,7,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,8,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,9,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+40,Manus,10,1,,included,docs/scores/manus-2026-09-30-wc1/sheets/40-benefits-factory.md
+41,Manus,1,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,2,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,3,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,4,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,5,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,6,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,7,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,8,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,9,2,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md
+41,Manus,10,1,14,included,docs/scores/manus-2026-09-30-wc1/sheets/41-micro-product-holding-company.md

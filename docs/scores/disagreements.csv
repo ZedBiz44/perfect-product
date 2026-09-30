@@ -1,137 +1,153 @@
-id,name,bar,Grok,Cody,Mary,Ruby,Marsha,Z3
-01,Shovel Your Biz-Shit,1,2,2,1,2,2,2
-01,Shovel Your Biz-Shit,4,1,1,2,1,1,1
-01,Shovel Your Biz-Shit,5,1,1,1,2,2,2
-01,Shovel Your Biz-Shit,10,2,2,1,2,2,1
-02,Shovel member-action unit,1,2,2,1,2,2,2
-02,Shovel member-action unit,4,1,1,2,1,1,1
-02,Shovel member-action unit,10,2,2,1,2,2,2
-03,Door Opener,3,2,2,1,2,2,2
-03,Door Opener,5,2,2,1,2,2,2
-03,Door Opener,9,1,1,2,1,1,1
-03,Door Opener,10,2,2,1,2,2,2
-04,Save Kit,1,2,2,1,2,2,2
-04,Save Kit,5,2,2,1,2,2,2
-05,Cash This Week,1,1,1,1,1,2,1
-05,Cash This Week,3,2,2,1,2,1,2
-05,Cash This Week,5,1,1,1,1,1,2
-05,Cash This Week,9,1,1,2,1,1,1
-05,Cash This Week,10,2,2,1,1,2,1
-06,Platform Weather,1,2,2,1,2,2,2
-06,Platform Weather,2,1,1,2,1,1,2
-06,Platform Weather,6,1,1,2,1,1,1
-07,Rural property buyer system,2,1,1,2,1,1,2
-07,Rural property buyer system,3,2,2,1,2,2,2
-07,Rural property buyer system,5,2,2,1,2,2,2
-07,Rural property buyer system,7,2,2,2,1,2,2
-07,Rural property buyer system,9,1,1,2,2,1,1
-08,Business-sale digital-readiness system,3,2,2,1,1,2,2
-08,Business-sale digital-readiness system,5,2,2,1,2,2,2
-08,Business-sale digital-readiness system,9,1,1,2,1,1,1
-08,Business-sale digital-readiness system,10,2,2,1,1,2,1
-09,Member Wake-Up Campaign (4-week),3,2,2,1,2,2,2
-09,Member Wake-Up Campaign (4-week),5,2,2,1,2,2,2
-09,Member Wake-Up Campaign (4-week),9,1,1,1,2,1,1
-09,Member Wake-Up Campaign (4-week),10,2,2,1,2,2,2
-10,Gemini C: Board of Directors report,1,1,1,1,1,2,1
-10,Gemini C: Board of Directors report,3,2,2,1,1,1,2
-10,Gemini C: Board of Directors report,7,1,1,1,1,1,2
-11,New Coat local-business refresh kits,1,1,1,1,2,2,2
-11,New Coat local-business refresh kits,3,2,2,1,2,2,2
-11,New Coat local-business refresh kits,9,1,1,1,2,1,1
-11,New Coat local-business refresh kits,10,2,2,1,2,2,1
-12,Member Night in a Box,1,1,1,1,1,2,1
-12,Member Night in a Box,3,2,2,1,2,2,2
-12,Member Night in a Box,9,1,1,1,2,2,1
-12,Member Night in a Box,10,2,2,1,2,2,2
-13,Seasonal harvest campaigns (agency),3,2,2,1,2,2,2
-13,Seasonal harvest campaigns (agency),10,2,2,1,2,2,2
-14,One-job local marketing tools,1,1,1,1,1,2,1
-14,One-job local marketing tools,3,2,2,1,2,2,2
-14,One-job local marketing tools,5,2,2,1,2,2,2
-14,One-job local marketing tools,10,2,2,1,2,2,2
-15,No Lead Left Behind: GHL Agency Kit,3,2,2,1,1,2,2
-15,No Lead Left Behind: GHL Agency Kit,6,1,1,0,0,1,1
-15,No Lead Left Behind: GHL Agency Kit,8,1,1,0,0,1,1
-15,No Lead Left Behind: GHL Agency Kit,10,2,2,1,1,2,2
-16,Field Notes / Practitioner Briefing,2,2,2,2,1,2,2
-16,Field Notes / Practitioner Briefing,5,1,1,1,1,2,1
-16,Field Notes / Practitioner Briefing,7,1,1,0,0,1,1
-16,Field Notes / Practitioner Briefing,10,1,1,1,1,2,1
-17,Client Retention Engine,4,2,2,1,2,2,2
-17,Client Retention Engine,6,0,0,0,0,1,0
-17,Client Retention Engine,7,1,1,0,1,1,1
-18,Award-Submission Factory,2,1,1,2,1,1,1
-18,Award-Submission Factory,4,2,2,1,2,2,2
-19,Wholesale Shelf (generic kits),6,0,0,0,0,1,0
-20,Recurring Customer-Value Kits (weekly OS),4,1,1,2,1,1,1
-20,Recurring Customer-Value Kits (weekly OS),9,2,2,1,2,2,2
-20,Recurring Customer-Value Kits (weekly OS),10,2,2,1,2,2,2
-21,Shovel themed-day engagement kit,1,2,2,1,2,2,2
-21,Shovel themed-day engagement kit,3,2,2,1,2,2,2
-21,Shovel themed-day engagement kit,4,1,1,2,1,1,1
-21,Shovel themed-day engagement kit,8,2,2,2,1,2,2
-21,Shovel themed-day engagement kit,10,2,2,1,2,2,2
-22,Think and Grow Rich (benchmark report),1,2,2,1,1,2,2
-22,Think and Grow Rich (benchmark report),4,2,2,1,2,2,2
-22,Think and Grow Rich (benchmark report),5,1,1,1,1,2,1
-22,Think and Grow Rich (benchmark report),8,2,2,1,1,2,2
-22,Think and Grow Rich (benchmark report),10,2,2,1,2,2,2
-23,Sponsor layer on weekly item,1,1,1,1,1,2,1
-23,Sponsor layer on weekly item,3,2,2,1,1,2,2
-23,Sponsor layer on weekly item,5,1,1,1,1,2,1
-23,Sponsor layer on weekly item,10,2,2,2,1,2,2
-24,Weekly retention drop / seasonal agency campaigns,1,2,2,1,2,2,2
-24,Weekly retention drop / seasonal agency campaigns,3,2,2,1,2,2,2
-24,Weekly retention drop / seasonal agency campaigns,8,2,2,1,1,2,2
-24,Weekly retention drop / seasonal agency campaigns,10,2,2,1,2,2,2
-25,Client Action Layer,1,2,2,1,2,2,2
-25,Client Action Layer,3,2,2,1,2,2,2
-25,Client Action Layer,4,2,2,1,2,2,2
-25,Client Action Layer,5,2,2,1,2,2,2
-25,Client Action Layer,7,2,2,1,1,2,2
-26,Gemini A: AI mentors in community,2,1,1,2,1,1,1
-27,Gemini B: Shovel-Proof Gate funnel,2,0,0,1,1,0,0
-28,Local Presence Score / certificate,3,2,2,1,2,2,2
-28,Local Presence Score / certificate,5,1,1,2,1,1,1
-29,Peer-circle operating system,3,2,2,1,2,2,2
-29,Peer-circle operating system,6,1,1,2,1,1,1
-29,Peer-circle operating system,10,2,2,1,2,2,2
-30,Shovel + Think and Grow Rich stickiness,1,2,2,1,2,2,2
-30,Shovel + Think and Grow Rich stickiness,4,1,1,2,1,1,1
-30,Shovel + Think and Grow Rich stickiness,5,2,2,1,2,2,2
-30,Shovel + Think and Grow Rich stickiness,8,2,2,2,1,2,2
-30,Shovel + Think and Grow Rich stickiness,10,2,2,1,2,2,2
-31,Shovel + Sponsor layer,1,1,1,1,1,2,1
-31,Shovel + Sponsor layer,3,2,2,1,1,2,2
-31,Shovel + Sponsor layer,10,2,2,2,1,2,2
-32,Door Opener + niche evidence pack,2,1,1,2,1,1,1
-32,Door Opener + niche evidence pack,3,2,2,1,2,2,2
-32,Door Opener + niche evidence pack,5,2,2,1,2,2,2
-32,Door Opener + niche evidence pack,7,1,1,2,1,1,1
-32,Door Opener + niche evidence pack,9,1,1,2,1,1,1
-32,Door Opener + niche evidence pack,10,2,2,1,2,2,2
-33,Mary's one-job shelf,1,1,1,1,1,2,1
-33,Mary's one-job shelf,6,1,1,2,1,1,1
-34,"Agency ""No"" Store",1,1,1,1,1,2,2
-34,"Agency ""No"" Store",3,2,2,1,2,2,2
-34,"Agency ""No"" Store",4,2,2,1,2,2,2
-34,"Agency ""No"" Store",5,2,2,1,2,2,2
-34,"Agency ""No"" Store",10,2,2,1,2,2,2
-35,Product factory / contributor syndicate,1,1,1,1,1,2,1
-35,Product factory / contributor syndicate,3,2,2,1,2,2,2
-35,Product factory / contributor syndicate,5,1,1,1,1,2,1
-36,Community Without the Host,2,1,1,2,1,1,1
-36,Community Without the Host,4,0,0,0,0,1,0
-37,Product Ingredient Company (B2B2C layer),3,2,2,1,2,2,2
-37,Product Ingredient Company (B2B2C layer),4,2,2,1,2,2,2
-37,Product Ingredient Company (B2B2C layer),5,2,2,1,2,2,2
-37,Product Ingredient Company (B2B2C layer),7,2,2,1,1,2,2
-38,Micro-brand factory,5,2,2,1,1,2,2
-38,Micro-brand factory,7,2,2,1,1,2,2
-39,Collective Purchasing Engine,5,2,2,1,2,2,2
-40,Benefits Factory,5,2,2,1,2,2,2
-40,Benefits Factory,10,2,2,2,1,1,2
-41,Micro-product Holding Company,2,1,1,2,1,1,1
-41,Micro-product Holding Company,3,2,2,1,2,2,2
-41,Micro-product Holding Company,5,2,2,1,2,2,2
+id,name,bar,Grok,Cody,Mary,Ruby,Marsha,Z3,Manus
+01,Shovel Your Biz-Shit,1,2,2,1,2,2,2,2
+01,Shovel Your Biz-Shit,4,1,1,2,1,1,1,1
+01,Shovel Your Biz-Shit,5,1,1,1,2,2,2,1
+01,Shovel Your Biz-Shit,9,2,2,2,2,2,2,1
+01,Shovel Your Biz-Shit,10,2,2,1,2,2,1,2
+02,Shovel member-action unit,1,2,2,1,2,2,2,2
+02,Shovel member-action unit,4,1,1,2,1,1,1,1
+02,Shovel member-action unit,10,2,2,1,2,2,2,2
+03,Door Opener,3,2,2,1,2,2,2,2
+03,Door Opener,5,2,2,1,2,2,2,2
+03,Door Opener,9,1,1,2,1,1,1,1
+03,Door Opener,10,2,2,1,2,2,2,2
+04,Save Kit,1,2,2,1,2,2,2,2
+04,Save Kit,3,2,2,2,2,2,2,1
+04,Save Kit,5,2,2,1,2,2,2,2
+05,Cash This Week,1,1,1,1,1,2,1,1
+05,Cash This Week,3,2,2,1,2,1,2,1
+05,Cash This Week,5,1,1,1,1,1,2,1
+05,Cash This Week,9,1,1,2,1,1,1,1
+05,Cash This Week,10,2,2,1,1,2,1,2
+06,Platform Weather,1,2,2,1,2,2,2,2
+06,Platform Weather,2,1,1,2,1,1,2,1
+06,Platform Weather,6,1,1,2,1,1,1,1
+07,Rural property buyer system,2,1,1,2,1,1,2,1
+07,Rural property buyer system,3,2,2,1,2,2,2,1
+07,Rural property buyer system,5,2,2,1,2,2,2,2
+07,Rural property buyer system,7,2,2,2,1,2,2,2
+07,Rural property buyer system,9,1,1,2,2,1,1,2
+08,Business-sale digital-readiness system,3,2,2,1,1,2,2,2
+08,Business-sale digital-readiness system,5,2,2,1,2,2,2,2
+08,Business-sale digital-readiness system,7,2,2,2,2,2,2,1
+08,Business-sale digital-readiness system,9,1,1,2,1,1,1,1
+08,Business-sale digital-readiness system,10,2,2,1,1,2,1,2
+09,Member Wake-Up Campaign (4-week),3,2,2,1,2,2,2,1
+09,Member Wake-Up Campaign (4-week),5,2,2,1,2,2,2,2
+09,Member Wake-Up Campaign (4-week),9,1,1,1,2,1,1,1
+09,Member Wake-Up Campaign (4-week),10,2,2,1,2,2,2,2
+10,Gemini C: Board of Directors report,1,1,1,1,1,2,1,1
+10,Gemini C: Board of Directors report,3,2,2,1,1,1,2,1
+10,Gemini C: Board of Directors report,7,1,1,1,1,1,2,1
+11,New Coat local-business refresh kits,1,1,1,1,2,2,2,2
+11,New Coat local-business refresh kits,3,2,2,1,2,2,2,2
+11,New Coat local-business refresh kits,9,1,1,1,2,1,1,1
+11,New Coat local-business refresh kits,10,2,2,1,2,2,1,2
+12,Member Night in a Box,1,1,1,1,1,2,1,1
+12,Member Night in a Box,3,2,2,1,2,2,2,2
+12,Member Night in a Box,9,1,1,1,2,2,1,1
+12,Member Night in a Box,10,2,2,1,2,2,2,2
+13,Seasonal harvest campaigns (agency),3,2,2,1,2,2,2,2
+13,Seasonal harvest campaigns (agency),6,1,1,1,1,1,1,2
+13,Seasonal harvest campaigns (agency),10,2,2,1,2,2,2,2
+14,One-job local marketing tools,1,1,1,1,1,2,1,1
+14,One-job local marketing tools,3,2,2,1,2,2,2,2
+14,One-job local marketing tools,5,2,2,1,2,2,2,2
+14,One-job local marketing tools,10,2,2,1,2,2,2,1
+15,No Lead Left Behind: GHL Agency Kit,2,2,2,2,2,2,2,1
+15,No Lead Left Behind: GHL Agency Kit,3,2,2,1,1,2,2,1
+15,No Lead Left Behind: GHL Agency Kit,6,1,1,0,0,1,1,1
+15,No Lead Left Behind: GHL Agency Kit,7,1,1,1,1,1,1,0
+15,No Lead Left Behind: GHL Agency Kit,8,1,1,0,0,1,1,1
+15,No Lead Left Behind: GHL Agency Kit,10,2,2,1,1,2,2,1
+16,Field Notes / Practitioner Briefing,2,2,2,2,1,2,2,2
+16,Field Notes / Practitioner Briefing,5,1,1,1,1,2,1,1
+16,Field Notes / Practitioner Briefing,7,1,1,0,0,1,1,1
+16,Field Notes / Practitioner Briefing,10,1,1,1,1,2,1,2
+17,Client Retention Engine,4,2,2,1,2,2,2,2
+17,Client Retention Engine,6,0,0,0,0,1,0,1
+17,Client Retention Engine,7,1,1,0,1,1,1,1
+18,Award-Submission Factory,2,1,1,2,1,1,1,1
+18,Award-Submission Factory,4,2,2,1,2,2,2,1
+19,Wholesale Shelf (generic kits),1,2,2,2,2,2,2,1
+19,Wholesale Shelf (generic kits),6,0,0,0,0,1,0,1
+20,Recurring Customer-Value Kits (weekly OS),4,1,1,2,1,1,1,1
+20,Recurring Customer-Value Kits (weekly OS),9,2,2,1,2,2,2,2
+20,Recurring Customer-Value Kits (weekly OS),10,2,2,1,2,2,2,2
+21,Shovel themed-day engagement kit,1,2,2,1,2,2,2,2
+21,Shovel themed-day engagement kit,2,2,2,2,2,2,2,1
+21,Shovel themed-day engagement kit,3,2,2,1,2,2,2,2
+21,Shovel themed-day engagement kit,4,1,1,2,1,1,1,1
+21,Shovel themed-day engagement kit,8,2,2,2,1,2,2,1
+21,Shovel themed-day engagement kit,9,2,2,2,2,2,2,1
+21,Shovel themed-day engagement kit,10,2,2,1,2,2,2,2
+22,Think and Grow Rich (benchmark report),1,2,2,1,1,2,2,2
+22,Think and Grow Rich (benchmark report),4,2,2,1,2,2,2,2
+22,Think and Grow Rich (benchmark report),5,1,1,1,1,2,1,2
+22,Think and Grow Rich (benchmark report),8,2,2,1,1,2,2,U
+22,Think and Grow Rich (benchmark report),10,2,2,1,2,2,2,1
+23,Sponsor layer on weekly item,1,1,1,1,1,2,1,1
+23,Sponsor layer on weekly item,3,2,2,1,1,2,2,1
+23,Sponsor layer on weekly item,5,1,1,1,1,2,1,1
+23,Sponsor layer on weekly item,10,2,2,2,1,2,2,1
+24,Weekly retention drop / seasonal agency campaigns,1,2,2,1,2,2,2,2
+24,Weekly retention drop / seasonal agency campaigns,3,2,2,1,2,2,2,2
+24,Weekly retention drop / seasonal agency campaigns,8,2,2,1,1,2,2,1
+24,Weekly retention drop / seasonal agency campaigns,10,2,2,1,2,2,2,2
+25,Client Action Layer,1,2,2,1,2,2,2,2
+25,Client Action Layer,3,2,2,1,2,2,2,1
+25,Client Action Layer,4,2,2,1,2,2,2,2
+25,Client Action Layer,5,2,2,1,2,2,2,2
+25,Client Action Layer,7,2,2,1,1,2,2,2
+26,Gemini A: AI mentors in community,2,1,1,2,1,1,1,1
+27,Gemini B: Shovel-Proof Gate funnel,2,0,0,1,1,0,0,0
+28,Local Presence Score / certificate,3,2,2,1,2,2,2,1
+28,Local Presence Score / certificate,5,1,1,2,1,1,1,1
+28,Local Presence Score / certificate,10,2,2,2,2,2,2,1
+29,Peer-circle operating system,3,2,2,1,2,2,2,2
+29,Peer-circle operating system,6,1,1,2,1,1,1,1
+29,Peer-circle operating system,10,2,2,1,2,2,2,2
+30,Shovel + Think and Grow Rich stickiness,1,2,2,1,2,2,2,2
+30,Shovel + Think and Grow Rich stickiness,4,1,1,2,1,1,1,1
+30,Shovel + Think and Grow Rich stickiness,5,2,2,1,2,2,2,2
+30,Shovel + Think and Grow Rich stickiness,8,2,2,2,1,2,2,1
+30,Shovel + Think and Grow Rich stickiness,10,2,2,1,2,2,2,2
+31,Shovel + Sponsor layer,1,1,1,1,1,2,1,1
+31,Shovel + Sponsor layer,3,2,2,1,1,2,2,1
+31,Shovel + Sponsor layer,7,1,1,1,1,1,1,2
+31,Shovel + Sponsor layer,10,2,2,2,1,2,2,2
+32,Door Opener + niche evidence pack,2,1,1,2,1,1,1,1
+32,Door Opener + niche evidence pack,3,2,2,1,2,2,2,2
+32,Door Opener + niche evidence pack,5,2,2,1,2,2,2,2
+32,Door Opener + niche evidence pack,7,1,1,2,1,1,1,2
+32,Door Opener + niche evidence pack,9,1,1,2,1,1,1,1
+32,Door Opener + niche evidence pack,10,2,2,1,2,2,2,2
+33,Mary's one-job shelf,1,1,1,1,1,2,1,1
+33,Mary's one-job shelf,6,1,1,2,1,1,1,1
+33,Mary's one-job shelf,10,2,2,2,2,2,2,1
+34,"Agency ""No"" Store",1,1,1,1,1,2,2,1
+34,"Agency ""No"" Store",3,2,2,1,2,2,2,1
+34,"Agency ""No"" Store",4,2,2,1,2,2,2,2
+34,"Agency ""No"" Store",5,2,2,1,2,2,2,1
+34,"Agency ""No"" Store",10,2,2,1,2,2,2,1
+35,Product factory / contributor syndicate,1,1,1,1,1,2,1,1
+35,Product factory / contributor syndicate,3,2,2,1,2,2,2,1
+35,Product factory / contributor syndicate,5,1,1,1,1,2,1,2
+36,Community Without the Host,2,1,1,2,1,1,1,1
+36,Community Without the Host,4,0,0,0,0,1,0,1
+37,Product Ingredient Company (B2B2C layer),3,2,2,1,2,2,2,2
+37,Product Ingredient Company (B2B2C layer),4,2,2,1,2,2,2,2
+37,Product Ingredient Company (B2B2C layer),5,2,2,1,2,2,2,2
+37,Product Ingredient Company (B2B2C layer),7,2,2,1,1,2,2,2
+38,Micro-brand factory,5,2,2,1,1,2,2,2
+38,Micro-brand factory,7,2,2,1,1,2,2,2
+38,Micro-brand factory,9,1,1,1,1,1,1,2
+39,Collective Purchasing Engine,5,2,2,1,2,2,2,2
+39,Collective Purchasing Engine,6,2,2,2,2,2,2,1
+40,Benefits Factory,3,2,2,2,2,2,2,1
+40,Benefits Factory,5,2,2,1,2,2,2,2
+40,Benefits Factory,6,1,1,1,1,1,1,U
+40,Benefits Factory,10,2,2,2,1,1,2,1
+41,Micro-product Holding Company,2,1,1,2,1,1,1,2
+41,Micro-product Holding Company,3,2,2,1,2,2,2,2
+41,Micro-product Holding Company,5,2,2,1,2,2,2,2
