@@ -1,0 +1,42 @@
+id,name,group,status,primary_shape,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,assessed,total,passes,zeros,incomplete,date,scorer,sheet_path
+01,Shovel Your Biz-Shit,Products,core candidate,Six Pack of Beer Desire,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/01-shovel-your-biz-shit.md
+02,Shovel themed-day engagement kit,Ingredients & add-ons,exploration,Six Pack of Beer Desire,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/02-shovel-themed-day-engagement-kit.md
+03,Shovel member-action unit,Products,exploration,Six Pack of Beer Desire,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/03-shovel-member-action-unit.md
+04,Door Opener,Products,hopper,Tool in the hand,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/04-door-opener.md
+05,Think and Grow Rich (benchmark report),Ingredients & add-ons,hopper,Trophy (hypothesis),1,1,1,1,U,U,U,U,U,U,4,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/05-think-and-grow-rich-benchmark-report.md
+06,Mary's one-job shelf,Structures,hopper,Tool in the hand,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/06-marys-one-job-shelf.md
+07,Sponsor layer on weekly item,Ingredients & add-ons,hopper,Six Pack of Beer Desire,1,1,1,1,U,U,U,U,U,U,4,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/07-sponsor-layer-on-weekly-item.md
+08,Save Kit,Products,hopper,Tool in the hand,2,1,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/08-save-kit.md
+09,Cash This Week,Products,hopper,Harvest Gala,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/09-cash-this-week.md
+10,Weekly retention drop / seasonal agency campaigns,Ingredients & add-ons,hopper,Harvest Gala / Six Pack,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/10-weekly-retention-drop-seasonal-agency-campaigns.md
+11,Platform Weather,Products,hopper,Tool in the hand,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/11-platform-weather.md
+12,"Agency ""No"" Store",Structures,hopper,Tool in the hand,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/12-agency-no-store.md
+13,Client Action Layer,Ingredients & add-ons,hopper,Tool in the hand,1,1,1,1,U,U,U,U,U,U,4,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/13-client-action-layer.md
+14,Rural property buyer system,Products,hopper,Tool in the hand,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/14-rural-property-buyer-system.md
+15,Business-sale digital-readiness system,Products,hopper,Tool in the hand,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/15-business-sale-digital-readiness-system.md
+16,Member Wake-Up Campaign (4-week),Products,hopper,Harvest Gala / Six Pack,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/16-member-wake-up-campaign-4-week.md
+17,Product factory / contributor syndicate,Structures,hopper,— (meta),0,U,1,1,U,U,U,U,U,U,3,,0,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/17-product-factory-contributor-syndicate.md
+18,Community Without the Host,Structures,archive,Belonging without hosting,2,1,1,0,U,U,U,U,U,U,4,,1,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/18-community-without-the-host-bounded-q-a-community.md
+19,Gemini A: AI mentors in community,Ingredients & add-ons,hopper,Belonging without hosting,2,2,1,0,U,U,U,U,U,U,4,,2,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/19-gemini-a-ai-mentors-in-community.md
+20,Gemini B: Shovel-Proof Gate funnel,Ingredients & add-ons,hopper,Tool in the hand,1,1,1,0,U,U,U,U,1,U,5,,0,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/20-gemini-b-shovel-proof-gate-funnel.md
+21,Gemini C: Board of Directors report,Products,hopper,Tool in the hand / Coat of paint,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/21-gemini-c-board-of-directors-report.md
+22,New Coat local-business refresh kits,Products,hopper,Coat of paint,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/22-new-coat-local-business-refresh-kits.md
+23,Member Night in a Box,Products,hopper,Event Excitement,1,2,1,2,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/23-member-night-in-a-box.md
+24,Seasonal harvest campaigns (agency),Products,hopper,Harvest Gala,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/24-seasonal-harvest-campaigns-agency.md
+25,One-job local marketing tools,Products,hopper,Tool in the hand,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/25-one-job-local-marketing-tools.md
+26,Local Presence Score / certificate,Ingredients & add-ons,hopper,Trophy,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/26-local-presence-score-certificate.md
+27,Peer-circle operating system,Ingredients & add-ons,hopper,Belonging without hosting,2,2,1,2,U,U,U,U,1,U,5,,3,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/27-peer-circle-operating-system.md
+28,No Lead Left Behind: GHL Agency Kit,Products,archive / dead-but-ingredient,Tool in the hand,1,2,1,1,U,U,U,0,1,U,6,,1,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/28-no-lead-left-behind-ghl-agency-kit.md
+29,Field Notes / Practitioner Briefing,Products,archive / dead-but-ingredient,Six Pack of Beer Desire,2,1,1,0,1,U,0,U,2,1,8,,2,2,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/29-field-notes-practitioner-briefing.md
+30,Client Retention Engine,Products,dead-but-ingredient,Six Pack of Beer Desire,2,1,1,1,U,0,U,U,1,U,6,,1,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/30-client-retention-engine.md
+31,Award-Submission Factory,Products,dead-but-ingredient,Trophy,1,1,1,1,U,0,U,U,1,U,6,,0,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/31-award-submission-factory.md
+32,Wholesale Shelf (generic kits),Products,dead-but-ingredient,—,2,2,1,1,U,0,U,U,U,U,5,,2,1,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/32-wholesale-shelf-generic-kits.md
+33,Shovel + Think and Grow Rich stickiness,Ingredients & add-ons,exploration,Six Pack + Trophy data,2,1,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/33-shovel-think-and-grow-rich-stickiness.md
+34,Shovel + Sponsor layer,Ingredients & add-ons,exploration,Six Pack of Beer Desire,1,1,1,1,U,U,U,U,U,U,4,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/34-shovel-sponsor-layer.md
+35,Door Opener + niche evidence pack,Ingredients & add-ons,exploration,Tool in the hand,1,2,1,1,U,U,U,U,1,U,5,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/35-door-opener-niche-evidence-pack.md
+36,Recurring Customer-Value Kits (weekly OS),Products,exploration,Six Pack of Beer Desire,2,2,1,1,U,U,U,U,1,U,5,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/36-recurring-customer-value-kits-weekly-os.md
+37,Product Ingredient Company (B2B2C layer),Structures,exploration,— (structural),2,2,1,1,U,U,U,U,U,U,4,,2,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md
+38,Micro-brand factory,Structures,exploration,varies,1,U,1,1,U,U,U,U,U,U,3,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md
+39,Collective Purchasing Engine,Structures,exploration,Tool in the hand / Harvest Gala,U,U,1,U,U,U,U,U,U,1,2,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/39-collective-purchasing-engine.md
+40,Benefits Factory,Structures,exploration,Tool in the hand,U,2,1,U,U,U,U,U,U,U,2,,1,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/40-benefits-factory.md
+41,Micro-product Holding Company,Structures,exploration,varies by acquired product,U,1,1,1,U,U,U,U,U,U,3,,0,0,yes,2026-09-30,Mary,docs/scores/mary-2026-09-30/sheets/41-micro-product-holding-company.md
