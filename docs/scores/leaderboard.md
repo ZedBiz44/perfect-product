@@ -6,7 +6,7 @@ Updated: 2026-09-30 | Agent: Cody
 
 ## Current position
 
-Three original independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). Those historical assessments remain preserved under their original standards. New guide-v1.1 concept-fit assessments are stored separately: [Mary v1.1](mary-2026-09-30-guide-v11/README.md) and [Z3 v1.1](z3-2026-09-30/README.md). The historical comparison tables below are not overwritten by the newer scoring standard.
+Three original independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). Those historical assessments remain preserved under their original standards. New guide-v1.1 concept-fit assessments are stored separately: [Mary v1.1](mary-2026-09-30-guide-v11/README.md), [Z3 v1.1](z3-2026-09-30/README.md), and [Manus v1.1](manus-2026-09-30/README.md). The historical comparison tables below are not overwritten by the newer scoring standard.
 
 Grok's former leaderboard is preserved as his [independent assessment](grok-2026-09-29/README.md). The comparison below brings all three reviewers together without changing their scores. It follows the Notion catalog's group order; **No. is the display number, not a rank**. GitHub IDs remain stable for source and scoring links.
 
@@ -44,6 +44,20 @@ Complete numeric assessments can be ordered; incomplete records with U remain un
 | 14 | 31 | Award-Submission Factory | 11/20 | 3 | 2 |
 
 Z3 left 27 ideas incomplete where an essential bar remained unknown. Notably, **Collective Purchasing Engine (39)** and **Benefits Factory (40)** scored strongly on the assessable structural bars but remain unranked because the current entries do not settle payer economics and the AI/human work split.
+
+## Guide v1.1 concept-fit — Manus independent pass
+
+Manus independently reviewed all 41 catalog entries under Guide v1.1 / Rubric v1.1, pinned to commit `8be7c589928ef681577baaa765a90583d824f128`. Full record: [Manus assessment](manus-2026-09-30/README.md) · [CSV](manus-2026-09-30/index.csv).
+
+Five entries had all ten bars numeric. They are listed for transparency, **not as a reconciled recommendation**. No entry earns a shortlist signal: 01 has a partial founder-independence bar; 16 contains a zero; and the remaining complete entries fall below the required 17/20 and seven-strong-fit threshold. The other 36 entries retain at least one U and remain unranked.
+
+| Order | ID | Idea | Total | Passes | Zeros |
+| ---: | --- | --- | ---: | ---: | ---: |
+| 1 | 01 | Shovel Your Biz-Shit | 17/20 | 7 | 0 |
+| 2 | 02 | Shovel themed-day engagement kit | 16/20 | 6 | 0 |
+| 3 | 03 | Shovel member-action unit | 16/20 | 6 | 0 |
+| 4 | 16 | Member Wake-Up Campaign (4-week) | 15/20 | 6 | 1 |
+| 5 | 33 | Shovel with Think and Grow Rich stickiness layer | 15/20 | 5 | 0 |
 
 ## Products
 
@@ -103,4 +117,4 @@ Z3 left 27 ideas incomplete where an essential bar remained unknown. Notably, **
 
 ## Sources and refresh
 
-This is a saved comparison, not an automatic feed. Historical source CSVs: [Grok](index.csv), [Cody](cody-2026-09-30/index.csv), [Mary](mary-2026-09-30/index.csv). Guide-v1.1 assessments: [Mary v1.1](mary-2026-09-30-guide-v11/index.csv) and [Z3 v1.1](z3-2026-09-30/index.csv). Rebuild or reconcile only under the scoring guide; never average U with numbers. Rubric totals remain blank wherever U is present.
+This is a saved comparison, not an automatic feed. Historical source CSVs: [Grok](index.csv), [Cody](cody-2026-09-30/index.csv), [Mary](mary-2026-09-30/index.csv). Guide-v1.1 assessments: [Mary v1.1](mary-2026-09-30-guide-v11/index.csv), [Z3 v1.1](z3-2026-09-30/index.csv), and [Manus v1.1](manus-2026-09-30/index.csv). Rebuild or reconcile only under the scoring guide; never average U with numbers. Rubric totals remain blank wherever U is present.
