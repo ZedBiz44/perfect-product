@@ -8,7 +8,7 @@ Updated: 2026-09-30 | Agent: Cody | Catalog numbering: v2
 
 Cody's old evidence-focused assessment was deleted at Jack's request. Only the replacement WC1 assessment is current for Cody. All other reviewers' original scores are preserved.
 
-**Version matters:** Cody assesses WC1 for 01–38 and Jack’s clarified WC1.1 for 39–41. Mary, Z3, Manus and Marsha below assessed earlier descriptions. These are separate views, not equivalent votes on one fully specified product. Cody authored WC1; this review does not independently validate those assumptions.
+**Version matters:** Cody and Z3 now both assess WC1 for 01–38 and Jack’s clarified WC1.1 for 39–41. Mary, Manus and Marsha below assessed earlier descriptions. Z3's earlier v1.1 run is preserved separately. These are separate independent concept judgments, not market evidence or equivalent votes.
 
 No combined rank is calculated. Show each review separately; combine only after labelled reconciliation of matching versions under the maintained guide. Never average U with numbers. Numeric totals are concept judgments, not market proof. A zero conflict stays visible beside any total. Catalog numbers identify entries, not ranks.
 
@@ -18,12 +18,32 @@ Current Cody results: **41 complete entries; 410 numeric bars and no U**. [Withi
 
 - [Cody WC1 CSV](cody-2026-09-30-wc1/index.csv) — WC1 / WC1.1 catalog; guide v1.2.
 - [Mary v1.1 CSV](mary-2026-09-30-guide-v11/index.csv) — earlier catalog; original record and standards retained.
-- [Z3 v1.1 CSV](z3-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
+- [Z3 WC1/WC1.1 CSV](z3-2026-09-30-wc1/index.csv) — current clarified catalog; guide v1.2.
+- [Z3 v1.1 CSV](z3-2026-09-30/index.csv) — earlier catalog; historical record retained.
 - [Manus v1.1 CSV](manus-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
 - [Marsha v1.2 CSV](marsha-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
 - [Grok CSV](index.csv) — earlier catalog; original record and standards retained.
 - [Mary original CSV](mary-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
 - [Ruby original CSV](ruby-2026-09-30/index.csv) — earlier catalog; original record and standards retained.
+
+## Current Z3 WC1/WC1.1 results
+
+[Full Z3 reassessment](z3-2026-09-30-wc1/README.md) · [CSV](z3-2026-09-30-wc1/index.csv)
+
+Z3 now has complete 10/10 coverage for all 41 clarified entries. Conditional shortlist signals under Z3's current pass:
+
+| ID | Idea | Z3 current |
+| --- | --- | ---: |
+| 06 | Platform Weather | 18/20 |
+| 13 | Seasonal harvest campaigns (agency) | 17/20 |
+| 14 | One-job local marketing tools | 17/20 |
+| 20 | Recurring Customer-Value Kits | 17/20 |
+| 21 | Shovel themed-day engagement kit | 17/20 |
+| 24 | Weekly retention drop / seasonal agency campaigns | 17/20 |
+| 33 | Mary's one-job shelf | 17/20 |
+| 34 | Agency "No" Store | 17/20 |
+
+These are concept-fit signals only. Archived/dead statuses remain unchanged and no score authorizes testing or launch.
 
 ## Products
 
