@@ -39,3 +39,5 @@ The guide is maintained in Notion. This ledger links to it rather than maintaini
 - [Mary — 2026-09-30, guide v1.1: re-score of all 41 ideas](mary-2026-09-30-guide-v11/README.md), with [CSV index](mary-2026-09-30-guide-v11/index.csv) and individual sheets; saved as a new dated assessment under concept-fit rules; Grok's, Cody's and Mary's original assessments remain unchanged.
 - [Z3 — 2026-09-30, guide v1.1: all 41 ideas](z3-2026-09-30/README.md), with [CSV index](z3-2026-09-30/index.csv) and 41 individual sheets. Z3 scored independently before reading other reviewers' score sheets.
 - [Manus — 2026-09-30, guide v1.1: all 41 ideas](manus-2026-09-30/README.md), with [CSV index](manus-2026-09-30/index.csv) and 41 individual sheets; independently scored under the same concept-fit rules. Historical reviews and the Mary/Z3 v1.1 records remain unchanged.
+
+- [Marsha — 2026-09-30, guide v1.2: all 41 ideas](marsha-2026-09-30/README.md), with [CSV index](marsha-2026-09-30/index.csv) and 41 individual sheets. Seven complete totals; 34 incomplete totals remain blank. Separate concept-fit assessment; all earlier scores preserved.

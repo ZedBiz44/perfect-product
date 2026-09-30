@@ -118,3 +118,16 @@ Five entries had all ten bars numeric. They are listed for transparency, **not a
 ## Sources and refresh
 
 This is a saved comparison, not an automatic feed. Historical source CSVs: [Grok](index.csv), [Cody](cody-2026-09-30/index.csv), [Mary](mary-2026-09-30/index.csv), [Ruby](ruby-2026-09-30/index.csv). Guide-v1.1 assessments: [Mary v1.1](mary-2026-09-30-guide-v11/index.csv), [Z3 v1.1](z3-2026-09-30/index.csv), and [Manus v1.1](manus-2026-09-30/index.csv). Rebuild or reconcile only under the scoring guide; never average U with numbers. Rubric totals remain blank wherever U is present.
+
+## Marsha — guide v1.2, September 30, 2026
+
+Separate concept-fit assessment using the pinned rubric v1.1 and catalog numbering v2. Historical comparisons above are unchanged; no reviewer scores are averaged or reconciled here.
+
+- [Full grouped ranking and reasoning](marsha-2026-09-30/README.md)
+- [All 41 records / ten bars in CSV](marsha-2026-09-30/index.csv)
+- [41 individual sheets](marsha-2026-09-30/sheets/)
+- Seven complete totals; 34 have essential unknowns and remain unranked with blank totals.
+- Products 09 and 20: 17/20 and conditional-on-assumptions concept shortlist signals. Products 01/02 and add-on 21: 17/20 but founder constraints not yet confirmed. See the sheets for the distinct versions and assumptions.
+- Award-Submission Factory (18): zeros on satisfaction and practical buying value; the original award occasion is contradicted. Existing dead/archived statuses remain unchanged.
+
+These are design judgments, not demonstrated demand or launch approval. Rankings are separated into Products, Ingredients & add-ons, and Structures.
