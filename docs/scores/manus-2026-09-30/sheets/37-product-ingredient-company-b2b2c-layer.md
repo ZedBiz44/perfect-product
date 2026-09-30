@@ -1,5 +1,7 @@
 # Perfect Product assessment — 37. Product Ingredient Company (B2B2C layer)
 
+Catalog numbering v2: current ID **37**; earlier ID **37**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 37

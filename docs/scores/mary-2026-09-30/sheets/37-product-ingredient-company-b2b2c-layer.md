@@ -1,6 +1,6 @@
 # 37. Product Ingredient Company (B2B2C layer) - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/37-product-ingredient-company-b2b2c-layer.md) · [Grok's sheet](../../sheets/37-product-ingredient-company-b2b2c-layer.md) · [Cody's sheet](../cody-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/37-product-ingredient-company-b2b2c-layer.md) · [Grok's sheet](../../sheets/37-product-ingredient-company-b2b2c-layer.md) · [Cody's sheet](../../cody-2026-09-30/sheets/37-product-ingredient-company-b2b2c-layer.md)
 
 - **Buyer and payer:** Upstream businesses who lose money when end users don't get results
 - **Price hypothesis (unvalidated):** White-label licences ~$197-$997/mo or per-seat - unvalidated

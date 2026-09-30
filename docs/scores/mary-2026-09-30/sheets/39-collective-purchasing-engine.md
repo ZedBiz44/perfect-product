@@ -1,6 +1,6 @@
 # 39. Collective Purchasing Engine - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/39-collective-purchasing-engine.md) · [Grok's sheet](../../sheets/39-collective-purchasing-engine.md) · [Cody's sheet](../cody-2026-09-30/sheets/39-collective-purchasing-engine.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/39-collective-purchasing-engine.md) · [Grok's sheet](../../sheets/39-collective-purchasing-engine.md) · [Cody's sheet](../../cody-2026-09-30/sheets/39-collective-purchasing-engine.md)
 
 - **Buyer and payer:** Agencies, associations, chambers, franchise systems, and their SMB client/member bases
 - **Price hypothesis (unvalidated):** Model not set; possible vendor commissions, member economics, agency licensing, or shared savings

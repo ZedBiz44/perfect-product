@@ -1,5 +1,7 @@
 # 39. Collective Purchasing Engine — Manus assessment
 
+Catalog numbering v2: current ID **39**; earlier ID **39**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 39
@@ -28,7 +30,7 @@
 
 ## Sources used
 
-- [Scoring Guide v1.1](/home/ubuntu/[Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)), dated 2026-09-30.
+- [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd), dated 2026-09-30.
 - [Perfect Product Rubric v1.1](../../../framework/perfect-product-rubric.md), commit `8be7c589928ef681577baaa765a90583d824f128`, dated 2026-09-30.
 - [Perfect Product definition](../../../framework/perfect-product.md), commit `8be7c589928ef681577baaa765a90583d824f128`, dated 2026-09-30.
 - [Satisfaction shapes](../../../framework/satisfaction-shapes.md) and [current direction](../../../current-direction.md), both read for the governing shape and status context.

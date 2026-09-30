@@ -12,7 +12,7 @@
 - **Existing audience or distribution channel:** Per-brand channel owners; names are examples only.
 - **One-sentence promise:** Create small standalone brands around one problem; hold/license/sell/kill.
 - **Immediate buying or usage moment:** Portfolio manufacturing.
-- **Price and repeat-purchase reason:** Per brand founding licences (see #14–15 bands)
+- **Price and repeat-purchase reason:** Per brand founding licences (see #7–8 bands)
 - **Evidence links:** catalog entry `38-micro-brand-factory-acreageready-exitready-etc.md`; sources cited per bar below
 
 ## Ten-bar assessment (first ranking pass)
@@ -34,7 +34,7 @@ Use U or 0/1/2 per bar; U is not zero.
 5 Satisfaction shape:   U / 2 — evidence: Varies by brand; none proven.
 6 No Brainer:           U / 2 — evidence: No paying channel owner for first brand.
 7 C3PO (AI does the work):1 / 2 — evidence: Product factory AI manufacturing hypothesized.
-8 Natural route to buyers:U / 2 — evidence: Per-brand channels hypothesized (#14–15 gates).
+8 Natural route to buyers:U / 2 — evidence: Per-brand channels hypothesized (#7–8 gates).
 9 Easy to get the value:U / 2 — evidence: Varies.
 10 Newton's Rule:       1 / 2 — evidence: Portfolio/shared systems gravity hypothesized.
 

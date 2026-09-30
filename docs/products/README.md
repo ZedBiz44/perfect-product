@@ -9,6 +9,8 @@
 
 **Type** describes what an entry is; **Status** records its place in the exploration. A combination is not a decision status. Types and related links are organizing labels, not scores. Prices are unvalidated proposals; each entry records its price basis.
 
+Catalog numbering v2 matches Notion: Products 01–20, Ingredients & add-ons 21–32, Structures 33–41. Earlier IDs are recorded in the [migration map](../scores/catalog-id-map.md).
+
 ## Products
 
 Sellable offers / product families / format variants someone could buy as an offer. Types: product, product family, format variant.
@@ -16,25 +18,25 @@ Sellable offers / product families / format variants someone could buy as an off
 | # | Name | Type | Status | Shape (if known) |
 | --- | --- | --- | --- | --- |
 | 1 | [Shovel Your Biz-Shit](entries/01-shovel-your-biz-shit.md) | product | core candidate | Six Pack |
-| 3 | [Shovel member-action unit](entries/03-shovel-member-action-unit.md) | format variant | exploration | Six Pack |
-| 4 | [Door Opener](entries/04-door-opener.md) | product | hopper | Tool in the hand |
-| 8 | [Save Kit](entries/08-save-kit.md) | product | hopper | Tool in the hand |
-| 9 | [Cash This Week](entries/09-cash-this-week.md) | product | hopper | Harvest Gala |
-| 11 | [Platform Weather](entries/11-platform-weather.md) | product | hopper | Tool in the hand |
-| 14 | [Rural property buyer system](entries/14-rural-property-buyer-system.md) | product | hopper | Tool in the hand |
-| 15 | [Business-sale digital-readiness system](entries/15-business-sale-digital-readiness-system.md) | product | hopper | Tool in the hand |
-| 16 | [Member Wake-Up Campaign (4-week)](entries/16-member-wake-up-campaign-4-week.md) | product | hopper | Harvest Gala / Six Pack |
-| 21 | [Gemini C: Board of Directors report](entries/21-gemini-c-board-of-directors-report.md) | product | hopper | Tool in the hand / Coat of paint |
-| 22 | [New Coat local-business refresh kits](entries/22-new-coat-local-business-refresh-kits.md) | product | hopper | Coat of paint |
-| 23 | [Member Night in a Box](entries/23-member-night-in-a-box.md) | product | hopper | Event Excitement |
-| 24 | [Seasonal harvest campaigns (agency)](entries/24-seasonal-harvest-campaigns-agency.md) | product | hopper | Harvest Gala |
-| 25 | [One-job local marketing tools](entries/25-one-job-local-marketing-tools.md) | product family | hopper | Tool in the hand |
-| 28 | [No Lead Left Behind: GHL Agency Kit](entries/28-no-lead-left-behind-ghl-agency-kit.md) | product | archive / dead-but-ingredient | Tool in the hand |
-| 29 | [Field Notes / Practitioner Briefing](entries/29-field-notes-practitioner-briefing.md) | product | archive / dead-but-ingredient | Six Pack |
-| 30 | [Client Retention Engine](entries/30-client-retention-engine.md) | product | dead-but-ingredient | Six Pack |
-| 31 | [Award-Submission Factory](entries/31-award-submission-factory.md) | product | dead-but-ingredient | Trophy |
-| 32 | [Wholesale Shelf (generic kits)](entries/32-wholesale-shelf-generic-kits.md) | product family | dead-but-ingredient | — |
-| 36 | [Recurring Customer-Value Kits (weekly OS)](entries/36-recurring-customer-value-kits-weekly-os.md) | format variant | exploration | Six Pack |
+| 2 | [Shovel member-action unit](entries/02-shovel-member-action-unit.md) | format variant | exploration | Six Pack |
+| 3 | [Door Opener](entries/03-door-opener.md) | product | hopper | Tool in the hand |
+| 4 | [Save Kit](entries/04-save-kit.md) | product | hopper | Tool in the hand |
+| 5 | [Cash This Week](entries/05-cash-this-week.md) | product | hopper | Harvest Gala |
+| 6 | [Platform Weather](entries/06-platform-weather.md) | product | hopper | Tool in the hand |
+| 7 | [Rural property buyer system](entries/07-rural-property-buyer-system.md) | product | hopper | Tool in the hand |
+| 8 | [Business-sale digital-readiness system](entries/08-business-sale-digital-readiness-system.md) | product | hopper | Tool in the hand |
+| 9 | [Member Wake-Up Campaign (4-week)](entries/09-member-wake-up-campaign-4-week.md) | product | hopper | Harvest Gala / Six Pack |
+| 10 | [Gemini C: Board of Directors report](entries/10-gemini-c-board-of-directors-report.md) | product | hopper | Tool in the hand / Coat of paint |
+| 11 | [New Coat local-business refresh kits](entries/11-new-coat-local-business-refresh-kits.md) | product | hopper | Coat of paint |
+| 12 | [Member Night in a Box](entries/12-member-night-in-a-box.md) | product | hopper | Event Excitement |
+| 13 | [Seasonal harvest campaigns (agency)](entries/13-seasonal-harvest-campaigns-agency.md) | product | hopper | Harvest Gala |
+| 14 | [One-job local marketing tools](entries/14-one-job-local-marketing-tools.md) | product family | hopper | Tool in the hand |
+| 15 | [No Lead Left Behind: GHL Agency Kit](entries/15-no-lead-left-behind-ghl-agency-kit.md) | product | archive / dead-but-ingredient | Tool in the hand |
+| 16 | [Field Notes / Practitioner Briefing](entries/16-field-notes-practitioner-briefing.md) | product | archive / dead-but-ingredient | Six Pack |
+| 17 | [Client Retention Engine](entries/17-client-retention-engine.md) | product | dead-but-ingredient | Six Pack |
+| 18 | [Award-Submission Factory](entries/18-award-submission-factory.md) | product | dead-but-ingredient | Trophy |
+| 19 | [Wholesale Shelf (generic kits)](entries/19-wholesale-shelf-generic-kits.md) | product family | dead-but-ingredient | — |
+| 20 | [Recurring Customer-Value Kits (weekly OS)](entries/20-recurring-customer-value-kits-weekly-os.md) | format variant | exploration | Six Pack |
 
 ## Ingredients & add-ons
 
@@ -42,18 +44,18 @@ Pieces that attach to a sellable thing: ingredients, add-ons, funding layers, fu
 
 | # | Name | Type | Status | Shape (if known) |
 | --- | --- | --- | --- | --- |
-| 2 | [Shovel themed-day engagement kit](entries/02-shovel-themed-day-engagement-kit.md) | add-on | exploration | Six Pack |
-| 5 | [Think and Grow Rich (benchmark report)](entries/05-think-and-grow-rich-benchmark-report.md) | ingredient | hopper | Trophy (hypothesis) |
-| 7 | [Sponsor layer on weekly item](entries/07-sponsor-layer-on-weekly-item.md) | funding layer | hopper | Six Pack |
-| 10 | [Weekly retention drop / seasonal agency campaigns](entries/10-weekly-retention-drop-seasonal-agency-campaigns.md) | add-on | hopper | Harvest Gala / Six Pack |
-| 13 | [Client Action Layer](entries/13-client-action-layer.md) | add-on | hopper | Tool in the hand |
-| 19 | [Gemini A: AI mentors in community](entries/19-gemini-a-ai-mentors-in-community.md) | combination | hopper | Belonging without hosting |
-| 20 | [Gemini B: Shovel-Proof Gate funnel](entries/20-gemini-b-shovel-proof-gate-funnel.md) | funnel | hopper | Tool in the hand |
-| 26 | [Local Presence Score / certificate](entries/26-local-presence-score-certificate.md) | combination | hopper | Trophy |
-| 27 | [Peer-circle operating system](entries/27-peer-circle-operating-system.md) | combination | hopper | Belonging without hosting |
-| 33 | [Shovel + Think and Grow Rich stickiness](entries/33-shovel-think-and-grow-rich-stickiness.md) | combination | exploration | Six Pack + Trophy data |
-| 34 | [Shovel + Sponsor layer](entries/34-shovel-sponsor-layer.md) | combination | exploration | Six Pack |
-| 35 | [Door Opener + niche evidence pack](entries/35-door-opener-niche-evidence-pack.md) | combination | exploration | Tool in the hand |
+| 21 | [Shovel themed-day engagement kit](entries/21-shovel-themed-day-engagement-kit.md) | add-on | exploration | Six Pack |
+| 22 | [Think and Grow Rich (benchmark report)](entries/22-think-and-grow-rich-benchmark-report.md) | ingredient | hopper | Trophy (hypothesis) |
+| 23 | [Sponsor layer on weekly item](entries/23-sponsor-layer-on-weekly-item.md) | funding layer | hopper | Six Pack |
+| 24 | [Weekly retention drop / seasonal agency campaigns](entries/24-weekly-retention-drop-seasonal-agency-campaigns.md) | add-on | hopper | Harvest Gala / Six Pack |
+| 25 | [Client Action Layer](entries/25-client-action-layer.md) | add-on | hopper | Tool in the hand |
+| 26 | [Gemini A: AI mentors in community](entries/26-gemini-a-ai-mentors-in-community.md) | combination | hopper | Belonging without hosting |
+| 27 | [Gemini B: Shovel-Proof Gate funnel](entries/27-gemini-b-shovel-proof-gate-funnel.md) | funnel | hopper | Tool in the hand |
+| 28 | [Local Presence Score / certificate](entries/28-local-presence-score-certificate.md) | combination | hopper | Trophy |
+| 29 | [Peer-circle operating system](entries/29-peer-circle-operating-system.md) | combination | hopper | Belonging without hosting |
+| 30 | [Shovel + Think and Grow Rich stickiness](entries/30-shovel-think-and-grow-rich-stickiness.md) | combination | exploration | Six Pack + Trophy data |
+| 31 | [Shovel + Sponsor layer](entries/31-shovel-sponsor-layer.md) | combination | exploration | Six Pack |
+| 32 | [Door Opener + niche evidence pack](entries/32-door-opener-niche-evidence-pack.md) | combination | exploration | Tool in the hand |
 
 ## Structures
 
@@ -61,10 +63,10 @@ How the company/portfolio is built: business structure, distribution model, port
 
 | # | Name | Type | Status | Shape (if known) |
 | --- | --- | --- | --- | --- |
-| 6 | [Mary's one-job shelf](entries/06-marys-one-job-shelf.md) | business structure | hopper | Tool in the hand |
-| 12 | [Agency "No" Store](entries/12-agency-no-store.md) | distribution model | hopper | Tool in the hand |
-| 17 | [Product factory / contributor syndicate](entries/17-product-factory-contributor-syndicate.md) | business structure | hopper | — (meta) |
-| 18 | [Community Without the Host](entries/18-community-without-the-host-bounded-q-a-community.md) | business structure | archive | Belonging without hosting |
+| 33 | [Mary's one-job shelf](entries/33-marys-one-job-shelf.md) | business structure | hopper | Tool in the hand |
+| 34 | [Agency "No" Store](entries/34-agency-no-store.md) | distribution model | hopper | Tool in the hand |
+| 35 | [Product factory / contributor syndicate](entries/35-product-factory-contributor-syndicate.md) | business structure | hopper | — (meta) |
+| 36 | [Community Without the Host](entries/36-community-without-the-host-bounded-q-a-community.md) | business structure | archive | Belonging without hosting |
 | 37 | [Product Ingredient Company (B2B2C layer)](entries/37-product-ingredient-company-b2b2c-layer.md) | business structure | exploration | — (structural) |
 | 38 | [Micro-brand factory](entries/38-micro-brand-factory-acreageready-exitready-etc.md) | business structure | exploration | varies |
 | 39 | [Collective Purchasing Engine](entries/39-collective-purchasing-engine.md) | business structure | exploration | Tool in the hand / Harvest Gala |
@@ -76,4 +78,4 @@ How the company/portfolio is built: business structure, distribution model, port
 ## Related / status
 
 - **Scores:** [docs/scores/README.md](../scores/README.md) — how agents score; [leaderboard](../scores/leaderboard.md); [index.csv](../scores/index.csv).
-- Scoring does not change catalog Type or Status. Proof gate 17/20 + seven Passes is consideration, not approval.
+- Scoring does not change catalog Type or Status. 17/20 with no zeros and at least seven strong fits is a shortlist signal, not proof or approval.

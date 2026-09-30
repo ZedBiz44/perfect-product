@@ -5,7 +5,7 @@
 - Reviewer: Mary | Date: 2026-09-30 | Guide: v1.1 (concept fit)
 - Rubric v1.1: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product-rubric.md
 - Definition: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product.md
-- Scoring guide: https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4
+- Scoring guide: https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd
 - Catalog source: main @ 8be7c589928ef681577baaa765a90583d824f128
 
 ## Offer snapshot

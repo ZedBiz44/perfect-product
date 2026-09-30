@@ -1,5 +1,7 @@
 # Perfect Product assessment — 38. Micro-brand factory (AcreageReady / ExitReady / etc.)
 
+Catalog numbering v2: current ID **38**; earlier ID **38**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 38
@@ -9,7 +11,7 @@
 - **Guide version:** Scoring Guide v1.1, dated 2026-09-30.
 - **Pinned rubric version, commit and date:** Perfect Product Rubric v1.1 — `8be7c589928ef681577baaa765a90583d824f128` — 2026-09-30.
 - **Pinned definition commit and date:** Perfect Product definition — `8be7c589928ef681577baaa765a90583d824f128` — 2026-09-30.
-- **Catalog source commit and assessed product version:** Catalog repository commit `8be7c589928ef681577baaa765a90583d824f128`; assessed file [`docs/products/entries/38-micro-brand-factory-acreageready-exitready-etc.md`](../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md), last content change `b6ebb33178c5881947eec7d8ebe6249dd214bb4f` (2026-09-29). The assessed version is: a ZedBiz holding/manufacturing company that researches, creates and systemizes standalone problem-specific micro-brands, then holds, licenses, sells, or kills them.
+- **Catalog source commit and assessed product version:** Catalog repository commit `8be7c589928ef681577baaa765a90583d824f128`; assessed file [`docs/products/entries/38-micro-brand-factory-acreageready-exitready-etc.md`](../../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md), last content change `b6ebb33178c5881947eec7d8ebe6249dd214bb4f` (2026-09-29). The assessed version is: a ZedBiz holding/manufacturing company that researches, creates and systemizes standalone problem-specific micro-brands, then holds, licenses, sells, or kills them.
 
 ## Product and assumptions
 
@@ -30,14 +32,14 @@
 
 | Source | Material used in this assessment |
 | --- | --- |
-| [Scoring Guide v1.1](/home/ubuntu/[Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)) | Score meanings, `U`/`0` treatment, required pins and record fields. |
-| [Perfect Product Rubric v1.1](../../framework/perfect-product-rubric.md) | Definitions and thresholds for all ten bars and total/shortlist rules. |
-| [Perfect Product definition](../../framework/perfect-product.md) and [Satisfaction shapes](../../framework/satisfaction-shapes.md) | Ten-bar framing and the seven named satisfaction shapes. |
-| [Current direction](../../current-direction.md) | Factory is not the current approved core; channel-owner systems remain hypotheses requiring a paying owner; no custom-service and no-host constraints. |
-| [Entry 38](../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) | Assessed status, buyer category, process, price wording, and “Shape: varies.” |
-| [Z3 Thoughts](../../perspectives/z3.md) | The source architecture: factory as manufacturing infrastructure, micro-brand assets, documented operating system, and explicit no-paid-test/no-selected-MVP caveat. |
-| [Commercial Proof First Screen](../../research/commercial-proof-first-screen.md) | Generic guides are rejected; narrow channel-owner systems require a fixed paid commitment before building. |
-| [Entry 14](../../products/entries/14-rural-property-buyer-system.md) and [Entry 15](../../products/entries/15-business-sale-digital-readiness-system.md) | The only cited price-band reference: unvalidated $497–$2,000 founding licences, and possible $97/month in entry 14 only. |
+| [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd) | Score meanings, `U`/`0` treatment, required pins and record fields. |
+| [Perfect Product Rubric v1.1](../../../framework/perfect-product-rubric.md) | Definitions and thresholds for all ten bars and total/shortlist rules. |
+| [Perfect Product definition](../../../framework/perfect-product.md) and [Satisfaction shapes](../../../framework/satisfaction-shapes.md) | Ten-bar framing and the seven named satisfaction shapes. |
+| [Current direction](../../../current-direction.md) | Factory is not the current approved core; channel-owner systems remain hypotheses requiring a paying owner; no custom-service and no-host constraints. |
+| [Entry 38](../../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) | Assessed status, buyer category, process, price wording, and “Shape: varies.” |
+| [Z3 Thoughts](../../../perspectives/z3.md) | The source architecture: factory as manufacturing infrastructure, micro-brand assets, documented operating system, and explicit no-paid-test/no-selected-MVP caveat. |
+| [Commercial Proof First Screen](../../../research/commercial-proof-first-screen.md) | Generic guides are rejected; narrow channel-owner systems require a fixed paid commitment before building. |
+| [Entry 07](../../../products/entries/07-rural-property-buyer-system.md) and [Entry 08](../../../products/entries/08-business-sale-digital-readiness-system.md) | The only cited price-band reference: unvalidated $497–$2,000 founding licences, and possible $97/month in entry 14 only. |
 
 No prior Grok, Cody, or Mary score sheet was consulted or used as evidence.
 

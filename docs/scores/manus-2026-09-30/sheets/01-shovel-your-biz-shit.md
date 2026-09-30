@@ -1,5 +1,7 @@
 # Perfect Product assessment — 01 Shovel Your Biz-Shit
 
+Catalog numbering v2: current ID **01**; earlier ID **01**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 01
@@ -31,7 +33,7 @@
 
 All repository sources below were read at commit `8be7c589928ef681577baaa765a90583d824f128`; proposed mechanisms are evidence of design, not evidence of demand or results.
 
-- [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) — assessment procedure, score meanings, pins, and output requirements.
+- [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd) — assessment procedure, score meanings, pins, and output requirements.
 - `docs/framework/perfect-product-rubric.md` — Rubric v1.1 and the ten bars.
 - `docs/framework/perfect-product.md` — definition, founder constraints, and bar distinctions.
 - `docs/framework/satisfaction-shapes.md` — seven satisfaction shapes and the Shovel/six-pack framing.

@@ -1,5 +1,7 @@
 # Perfect Product assessment — 40. Benefits Factory
 
+Catalog numbering v2: current ID **40**; earlier ID **40**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 40

@@ -5,14 +5,14 @@
 - Reviewer: Mary | Date: 2026-09-30 | Guide: v1.1 (concept fit)
 - Rubric v1.1: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product-rubric.md
 - Definition: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product.md
-- Scoring guide: https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4
+- Scoring guide: https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd
 - Catalog source: main @ 8be7c589928ef681577baaa765a90583d824f128
 
 ## Offer snapshot
 - Buyer/payer: Channel owners per micro-brand (realtors, brokers, community owners, course creators, chambers) -- hypothetical per future brand.
 - Offer: A portfolio of small standalone problem-brands (a structure, not one offer).
 - Delivery: Per-brand products; shared factory pipeline.
-- Price hypothesis (working assumption, not verified willingness-to-pay): Per-brand founding licences (see #14-15 bands); portfolio economics.
+- Price hypothesis (working assumption, not verified willingness-to-pay): Per-brand founding licences (see #7–8 bands); portfolio economics.
 - Repeat mechanism: Irregular: per-brand licence sales; portfolio-level returns.
 - Founder's role: Portfolio architect; operators run brands; Jack not in daily operation.
 - Primary satisfaction shape: varies by brand
@@ -55,7 +55,7 @@ Useful improvement: launch (or commit to) brand #1 with a named channel owner --
 - Brand #1: which problem, which channel owner, what economics.
 
 ## Overall interpretation
-A structure waiting for its first brand: B3/B10 describe a real portfolio machine, but buyer, channel, and experience bars are honestly U until brand #1 exists. Score #14/#15 for the nearest real instances.
+A structure waiting for its first brand: B3/B10 describe a real portfolio machine, but buyer, channel, and experience bars are honestly U until brand #1 exists. Score #7/#8 for the nearest real instances.
 
 ## Changes vs Mary's original assessment (2026-09-30, old evidence standard)
 Original scores: `docs/scores/mary-2026-09-30/index.csv` (preserved untouched).

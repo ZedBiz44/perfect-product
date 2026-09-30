@@ -1,6 +1,6 @@
 # 01. Shovel Your Biz-Shit - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/01-shovel-your-biz-shit.md) · [Grok's sheet](../../sheets/01-shovel-your-biz-shit.md) · [Cody's sheet](../cody-2026-09-30/sheets/01-shovel-your-biz-shit.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/01-shovel-your-biz-shit.md) · [Grok's sheet](../../sheets/01-shovel-your-biz-shit.md) · [Cody's sheet](../../cody-2026-09-30/sheets/01-shovel-your-biz-shit.md)
 
 - **Buyer and payer:** Small-to-mid paid Skool / membership / community owners; local-business coaching groups
 - **Price hypothesis (unvalidated):** $19-$29/mo (anchor $27); catalog proposal $29-$49/mo - both unvalidated and unapproved

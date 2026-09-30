@@ -1,0 +1,42 @@
+legacy_id,id,name,legacy_path,current_path
+01,01,Shovel Your Biz-Shit,docs/products/entries/01-shovel-your-biz-shit.md,docs/products/entries/01-shovel-your-biz-shit.md
+03,02,Shovel member-action unit,docs/products/entries/03-shovel-member-action-unit.md,docs/products/entries/02-shovel-member-action-unit.md
+04,03,Door Opener,docs/products/entries/04-door-opener.md,docs/products/entries/03-door-opener.md
+08,04,Save Kit,docs/products/entries/08-save-kit.md,docs/products/entries/04-save-kit.md
+09,05,Cash This Week,docs/products/entries/09-cash-this-week.md,docs/products/entries/05-cash-this-week.md
+11,06,Platform Weather,docs/products/entries/11-platform-weather.md,docs/products/entries/06-platform-weather.md
+14,07,Rural property buyer system,docs/products/entries/14-rural-property-buyer-system.md,docs/products/entries/07-rural-property-buyer-system.md
+15,08,Business-sale digital-readiness system,docs/products/entries/15-business-sale-digital-readiness-system.md,docs/products/entries/08-business-sale-digital-readiness-system.md
+16,09,Member Wake-Up Campaign (4-week),docs/products/entries/16-member-wake-up-campaign-4-week.md,docs/products/entries/09-member-wake-up-campaign-4-week.md
+21,10,Gemini C: Board of Directors report,docs/products/entries/21-gemini-c-board-of-directors-report.md,docs/products/entries/10-gemini-c-board-of-directors-report.md
+22,11,New Coat refresh kits,docs/products/entries/22-new-coat-local-business-refresh-kits.md,docs/products/entries/11-new-coat-local-business-refresh-kits.md
+23,12,Member Night in a Box,docs/products/entries/23-member-night-in-a-box.md,docs/products/entries/12-member-night-in-a-box.md
+24,13,Seasonal harvest campaigns,docs/products/entries/24-seasonal-harvest-campaigns-agency.md,docs/products/entries/13-seasonal-harvest-campaigns-agency.md
+25,14,One-job local marketing tools,docs/products/entries/25-one-job-local-marketing-tools.md,docs/products/entries/14-one-job-local-marketing-tools.md
+28,15,No Lead Left Behind: GHL Agency Kit,docs/products/entries/28-no-lead-left-behind-ghl-agency-kit.md,docs/products/entries/15-no-lead-left-behind-ghl-agency-kit.md
+29,16,Field Notes / Practitioner Briefing,docs/products/entries/29-field-notes-practitioner-briefing.md,docs/products/entries/16-field-notes-practitioner-briefing.md
+30,17,Client Retention Engine,docs/products/entries/30-client-retention-engine.md,docs/products/entries/17-client-retention-engine.md
+31,18,Award-Submission Factory,docs/products/entries/31-award-submission-factory.md,docs/products/entries/18-award-submission-factory.md
+32,19,Wholesale Shelf (generic kits),docs/products/entries/32-wholesale-shelf-generic-kits.md,docs/products/entries/19-wholesale-shelf-generic-kits.md
+36,20,Recurring Customer-Value Kits (weekly OS),docs/products/entries/36-recurring-customer-value-kits-weekly-os.md,docs/products/entries/20-recurring-customer-value-kits-weekly-os.md
+02,21,Shovel themed-day engagement kit,docs/products/entries/02-shovel-themed-day-engagement-kit.md,docs/products/entries/21-shovel-themed-day-engagement-kit.md
+05,22,Think and Grow Rich (benchmark report),docs/products/entries/05-think-and-grow-rich-benchmark-report.md,docs/products/entries/22-think-and-grow-rich-benchmark-report.md
+07,23,Sponsor layer on weekly item,docs/products/entries/07-sponsor-layer-on-weekly-item.md,docs/products/entries/23-sponsor-layer-on-weekly-item.md
+10,24,Weekly retention / seasonal agency campaigns,docs/products/entries/10-weekly-retention-drop-seasonal-agency-campaigns.md,docs/products/entries/24-weekly-retention-drop-seasonal-agency-campaigns.md
+13,25,Client Action Layer,docs/products/entries/13-client-action-layer.md,docs/products/entries/25-client-action-layer.md
+19,26,Gemini A: AI mentors in community,docs/products/entries/19-gemini-a-ai-mentors-in-community.md,docs/products/entries/26-gemini-a-ai-mentors-in-community.md
+20,27,Gemini B: Shovel-Proof Gate funnel,docs/products/entries/20-gemini-b-shovel-proof-gate-funnel.md,docs/products/entries/27-gemini-b-shovel-proof-gate-funnel.md
+26,28,Local Presence Score / certificate,docs/products/entries/26-local-presence-score-certificate.md,docs/products/entries/28-local-presence-score-certificate.md
+27,29,Peer-circle operating system,docs/products/entries/27-peer-circle-operating-system.md,docs/products/entries/29-peer-circle-operating-system.md
+33,30,Shovel + Think and Grow Rich stickiness,docs/products/entries/33-shovel-think-and-grow-rich-stickiness.md,docs/products/entries/30-shovel-think-and-grow-rich-stickiness.md
+34,31,Shovel + Sponsor layer,docs/products/entries/34-shovel-sponsor-layer.md,docs/products/entries/31-shovel-sponsor-layer.md
+35,32,Door Opener + niche evidence pack,docs/products/entries/35-door-opener-niche-evidence-pack.md,docs/products/entries/32-door-opener-niche-evidence-pack.md
+06,33,Mary's one-job shelf,docs/products/entries/06-marys-one-job-shelf.md,docs/products/entries/33-marys-one-job-shelf.md
+12,34,"Agency ""No"" Store",docs/products/entries/12-agency-no-store.md,docs/products/entries/34-agency-no-store.md
+17,35,Product factory / contributor syndicate,docs/products/entries/17-product-factory-contributor-syndicate.md,docs/products/entries/35-product-factory-contributor-syndicate.md
+18,36,Community Without the Host,docs/products/entries/18-community-without-the-host-bounded-q-a-community.md,docs/products/entries/36-community-without-the-host-bounded-q-a-community.md
+37,37,Product Ingredient Company (B2B2C layer),docs/products/entries/37-product-ingredient-company-b2b2c-layer.md,docs/products/entries/37-product-ingredient-company-b2b2c-layer.md
+38,38,Micro-brand factory,docs/products/entries/38-micro-brand-factory-acreageready-exitready-etc.md,docs/products/entries/38-micro-brand-factory-acreageready-exitready-etc.md
+39,39,Collective Purchasing Engine,docs/products/entries/39-collective-purchasing-engine.md,docs/products/entries/39-collective-purchasing-engine.md
+40,40,Benefits Factory,docs/products/entries/40-benefits-factory.md,docs/products/entries/40-benefits-factory.md
+41,41,Micro-product Holding Company,docs/products/entries/41-micro-product-holding-company.md,docs/products/entries/41-micro-product-holding-company.md

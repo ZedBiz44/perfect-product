@@ -1,5 +1,7 @@
 # Cody's Perfect Product assessment
 
+Catalog numbering v2 (2026-09-30): IDs now match Notion group order. Only identifiers and links changed; scores, confidence and reasoning retain their original meaning. See the [old-to-new map](../catalog-id-map.md).
+
 Date: 2026-09-30 | Agent: Cody | Status: Complete review; all assessments evidence-incomplete
 
 [Scores ledger](../README.md) · [Cody CSV](index.csv) · [Rubric](../../framework/perfect-product-rubric.md) · [Grok's original index](../index.csv)
@@ -27,41 +29,41 @@ Bar key: **1** repeat revenue; **2** reusable delivery and margin; **3** transfe
 | ID | Idea | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | [Shovel Your Biz-Shit](sheets/01-shovel-your-biz-shit.md) | 2 | 1 | 1 | 1 | U | U | U | U | U | U | 4/10 |
-| 02 | [Shovel themed-day engagement kit](sheets/02-shovel-themed-day-engagement-kit.md) | 2 | 1 | 1 | 1 | U | U | U | U | U | U | 4/10 |
-| 03 | [Shovel member-action unit](sheets/03-shovel-member-action-unit.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 04 | [Door Opener](sheets/04-door-opener.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 05 | [Think and Grow Rich (benchmark report)](sheets/05-think-and-grow-rich-benchmark-report.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 06 | [Mary's one-job shelf](sheets/06-marys-one-job-shelf.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 07 | [Sponsor layer on weekly item](sheets/07-sponsor-layer-on-weekly-item.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
-| 08 | [Save Kit](sheets/08-save-kit.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 09 | [Cash This Week](sheets/09-cash-this-week.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 10 | [Weekly retention drop / seasonal agency campaigns](sheets/10-weekly-retention-drop-seasonal-agency-campaigns.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 11 | [Platform Weather](sheets/11-platform-weather.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 12 | [Agency "No" Store](sheets/12-agency-no-store.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 13 | [Client Action Layer](sheets/13-client-action-layer.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
-| 14 | [Rural property buyer system](sheets/14-rural-property-buyer-system.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 15 | [Business-sale digital-readiness system](sheets/15-business-sale-digital-readiness-system.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
-| 16 | [Member Wake-Up Campaign (4-week)](sheets/16-member-wake-up-campaign-4-week.md) | 1 | U | U | 1 | U | U | U | U | U | U | 2/10 |
-| 17 | [Product factory / contributor syndicate](sheets/17-product-factory-contributor-syndicate.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
-| 18 | [Community Without the Host](sheets/18-community-without-the-host-bounded-q-a-community.md) | 2 | U | U | 0 | U | U | U | U | U | U | 2/10 |
-| 19 | [Gemini A: AI mentors in community](sheets/19-gemini-a-ai-mentors-in-community.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 20 | [Gemini B: Shovel-Proof Gate funnel](sheets/20-gemini-b-shovel-proof-gate-funnel.md) | 0 | 0 | U | 0 | U | U | U | U | U | U | 3/10 |
-| 21 | [Gemini C: Board of Directors report](sheets/21-gemini-c-board-of-directors-report.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
-| 22 | [New Coat local-business refresh kits](sheets/22-new-coat-local-business-refresh-kits.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 23 | [Member Night in a Box](sheets/23-member-night-in-a-box.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 24 | [Seasonal harvest campaigns (agency)](sheets/24-seasonal-harvest-campaigns-agency.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 25 | [One-job local marketing tools](sheets/25-one-job-local-marketing-tools.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 26 | [Local Presence Score / certificate](sheets/26-local-presence-score-certificate.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 27 | [Peer-circle operating system](sheets/27-peer-circle-operating-system.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 28 | [No Lead Left Behind: GHL Agency Kit](sheets/28-no-lead-left-behind-ghl-agency-kit.md) | 1 | U | U | U | U | U | U | 0 | U | U | 2/10 |
-| 29 | [Field Notes / Practitioner Briefing](sheets/29-field-notes-practitioner-briefing.md) | 2 | 1 | U | 0 | U | U | U | U | U | U | 3/10 |
-| 30 | [Client Retention Engine](sheets/30-client-retention-engine.md) | 2 | U | U | U | U | 0 | U | U | U | U | 2/10 |
-| 31 | [Award-Submission Factory](sheets/31-award-submission-factory.md) | 2 | U | U | U | U | 0 | U | U | U | U | 2/10 |
-| 32 | [Wholesale Shelf (generic kits)](sheets/32-wholesale-shelf-generic-kits.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 33 | [Shovel + Think and Grow Rich stickiness](sheets/33-shovel-think-and-grow-rich-stickiness.md) | 2 | 1 | 1 | 1 | U | U | U | U | U | U | 4/10 |
-| 34 | [Shovel + Sponsor layer](sheets/34-shovel-sponsor-layer.md) | U | 1 | 1 | 1 | U | U | U | U | U | U | 3/10 |
-| 35 | [Door Opener + niche evidence pack](sheets/35-door-opener-niche-evidence-pack.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
-| 36 | [Recurring Customer-Value Kits (weekly OS)](sheets/36-recurring-customer-value-kits-weekly-os.md) | 2 | U | U | 1 | U | U | U | U | U | U | 2/10 |
+| 02 | [Shovel member-action unit](sheets/02-shovel-member-action-unit.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 03 | [Door Opener](sheets/03-door-opener.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 04 | [Save Kit](sheets/04-save-kit.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 05 | [Cash This Week](sheets/05-cash-this-week.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 06 | [Platform Weather](sheets/06-platform-weather.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 07 | [Rural property buyer system](sheets/07-rural-property-buyer-system.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 08 | [Business-sale digital-readiness system](sheets/08-business-sale-digital-readiness-system.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
+| 09 | [Member Wake-Up Campaign (4-week)](sheets/09-member-wake-up-campaign-4-week.md) | 1 | U | U | 1 | U | U | U | U | U | U | 2/10 |
+| 10 | [Gemini C: Board of Directors report](sheets/10-gemini-c-board-of-directors-report.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
+| 11 | [New Coat local-business refresh kits](sheets/11-new-coat-local-business-refresh-kits.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 12 | [Member Night in a Box](sheets/12-member-night-in-a-box.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 13 | [Seasonal harvest campaigns (agency)](sheets/13-seasonal-harvest-campaigns-agency.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 14 | [One-job local marketing tools](sheets/14-one-job-local-marketing-tools.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 15 | [No Lead Left Behind: GHL Agency Kit](sheets/15-no-lead-left-behind-ghl-agency-kit.md) | 1 | U | U | U | U | U | U | 0 | U | U | 2/10 |
+| 16 | [Field Notes / Practitioner Briefing](sheets/16-field-notes-practitioner-briefing.md) | 2 | 1 | U | 0 | U | U | U | U | U | U | 3/10 |
+| 17 | [Client Retention Engine](sheets/17-client-retention-engine.md) | 2 | U | U | U | U | 0 | U | U | U | U | 2/10 |
+| 18 | [Award-Submission Factory](sheets/18-award-submission-factory.md) | 2 | U | U | U | U | 0 | U | U | U | U | 2/10 |
+| 19 | [Wholesale Shelf (generic kits)](sheets/19-wholesale-shelf-generic-kits.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 20 | [Recurring Customer-Value Kits (weekly OS)](sheets/20-recurring-customer-value-kits-weekly-os.md) | 2 | U | U | 1 | U | U | U | U | U | U | 2/10 |
+| 21 | [Shovel themed-day engagement kit](sheets/21-shovel-themed-day-engagement-kit.md) | 2 | 1 | 1 | 1 | U | U | U | U | U | U | 4/10 |
+| 22 | [Think and Grow Rich (benchmark report)](sheets/22-think-and-grow-rich-benchmark-report.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 23 | [Sponsor layer on weekly item](sheets/23-sponsor-layer-on-weekly-item.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
+| 24 | [Weekly retention drop / seasonal agency campaigns](sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 25 | [Client Action Layer](sheets/25-client-action-layer.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
+| 26 | [Gemini A: AI mentors in community](sheets/26-gemini-a-ai-mentors-in-community.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 27 | [Gemini B: Shovel-Proof Gate funnel](sheets/27-gemini-b-shovel-proof-gate-funnel.md) | 0 | 0 | U | 0 | U | U | U | U | U | U | 3/10 |
+| 28 | [Local Presence Score / certificate](sheets/28-local-presence-score-certificate.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 29 | [Peer-circle operating system](sheets/29-peer-circle-operating-system.md) | 2 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 30 | [Shovel + Think and Grow Rich stickiness](sheets/30-shovel-think-and-grow-rich-stickiness.md) | 2 | 1 | 1 | 1 | U | U | U | U | U | U | 4/10 |
+| 31 | [Shovel + Sponsor layer](sheets/31-shovel-sponsor-layer.md) | U | 1 | 1 | 1 | U | U | U | U | U | U | 3/10 |
+| 32 | [Door Opener + niche evidence pack](sheets/32-door-opener-niche-evidence-pack.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 33 | [Mary's one-job shelf](sheets/33-marys-one-job-shelf.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 34 | [Agency "No" Store](sheets/34-agency-no-store.md) | 1 | U | U | U | U | U | U | U | U | U | 1/10 |
+| 35 | [Product factory / contributor syndicate](sheets/35-product-factory-contributor-syndicate.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
+| 36 | [Community Without the Host](sheets/36-community-without-the-host-bounded-q-a-community.md) | 2 | U | U | 0 | U | U | U | U | U | U | 2/10 |
 | 37 | [Product Ingredient Company (B2B2C layer)](sheets/37-product-ingredient-company-b2b2c-layer.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
 | 38 | [Micro-brand factory](sheets/38-micro-brand-factory-acreageready-exitready-etc.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |
 | 39 | [Collective Purchasing Engine](sheets/39-collective-purchasing-engine.md) | U | U | U | U | U | U | U | U | U | U | 0/10 |

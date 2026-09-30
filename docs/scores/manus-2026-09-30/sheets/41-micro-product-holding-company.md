@@ -1,5 +1,7 @@
 # Perfect Product assessment — 41. Micro-product Holding Company
 
+Catalog numbering v2: current ID **41**; earlier ID **41**. Pinned source citations retain historical IDs. Scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
+
 ## Assessment identity
 
 - **Stable GitHub catalog ID:** 41
@@ -9,7 +11,7 @@
 - **Guide version:** Scoring Guide v1.1, dated 2026-09-30
 - **Pinned rubric version, commit and date:** Rubric v1.1 — commit [`8be7c589928ef681577baaa765a90583d824f128`](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product-rubric.md), dated 2026-09-30
 - **Pinned definition commit and date:** [`8be7c589928ef681577baaa765a90583d824f128`](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product.md), dated 2026-09-30
-- **Catalog source commit and assessed product version:** [`8be7c589928ef681577baaa765a90583d824f128`](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/products/entries/41-micro-product-holding-company.md), entry 41 as recorded at that commit
+- **Catalog source commit and assessed product version:** [Catalog entry 41 — Micro-product Holding Company](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/products/entries/41-micro-product-holding-company.md), entry 41 as recorded at that commit
 
 ## Product and assumptions
 
@@ -31,7 +33,7 @@
 1. [Catalog entry 41 — Micro-product Holding Company](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/products/entries/41-micro-product-holding-company.md) (assessed version): acquisition/revenue-share design, variable end buyers, no holding-company retail price, exploration status, and distinction from entry 38.
 2. [Z3 discussion](https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/perspectives/z3.md): Product Factory / micro-brand context; it labels these structures as hypotheses and not approved operating plans.
 3. [`briefing/lessons.md`, 2026-09-29 revision `de643502476d740e1d3c112693366ebcedb93932`](https://github.com/ZedBiz44/zedbiz-jack-key-info/blob/de643502476d740e1d3c112693366ebcedb93932/briefing/lessons.md): states the micro-product holding-company lens—acquire or revenue-share with neglected small products, add packaging/distribution/automation/repeat economics, and retain successful products as standalone micro-brands; labels these as exploration lenses, not approved ventures or implementation plans.
-4. Scoring Guide v1.1 (local task file: `/home/ubuntu/[Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)), [Rubric v1.1](../../../framework/perfect-product-rubric.md), [Perfect Product definition](../../../framework/perfect-product.md), [satisfaction shapes](../../../framework/satisfaction-shapes.md), [current direction](../../../current-direction.md), and the [evaluation template](../../../../templates/product-evaluation.md), all read for this assessment. The current direction records that the small weekly item is the current core candidate and that the cited factory structures are hypotheses rather than product approval.
+4. Scoring Guide v1.1 (local task file: [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181f8add6e84f8ee733bd)), [Rubric v1.1](../../../framework/perfect-product-rubric.md), [Perfect Product definition](../../../framework/perfect-product.md), [satisfaction shapes](../../../framework/satisfaction-shapes.md), [current direction](../../../current-direction.md), and the [evaluation template](../../../../templates/product-evaluation.md), all read for this assessment. The current direction records that the small weekly item is the current core candidate and that the cited factory structures are hypotheses rather than product approval.
 
 ## Ten-bar record
 

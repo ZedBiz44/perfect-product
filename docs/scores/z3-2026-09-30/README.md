@@ -1,5 +1,7 @@
 # Z3's Perfect Product assessment
 
+Catalog numbering v2 (2026-09-30): IDs now match Notion group order. Only identifiers and links changed; scores, confidence and reasoning retain their original meaning. See the [old-to-new map](../catalog-id-map.md).
+
 Date: 2026-09-30 | Agent: Z3 (GPT-5.6 Sol) | Guide v1.1 / Rubric v1.1 | Mode: Concept fit
 
 [Scores ledger](../README.md) · [Z3 CSV](index.csv) · [Rubric](../../framework/perfect-product-rubric.md) · [Catalog](../../products/README.md)
@@ -17,26 +19,26 @@ Reviewed all 41 catalog entries independently against all ten bars using Scoring
 
 Only complete assessments can be ordered numerically. This is **not** a recommendation ranking and does not override archived/rejected status.
 
-1. **11 Platform Weather** — 19/20 · 9 strong fits
-2. **33 Shovel + Think and Grow Rich stickiness** — 18/20 · 8 strong fits
-3. **36 Recurring Customer-Value Kits (weekly OS)** — 18/20 · 8 strong fits
+1. **06 Platform Weather** — 19/20 · 9 strong fits
+2. **30 Shovel + Think and Grow Rich stickiness** — 18/20 · 8 strong fits
+3. **20 Recurring Customer-Value Kits (weekly OS)** — 18/20 · 8 strong fits
 4. **01 Shovel Your Biz-Shit** — 17/20 · 7 strong fits
-5. **02 Shovel themed-day engagement kit** — 17/20 · 7 strong fits
-6. **03 Shovel member-action unit** — 17/20 · 7 strong fits
-7. **28 No Lead Left Behind: GHL Agency Kit** — 16/20 · 7 strong fits · 1 zero(s)
-8. **08 Save Kit** — 16/20 · 6 strong fits
-9. **19 Gemini A: AI mentors in community** — 16/20 · 6 strong fits
-10. **34 Shovel + Sponsor layer** — 16/20 · 6 strong fits
-11. **29 Field Notes / Practitioner Briefing** — 15/20 · 6 strong fits · 1 zero(s)
-12. **27 Peer-circle operating system** — 14/20 · 5 strong fits · 1 zero(s)
-13. **21 Gemini C: Board of Directors report** — 13/20 · 4 strong fits · 1 zero(s)
-14. **31 Award-Submission Factory** — 11/20 · 3 strong fits · 2 zero(s)
+5. **21 Shovel themed-day engagement kit** — 17/20 · 7 strong fits
+6. **02 Shovel member-action unit** — 17/20 · 7 strong fits
+7. **15 No Lead Left Behind: GHL Agency Kit** — 16/20 · 7 strong fits · 1 zero(s)
+8. **04 Save Kit** — 16/20 · 6 strong fits
+9. **26 Gemini A: AI mentors in community** — 16/20 · 6 strong fits
+10. **31 Shovel + Sponsor layer** — 16/20 · 6 strong fits
+11. **16 Field Notes / Practitioner Briefing** — 15/20 · 6 strong fits · 1 zero(s)
+12. **29 Peer-circle operating system** — 14/20 · 5 strong fits · 1 zero(s)
+13. **10 Gemini C: Board of Directors report** — 13/20 · 4 strong fits · 1 zero(s)
+14. **18 Award-Submission Factory** — 11/20 · 3 strong fits · 2 zero(s)
 
 ## Main read
 
-- **Platform Weather (11)** has the strongest complete concept fit in this pass: recurring risk, shared AI monitoring/comms, easy consumption, compounding incident data, and strong scale economics. Acquisition access is the main limitation.
-- **Shovel + Think and Grow Rich (33)** and **Recurring Customer-Value Kits (36)** clear the 17/20 concept-fit threshold on paper, but both still depend on buyer access and willingness-to-pay assumptions.
-- **Shovel (01)**, **Shovel themed-day add-on (02)**, and **Shovel member-action unit (03)** also clear 17/20 in my concept-fit interpretation.
+- **Platform Weather (06)** has the strongest complete concept fit in this pass: recurring risk, shared AI monitoring/comms, easy consumption, compounding incident data, and strong scale economics. Acquisition access is the main limitation.
+- **Shovel + Think and Grow Rich (30)** and **Recurring Customer-Value Kits (20)** clear the 17/20 concept-fit threshold on paper, but both still depend on buyer access and willingness-to-pay assumptions.
+- **Shovel (01)**, **Shovel themed-day add-on (21)**, and **Shovel member-action unit (02)** also clear 17/20 in my concept-fit interpretation.
 - **Collective Purchasing Engine (39)** and **Benefits Factory (40)** remain intentionally unranked despite strong structural fit because price/payer economics and the AI/human work split are not settled in the current entries.
 - Several archived/dead ideas score well on some mechanics but retain documented zero conflicts. Scores do not revive them.
 

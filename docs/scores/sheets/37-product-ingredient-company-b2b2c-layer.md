@@ -30,7 +30,7 @@ Use U or 0/1/2 per bar; U is not zero.
 1 Pays more than once:  2 / 2 — evidence: White-label licence recurring named.
 2 Build once, sell many:2 / 2 — evidence: Ingredient layers licensed many times.
 3 Creates Gold:         1 / 2 — evidence: Portfolio of layers + licensee relationships.
-4 Runs without you:     1 / 2 — evidence: B2B2C intent; service-creep risk from #13.
+4 Runs without you:     1 / 2 — evidence: B2B2C intent; service-creep risk from #25.
 5 Satisfaction shape:   U / 2 — evidence: End-user shape varies; structural.
 6 No Brainer:           U / 2 — evidence: No WTP for a specific ingredient.
 7 C3PO (AI does the work):U / 2 — evidence: AI manufacturing possible; not evidenced.

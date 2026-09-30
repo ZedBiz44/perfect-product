@@ -8,7 +8,7 @@ Date: 2026-09-30 | Agent: Cody | Status: Evidence-incomplete assessment
 
 - Catalog ID: 38. Type: business structure. Catalog status: exploration (unchanged).
 - Buyer/payer: Channel owners per micro-brand (realtors, brokers, community owners, course creators, chambers).
-- Price hypothesis: Per brand founding licences (see #14–15 bands); portfolio economics.
+- Price hypothesis: Per brand founding licences (see #7–8 bands); portfolio economics.
 - Promise: Product Factory creates small standalone brands around one problem (illustrative: AcreageReady, ExitReady Digital, MemberSpark, CourseFinish, LocalLaunchKit).
 - Delivery: Research → micro-brand → IP → distribution → systemize → hold/license/sell/kill; ZedBiz as holding/manufacturing company.
 - Primary satisfaction shape: varies. This is proposed, not observed.

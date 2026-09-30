@@ -142,6 +142,6 @@ Shared production costs, pooled purchasing, shared distribution and network/data
 
 ## Version and source notes
 
-Use the exact rubric and definition commit links pinned in Scoring Guide v1.1 for a comparable assessment. Stable GitHub catalog IDs identify ideas; Notion display order is not an identifier. The versioned procedure and record format live in the [scoring guide](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4).
+Use the exact rubric and definition commit links pinned in Scoring Guide v1.1 for a comparable assessment. Catalog numbering v2 aligns GitHub IDs with Notion item numbers. Match by both ID and name; use the [migration map](../scores/catalog-id-map.md) for earlier snapshots. The pinned scoring criteria remain rubric v1.1. The versioned procedure and record format live in the [scoring guide](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4).
 
 The Notion rubric page is a reference link to this maintained rubric, not an independently edited copy. Previous rubric text remains available in Git history. Existing independent assessments retain their original scores and sources.
