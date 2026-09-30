@@ -12,9 +12,9 @@
    - **0 (Fail)** — documented conflict with a bar or founder constraint (e.g. host-community treadmill, writing-dependent Field Notes for Jack, retainer/client-work shaped offers that fail build-once / runs-without-you).
    - **1 (Partial)** — evidenced partial fit from repo docs (entries, hopper, definition-feedback, current-direction, exploration-gaps, archives).
    - **2 (Pass)** — evidenced fit with citation to repo files or known working examples tied to the idea.
-3. Fill one sheet under [sheets/](sheets/) using [templates/product-evaluation.md](../../templates/product-evaluation.md). Prefill name, buyer/price from the catalog entry when known; name primary satisfaction shape from the catalog README when listed.
+3. Save each dated independent assessment in its own reviewer folder, with a summary, CSV and individual sheets. Grok's original [CSV](index.csv) and [sheets](sheets/) retain their existing paths. Use [templates/product-evaluation.md](../../templates/product-evaluation.md). Prefill name, buyer/price from the catalog entry when known; name primary satisfaction shape from the catalog README when listed.
 4. **Incomplete = no /20.** If any bar is U, record assessed coverage (e.g. 6/10), leave total blank, and do **not** invent a fake total. Documented zeros still show.
-5. **Leaderboard lists COMPLETE assessments only** (all ten bars scored, no U), ranked by total descending, then passes. Incomplete assessments go in the **In progress** section with coverage only.
+5. The [shared leaderboard](leaderboard.md) compares the independent assessments. Completed individual assessments may be ranked by total, then passes; incomplete ones show coverage without /20 totals. A combined ranking method is still proposed; do not average Unknowns as zeros or treat reviewer agreement as new buyer evidence.
 6. Scoring **does not** change catalog Type or Status. Archives and dead-but-ingredient ideas stay in sheets; zeros are allowed; complete or incomplete as evidence allows.
 7. **Proof gate:** all ten assessed, **no zeros**, at least **seven Passes** (therefore **≥17/20**), and founder constraints still hold → eligible for **commercial proof consideration**. That is **not** product approval and **not** permission to start testing or building.
 
@@ -22,16 +22,9 @@
 
 | File | Role |
 | --- | --- |
-| [leaderboard.md](leaderboard.md) | Complete rankings + In progress incompletes |
-| [index.csv](index.csv) | Machine-readable scores for all 41 entries |
-| [sheets/](sheets/) | One evaluation sheet per catalog entry 01–41 |
-
-## First ranking pass
-
-- **Date:** 2026-09-29 (America/Edmonton)
-- **Scorer:** Perfect Product (Grok)
-- **Scope:** All catalog entries 01–41 against the current ten-bar rubric
-- **Expectation:** Many incompletes due to U on commercial-evidence bars — that is correct discipline, not a bug
+| [leaderboard.md](leaderboard.md) | Shared comparison across independent assessments; combined ranking method pending |
+| [index.csv](index.csv) | Grok's original machine-readable scores for all 41 entries |
+| [sheets/](sheets/) | Grok's original evaluation sheets for catalog IDs 01–41 |
 
 ## Related
 
@@ -40,7 +33,8 @@
 - [Current direction](../current-direction.md)
 
 
-## Additional independent assessments
+## Independent assessments
 
+- [Grok — 2026-09-29: all 41 ideas](grok-2026-09-29/README.md), moved from the former leaderboard, with the original [CSV index](index.csv) and [individual sheets](sheets/).
 - [Cody — 2026-09-30: all 41 ideas](cody-2026-09-30/README.md), with a separate [CSV index](cody-2026-09-30/index.csv) and individual sheets. Grok's original scores remain unchanged.
 - [Mary — 2026-09-30: all 41 ideas](mary-2026-09-30/README.md), with a separate [CSV index](mary-2026-09-30/index.csv) and individual sheets. Grok's original scores and Cody's assessment remain unchanged.
