@@ -2,7 +2,7 @@
 
 [Repository home](../../README.md) · [Notion database](https://app.notion.com/p/e4e68375fe79451db806c3ac4f3f1458)
 
-47 records imported 2026-09-29. Values reflect the original research dates. Empty properties remain unspecified. Each record page was checked and contained no additional body content.
+47 research records imported 2026-09-29 (existing groups and offers, separate from the 41 product-catalog entries). Values reflect the original research dates. Empty properties remain unspecified. Each record page was checked and contained no additional body content.
 
 ## Skoolers
 
