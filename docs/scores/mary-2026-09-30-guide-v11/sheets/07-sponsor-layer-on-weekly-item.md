@@ -31,7 +31,7 @@
 | Bar | Score | Confidence | Reason | Basis | Main limitation |
 | --- | --- | --- | --- | --- | --- |
 | B1 Pays more than once | 1 | M | Monthly sponsor mechanism exists, but the renewal rationale is fragile: the item must stay useful without the logo, so the sponsor's benefit is indirect. | assumption | Soft renewal logic; sponsor ROI unproven. |
-| B2 Build once, sell many | 2 | M | Sponsor funds an already-produced unit; marginal cost near zero. Reuse is real, but economics hinge on proving sponsor value -- kept as a later layer. | inference | Proving sponsor value is the margin risk. |
+| B2 Build once, sell many | 1 | M | Sponsor funds an already-produced unit, but proving sponsor value is the acquisition cost and the documented hurdle -- a meaningful margin limitation. | inference | Proving sponsor value is the margin risk. |
 | B3 Creates Gold | 1 | M | Sponsor relationships + proof-of-value data accumulate, but are relationship-dependent and limited as a transferable asset. | inference | Relationship-dependent. |
 | B4 Runs without you | 1 | M | Unit production systematized, but sponsor sales and relationship management need regular human work; credible path to systematize exists. | assumption | Human sponsor-management burden. |
 | B5 Satisfaction shape | 1 | M | End users get the unit's beer, but the layer itself adds no satisfaction; inherits the host unit's experience. | inference | Auxiliary by design. |
@@ -42,7 +42,7 @@
 | B10 Newton's Rule | 2 | M | Audience scale directly improves the offer to sponsors: more owners = more distribution = more sponsor value (two-sided scale). | inference | Depends on the audience existing first. |
 
 ## Coverage, total, zeros
-- Coverage: 10/10 bars assessed | Concept-fit total: 12/20 concept fit | Twos: 2 | Zeros: 0
+- Coverage: 10/10 bars assessed | Concept-fit total: 11/20 concept fit | Twos: 1 | Zeros: 0
 - Every zero: none
 
 ## Sensitivities
