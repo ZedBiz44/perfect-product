@@ -30,7 +30,7 @@
 | Bar | Score | Confidence | Reason | Basis | Main limitation |
 | --- | --- | --- | --- | --- | --- |
 | B1 Pays more than once | 1 | M | Annual/per-report repeat occasions exist, but as an ingredient its recurrence mainly serves the host product. | inference | No strong standalone renewal logic. |
-| B2 Build once, sell many | 2 | M | One report produced and sold to many; digital. Reuse is real, but ongoing data work is a meaningful cost/limitation. | assumption | Data-gathering cost is the margin risk. |
+| B2 Build once, sell many | 1 | M | One report produced and sold to many; digital. Reuse is real, but the ongoing data work is a meaningful cost -- the rubric's partial-fit case. | assumption | Data-gathering cost is the margin risk. |
 | B3 Creates Gold | 2 | M | The outcome-evidence dataset + report archive is a named, ownable, appreciating, transferable asset (a benchmarking moat). | inference | No proprietary dataset exists yet; planned assets count at concept stage. |
 | B4 Runs without you | 1 | M | Fleet aggregates data and drafts; but data gathering from partners needs ongoing coordination -- credible path to systematizing via automated collection. | assumption | Coordination burden per data source. |
 | B5 Satisfaction shape | 1 | M | As an ingredient its satisfaction is auxiliary: 'proof of what works' partly delivers the Trophy promise; the primary experience belongs to the host product. | inference | Thin standalone experience. |
@@ -41,10 +41,11 @@
 | B10 Newton's Rule | 1 | M | More editions/data make benchmarks better (data effect), but data sourcing is the bottleneck. | assumption | Bottleneck caps the flywheel. |
 
 ## Coverage, total, zeros
-- Coverage: 10/10 bars assessed | Concept-fit total: 12/20 concept fit | Twos: 2 | Zeros: 0
+- Coverage: 10/10 bars assessed | Concept-fit total: 11/20 concept fit | Twos: 1 | Zeros: 0
 - Every zero: none
 
 ## Sensitivities
+- B2 (Build once, sell many): scored 1 on assumption with M confidence -- Data-gathering cost is the margin risk.
 - B4 (Runs without you): scored 1 on assumption with M confidence -- Coordination burden per data source.
 - B6 (No Brainer): scored 1 on assumption with M confidence -- Dataset unproven; differentiation hurdle.
 - B7 (C3PO (AI does the work)): scored 1 on assumption with M confidence -- Data sourcing is the human burden.
