@@ -1,53 +1,65 @@
 # Evaluation: Micro-product Holding Company
 
-[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/41-micro-product-holding-company.md) · [Rubric](../../framework/perfect-product-rubric.md)
+[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/41-micro-product-holding-company.md) · [Rubric](../../framework/perfect-product-rubric.md) · [Scoring guide v1.2](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)
 
 - **Candidate:** Micro-product Holding Company
-- **Date / owner:** 2026-09-29 (America/Edmonton) / Perfect Product (Grok)
+- **Date / owner:** Revised 2026-09-30 (America/Edmonton) / Perfect Product (Grok). First pass 2026-09-29.
+- **Revision:** revised after catalog clarifications (WC1.1). Guide v1.2. Rubric v1.1 commit `8be7c589928ef681577baaa765a90583d824f128`. Catalog source `045e1c7a042eddb0c71ef19a6cdb8d07b20611bb`.
 - **Status:** exploration
 - **Group:** Structures
-- **Primary satisfaction shape:** varies by acquired product
-- **Supporting satisfaction shapes (optional):** —
-- **Buyer and payer:** Portfolio model; end buyers vary
-- **Existing audience or distribution channel:** Depends on acquired products' existing customers.
+- **Primary satisfaction shape:** Tool in the hand
+- **Supporting satisfaction shapes (optional):** Event Excitement may apply to chamber speaking (not the scored lane)
+- **Buyer and payer:** Acquire or revenue-share with an existing small internet-marketing product, then consider adjacent distinctive marketing assets. For one comparable score, use an existing event-planner template product sold to event planners as the first illustrative deal. Keep chamber speaking and WordPress plugins as separate candidate types with different labour and maintenance needs. No target, purchase price, retail price or contract is selected.
+- **Existing audience or distribution channel:** Preserve a transferable customer list and relevant seller partnerships; add event-industry educators or marketplaces for referral/retail margin. Audience-transfer rights and distribution access must be checked.
 - **One-sentence promise:** Acquire/revenue-share small proven products; improve marketing, distribution, automation, ladders.
 - **Immediate buying or usage moment:** Acquisition / improvement cycle.
-- **Price and repeat-purchase reason:** Acquisition / revenue-share economics; no retail price at holdco level
-- **Evidence links:** catalog entry `41-micro-product-holding-company.md`; sources cited per bar below
+- **Price and repeat-purchase reason:** Working price stays the entry's recorded hypothesis. Repeat mechanism: A template buyer may purchase new editions, adjacent event formats or a broader licence; a one-off download has limited inherent recurrence. Do not assume every acquired IM product is a subscription. No new willingness-to-pay figure is claimed.
+- **Evidence links:** catalog entry `41-micro-product-holding-company.md` working concept WC1.1; [assessment context](../../products/assessment-context.md). Prior scores were the 2026-09-29 evidence-standard pass.
 
-## Ten-bar assessment (first ranking pass)
+## Ten-bar assessment (revised after catalog clarifications)
 
-Follow the [rubric](../../framework/perfect-product-rubric.md): U = Unknown, 0 = documented conflict, 1 = evidenced partial fit, 2 = evidenced fit. Leave the total blank while any bar is U. Proof consideration requires all ten assessed, no zeros, at least seven Passes (17/20 minimum), and founder fit; it does not authorize testing or building.
+Concept fit under guide v1.2 and rubric v1.1. 2 = credible specific mechanism under the entry's labelled assumptions; 1 = partial; 0 = the described model conflicts; U only if a missing detail blocks judgment and assumptions cannot resolve it. Unsold is not U. Prices are hypotheses, not measured willingness to pay. Catalog Type/Status unchanged.
 
 ```
 Idea: Micro-product Holding Company
-Buyer: Portfolio model; end buyers vary
-Primary shape (bar 5): varies by acquired product
-Supporting shapes: —
-Date / sources: 2026-09-29; catalog entry + cited repo docs
+Buyer: Acquire or revenue-share with an existing small internet-marketing product, then consider adjacent distinctive marketing assets. For one comparable score, use an existing event-planner template product sold to event planners as the first illustrative deal. Keep chamber speaking and WordPress plugins as separate candidate types with different labour and maintenance needs. No target, purchase price, retail price or contract is selected.
+Primary shape (bar 5): Tool in the hand
+Supporting shapes: Event Excitement may apply to chamber speaking (not the scored lane)
+Date / sources: revised 2026-09-30 America/Edmonton after catalog clarifications; WC1.1; entry 41-micro-product-holding-company.md
 Use U or 0/1/2 per bar; U is not zero.
 
-1 Pays more than once:  1 / 2 — evidence: Depends on acquired product economics.
-2 Build once, sell many:1 / 2 — evidence: Holdco improves packaging; each acquisition unique.
-3 Creates Gold:         2 / 2 — evidence: Holding company of proven products with customers = Creates Gold thesis (`entry`).
-4 Runs without you:     U / 2 — evidence: Depends on what is acquired and how automated.
-5 Satisfaction shape:   U / 2 — evidence: Varies.
-6 No Brainer:           U / 2 — evidence: No acquisition target/price set.
-7 C3PO (AI does the work):U / 2 — evidence: Automation applied post-acquire — not evidenced.
-8 Natural route to buyers:1 / 2 — evidence: Buys products that already have customers — partial natural route via acquisition thesis.
-9 Easy to get the value:U / 2 — evidence: Varies.
-10 Newton's Rule:       1 / 2 — evidence: Shared distribution/automation across portfolio hypothesized.
+1 Pays more than once: 1 / 2 — Medium — assumption: A template buyer may purchase new editions, adjacent event formats or a broader licence; a one-off download has limited inherent recurrence. Do not assume every acquired IM product is a subscription. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+2 Build once, sell many: 1 / 2 — Low — assumption: A finished template can be licensed repeatedly with bounded support. Assume purchase or revenue-share terms are screened against conservative net receipts after support, updates and distribution; deal selection and ongoing costs limit fit rather than proving any target profitable. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+3 Creates Gold: 2 / 2 — Medium — assumption: Transferable template/IP rights, product brand, customer contracts and documentation create acquired assets. A revenue-share deal without control or transferable rights would be weaker. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+4 Runs without you: 1 / 2 — Low — assumption: An operator handles sales and product support, but Jack still selects targets and resolves acquisition/integration decisions. A business dependent on its original speaker may not transfer at all. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+5 Satisfaction shape: 2 / 2 — Medium — assumption: An event planner uses the template to produce a usable plan or client deliverable; completion of that job is the first-use success signal for this scenario. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+6 No Brainer: 1 / 2 — Low — assumption: An upcoming event-planning job is a clear trigger, but price and differentiation from free templates are unchosen. Conditional buying value is plausible with meaningful limitations. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+7 C3PO (AI does the work): 1 / 2 — Low — assumption: AI can adapt templates from structured inputs, draft updates and handle routine support; humans maintain quality and resolve exceptions. A static download or ordinary plugin is not automatically AI-driven. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+8 Natural route to buyers: 1 / 2 — Low — assumption: Preserve a transferable customer list and relevant seller partnerships; add event-industry educators or marketplaces for referral/retail margin. Audience-transfer rights and distribution access must be checked. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+9 Easy to get the value: 2 / 2 — Medium — assumption: For the template example: buy, download, fill in event details, check and use the plan. This bounded journey does not represent plugin installation or booking a live speaker. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+10 Newton's Rule: 1 / 2 — Medium — assumption: Shared marketing, checkout and support can help a small related portfolio; different niches, codebases and human delivery can offset those economies. Partial: the mechanism covers part of the bar and the entry states a real limitation.
 
-ASSESSED: 5 / 10
-UNKNOWN BARS / missing evidence: 4 (Runs without you), 5 (Satisfaction shape), 6 (No Brainer), 7 (C3PO (AI does the work)), 9 (Easy to get the value)
-TOTAL:  / 20 (leave blank if any U) — INCOMPLETE
+ASSESSED: 10 / 10
+UNKNOWN BARS / missing evidence: none — labelled WC assumptions were sufficient to judge every bar
+TOTAL: 13 / 20 — concept fit
 DOCUMENTED ZEROS / conflicts: none
-PASSES: 1 / 10
-Eligible for proof consideration? No — incomplete and/or below gate (17/20 + seven Passes + no zeros + founder fit)
-Verdict / reasoning: Incomplete portfolio structure. Different from #38 (create vs acquire).
-Next exploration question: Name one small proven product with real customers and weak distribution to diligence.
+PASSES: 3 / 10
+Eligible for proof consideration? No — below 17/20 with seven strong fits
+Verdict / reasoning: Concept-fit 13/20 from labelled WC1.1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+Next exploration question: Confirm or replace the labelled payer, price, scope and channel before any launch. No supplier, partner or customer commitment is implied.
 Any proof work requires a separate request.
 ```
+
+## Changelog (2026-09-29 → 2026-09-30)
+
+Prior scores stay visible. Only bars that moved are listed.
+
+- Bar 4 Runs without you: U → 1 — An operator handles sales and product support, but Jack still selects targets and resolves acquisition/integration decisions. A business dependent on its original speaker may no...
+- Bar 5 Satisfaction shape: U → 2 — An event planner uses the template to produce a usable plan or client deliverable
+- Bar 6 No Brainer: U → 1 — An upcoming event-planning job is a clear trigger, but price and differentiation from free templates are unchosen. Conditional buying value is plausible with meaningful limitati...
+- Bar 7 C3PO (AI does the work): U → 1 — AI can adapt templates from structured inputs, draft updates and handle routine support
+- Bar 9 Easy to get the value: U → 2 — For the template example: buy, download, fill in event details, check and use the plan. This bounded journey does not represent plugin installation or booking a live speaker.
+- Shape: varies by acquired product → Tool in the hand — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
 
 ## Supporting traits (not additional scored bars)
 
@@ -60,23 +72,23 @@ Any proof work requires a separate request.
 
 ## Satisfaction test
 
-Named shape: **varies by acquired product**. Buyer experience not commercially tested in-repo for this offer; bar 5 scored per rubric evidence rules (U when untested unless noted).
+Named working shape: **Tool in the hand**. An event planner uses the template to produce a usable plan or client deliverable; completion of that job is the first-use success signal for this scenario. This is a design judgment from the labelled scenario, not an observed customer response. Working shape for this revision: Tool in the hand (WC). Prior sheet shape: varies by acquired product.
 
 ## Buyer and operating evidence
 
-- Pain and financial stakes: see catalog entry; prices are hypotheses.
-- Budget, time, reachability, and understanding: Depends on acquired products' existing customers.
-- Current alternatives, including free options: noted per bar (esp. free AI/PLR/GHL practice where relevant).
-- What the buyer has actually paid for: not evidenced for this offer in-repo.
-- Delivery and reuse: Acquire/revenue-share small proven products; improve marketing, distribution, automation, ladders.
-- Founder hours, support burden, and customization boundary: see bars 2, 4, 7.
-- Reasons this could fail: Incomplete portfolio structure. Different from #38 (create vs acquire).
-- Related rejected ideas and how this differs: see catalog Related ideas + ingredients.md.
+- Pain and financial stakes: An upcoming event-planning job is a clear trigger, but price and differentiation from free templates are unchosen. Conditional buying value is plausible with meaningful limitations.
+- Budget, time, reachability, and understanding: Preserve a transferable customer list and relevant seller partnerships; add event-industry educators or marketplaces for referral/retail margin. Audience-transfer rights and distribution access must be checked.
+- Current alternatives, including free options: stated inside the buying-trigger assumption; not a measured conversion.
+- What the buyer has actually paid for: not evidenced. The working price is the catalog hypothesis only.
+- Delivery and reuse: A finished template can be licensed repeatedly with bounded support. Assume purchase or revenue-share terms are screened against conservative net receipts after support, updates and distribution; deal selection and ongoing costs limit fit rather than proving any target profitable.
+- Founder hours, support burden, and customization boundary: An operator handles sales and product support, but Jack still selects targets and resolves acquisition/integration decisions. A business dependent on its original speaker may not transfer at all.
+- Reasons this could fail: Concept-fit 13/20 from labelled WC1.1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+- Related rejected ideas and how this differs: catalog Related ideas. A numeric score does not change archive or dead-but-ingredient status.
 
 ## Proof and decision (complete only when requested)
 
-- Smallest proposed paid test: not requested this pass.
+- Smallest proposed paid test: not requested this revision.
 - Success / failure criteria: —
 - Observed results: —
-- Decision, decision-maker, date, and source: First ranking pass only — Perfect Product (Grok), 2026-09-29. Scoring does not change catalog Type/Status.
-- Next action: Name one small proven product with real customers and weak distribution to diligence.
+- Decision, decision-maker, date, and source: Revised after catalog clarifications — Perfect Product (Grok), 2026-09-30 (America/Edmonton). Scoring does not change catalog Type/Status. Notion was not updated.
+- Next action: Confirm or replace the labelled payer, price, scope and channel before any launch.
