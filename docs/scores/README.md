@@ -13,7 +13,7 @@ Catalog numbering v2 (2026-09-30): IDs now match Notion group order. Only identi
 3. Save each dated independent assessment in its own reviewer folder with a summary, CSV and individual sheets. Record the guide version, assessed product version, assumptions, reasons and confidence as required by the guide. Preserve earlier assessments unless Jack explicitly requests removal; Cody’s old run was removed by that instruction.  Grok's [CSV](index.csv) and [sheets](sheets/) are the canonical Grok location. They were revised in place on 2026-09-30 (America/Edmonton) after catalog clarifications; the 2026-09-29 values remain in each sheet changelog and in Git history. Catalog-v2 IDs are unchanged.
 4. Use the [shared leaderboard](leaderboard.md) to compare assessments. Show each reviewer's concept-fit assessment separately. Combine only in a labelled reconciliation under the guide; never average U with numbers. Keep earlier evidence assessments separate.
 
-The guide is maintained in Notion. This ledger links to it rather than maintaining a second copy of the procedure. Other reviewers’ score values and catalog statuses are unchanged. Cody’s current run assesses WC1 for 01–38 and clarified WC1.1 for 39–41; earlier runs are not directly comparable without reassessment.
+The guide is maintained in Notion. This ledger links to it rather than maintaining a second copy of the procedure. Other reviewers’ score values and catalog statuses are unchanged. Cody’s current run and Marsha’s reassessment assess WC1 for 01–38 and clarified WC1.1 for 39–41; earlier runs are not directly comparable without reassessment.
 
 ## Files
 
@@ -41,3 +41,5 @@ The guide is maintained in Notion. This ledger links to it rather than maintaini
 - [Manus — 2026-09-30, guide v1.1: all 41 ideas](manus-2026-09-30/README.md), with [CSV index](manus-2026-09-30/index.csv) and 41 individual sheets; independently scored under the same concept-fit rules. Historical reviews and the Mary/Z3 v1.1 records remain unchanged.
 
 - [Marsha — 2026-09-30, guide v1.2: all 41 ideas](marsha-2026-09-30/README.md), with [CSV index](marsha-2026-09-30/index.csv) and 41 individual sheets. Seven complete totals; 34 incomplete totals remain blank. Separate concept-fit assessment; all earlier scores preserved.
+
+- [Marsha — 2026-09-30, guide v1.2 / WC1 and WC1.1: reassessment of all 41](marsha-2026-09-30-wc1/README.md), with [CSV](marsha-2026-09-30-wc1/index.csv), [118 bar changes](marsha-2026-09-30-wc1/changes.csv) and 41 sheets. All 41 totals are complete under explicit working assumptions. The earlier Marsha run remains historical and unchanged in its scores.
