@@ -4,7 +4,7 @@
 
 Synced from Notion 2026-09-29; bars 3 / 7 / 10 clarified 2026-09-29 (Creates Gold absorbs sellable+appreciating asset; C3PO is AI-core production; Newton's Rule is scale gravity only). See [definition-feedback.md](definition-feedback.md) for overlap history. See the decision guide for corrections across pages.
 
-**Agents:** score ideas with the [Perfect Product Rubric](perfect-product-rubric.md) (U for unknown; 0/1/2 for evidenced fit; no total while incomplete). Browse all ideas in the [product catalog](../products/README.md) before inventing new ones.
+**Agents:** score ideas with the [Perfect Product Rubric](perfect-product-rubric.md) v1.1 (concept fit using stated assumptions; confidence recorded separately; no total while incomplete). Browse all ideas in the [product catalog](../products/README.md) before inventing new ones.
 
 ---
 
@@ -65,7 +65,7 @@ Beyond the definition, the deeper pattern:
 
 ## Scoring
 
-Agents use the [Perfect Product Rubric](perfect-product-rubric.md) (0 / 1 / 2 per bar; must-not-fail any bar). Product ideas live in the [product catalog](../products/README.md).
+Agents use the [Perfect Product Rubric](perfect-product-rubric.md) v1.1 and the [Scoring Guide](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) v1.1. Totals describe concept fit; 17/20 with no zeros and at least seven strong fits is a shortlist signal, not proof. Product ideas live in the [product catalog](../products/README.md).
 
 ## Related docs
 

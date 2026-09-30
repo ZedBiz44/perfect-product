@@ -6,10 +6,10 @@
 
 ## How agents score
 
-1. **Review the [Perfect Product Scoring Guide — Assumptions and Interpretation](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) first.** It is the maintained guide for concept scoring, reasonable assumptions, confidence, and interpretation of all ten bars.
-2. Read the [Perfect Product Rubric](../framework/perfect-product-rubric.md) and [definition](../framework/perfect-product.md) for the ten criteria. The scoring guide governs concept-stage interpretation where older evidence-only instructions differ. Score only when Jack or the task asks.
+1. **Review the [Perfect Product Scoring Guide — Assumptions and Interpretation](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) first.** Use guide v1.1 and its pinned rubric/definition commits for concept scoring, reasonable assumptions and confidence.
+2. Read the [Perfect Product Rubric](../framework/perfect-product-rubric.md) and [definition](../framework/perfect-product.md) for the ten criteria. Rubric v1.1 defines all score thresholds; guide v1.1 explains how to apply them. Score only when Jack or the task asks.
 3. Save each dated independent assessment in its own reviewer folder with a summary, CSV and individual sheets. Record the guide version, assessed product version, assumptions, reasons and confidence as required by the guide. Preserve earlier assessments; Grok's original [CSV](index.csv) and [sheets](sheets/) retain their existing paths.
-4. Use the [shared leaderboard](leaderboard.md) to compare assessments. Identify concept-fit assessments separately from earlier evidence assessments; follow the guide before reconciling or combining their scores.
+4. Use the [shared leaderboard](leaderboard.md) to compare assessments. Show each reviewer's concept-fit assessment separately. Combine only in a labelled reconciliation under the guide; never average U with numbers. Keep earlier evidence assessments separate.
 
 The guide is maintained in Notion. This ledger links to it rather than maintaining a second copy of the procedure. Existing scores and catalog statuses are unchanged.
 
@@ -17,7 +17,7 @@ The guide is maintained in Notion. This ledger links to it rather than maintaini
 
 | File | Role |
 | --- | --- |
-| [leaderboard.md](leaderboard.md) | Shared comparison across independent assessments; combined ranking method pending |
+| [leaderboard.md](leaderboard.md) | Shared comparison across independent assessments; individual results; combination only after labelled reconciliation |
 | [index.csv](index.csv) | Grok's original machine-readable scores for all 41 entries |
 | [sheets/](sheets/) | Grok's original evaluation sheets for catalog IDs 01–41 |
 

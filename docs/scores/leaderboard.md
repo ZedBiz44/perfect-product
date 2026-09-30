@@ -6,24 +6,15 @@ Updated: 2026-09-30 | Agent: Cody
 
 ## Current position
 
-Three independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). All 123 individual assessments remain incomplete; no individual /20 totals or combined ranks are available under the current rubric.
+Three independent assessments cover all 41 entries: [Grok](grok-2026-09-29/README.md), [Cody](cody-2026-09-30/README.md), and [Mary](mary-2026-09-30/README.md). All 123 original individual assessments remain incomplete under their original standards. They have not yet been reassessed under rubric/guide v1.1; the table preserves their historical coverage and disagreements.
 
 Grok's former leaderboard is preserved as his [independent assessment](grok-2026-09-29/README.md). The comparison below brings all three reviewers together without changing their scores. It follows the Notion catalog's group order; **No. is the display number, not a rank**. GitHub IDs remain stable for source and scoring links.
 
 Coverage shows how many bars that reviewer scored numerically. Differing bars include numeric disagreements and U-versus-number differences. All U bars have no numeric assessment from any reviewer. Any zero bars retain every reviewer's reported conflict; they are flags to examine, not a new consensus verdict. No idea's catalog status changes here.
 
-## Proposed method for a combined ranking
+## Combined ranking rule
 
-This is a recommendation for Jack's review, not an adopted change to the rubric.
-
-- Use the latest dated assessment from each reviewer for the same idea version and rubric version. Keep earlier assessments as history; multiple revisions by one reviewer must not count as additional votes.
-- Compare each bar across reviewers, including its reasons and sources. Give reviewers equal standing. Their agreement is not independent market evidence when they read the same sources.
-- Resolve differences in what qualifies as evidence before combining scores. In particular, decide consistently where a documented design supports a score and where working results are required.
-- Record one combined U/0/1/2 judgment per bar, with its reason and links to the independent assessments. Use U where unresolved evidence prevents a defensible score; keep disputed zeros visible until their reasons are addressed. Do not erase a failure by averaging it with passes.
-- Add a /20 total only when all ten combined judgments are numeric. Rank complete, conflict-free candidates within their existing groups by total, then number of passes; preserve ties. Show complete candidates with zeros in a conflicts section and incomplete candidates in an unranked comparison.
-- Keep archived and rejected entries visible with their status. A combined score does not revive them, select a business, or authorize testing.
-
-A simple average of existing partial scores would mix different evidence thresholds and different sets of assessed bars. For example, on Shovel's build-once bar, Grok and Mary assign 2 while Cody assigns 1. The useful next step is to resolve whether the documented format establishes the required margin, not merely report an average of 1.67.
+Show each reviewer's concept-fit results separately. Combine only after a labelled reconciliation under [Scoring Guide v1.1](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4); never average U with numbers. That maintained guide defines reconciliation and version matching. The current table contains the original assessments, not reconciled v1.1 scores.
 
 ## Bar key
 

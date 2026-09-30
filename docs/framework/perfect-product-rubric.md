@@ -1,44 +1,23 @@
 # Perfect Product Rubric
 
-> **Read first — September 30, 2026:** The [Perfect Product Scoring Guide — Assumptions and Interpretation](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) governs current concept scoring. The ten criteria below remain the reference; where older evidence-only instructions differ, follow the maintained guide in Notion.
+Rubric v1.1 · Released 2026-09-30 · Agent: Cody · Mode: Concept fit · Companion: Scoring Guide v1.1
 
-[Repository home](../../README.md) · [Perfect Product definition](perfect-product.md) · [Satisfaction shapes](satisfaction-shapes.md) · [Product catalog](../products/README.md) · [Decision guide](../current-direction.md)
+[Scoring guide and exact version pins](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4) · [Definition](perfect-product.md) · [Scores ledger](../scores/README.md) · [Catalog](../products/README.md)
 
-**Purpose:** Score any product idea against Jack's ten bars so every AI agent uses the same definitions, pass/fail criteria, and total rule. Do not invent new bars. Do not soft-pass a hard fail.
+## Purpose and ownership
 
-**Scoring scale (use everywhere):** **U = Unknown · 0 = Fail · 1 = Partial · 2 = Pass**
+Judge how well the described idea could meet the ten criteria, using available information, business logic and reasonable assumptions. The definitions are unchanged. This rubric is the maintained source for the criteria, score meanings and concept-fit total. The Notion scoring guide owns the procedure, assumptions, confidence reporting, interpretation examples and reconciliation rules; it does not maintain a second set of scoring thresholds.
 
-U means insufficient evidence. It is not a numeric score. Use 0 only for a documented conflict with a bar, 1 for an evidenced partial fit, and 2 for an evidenced fit. A named hypothesis alone is U. The criteria below describe fit; evidence determines whether that fit can be scored.
+This release replaces the earlier requirement for demonstrated offer-specific results before many numeric judgments. Earlier assessments remain historical records under their original standard. They are not automatically converted to v1.1.
 
----
+## Score meanings
 
-## How agents use this
+- **2 — Strong fit (Pass):** A credible, specific mechanism meets the criterion under reasonable assumptions.
+- **1 — Partial fit:** The mechanism meets part of the criterion with a meaningful limitation or trade-off.
+- **0 — Poor fit (Fail):** The described model conflicts with the criterion. Missing tests alone are not failure.
+- **U — Cannot judge:** A missing detail materially prevents a useful judgment. State the detail; do not invent an essential buyer, channel or task split to avoid U.
 
-1. Read [perfect-product.md](perfect-product.md). Score only when Jack or the task asks; exploration and cataloging do not require scores.
-2. Name the idea, buyer, price hypothesis, status, date, and sources.
-3. Record U / 0 / 1 / 2 for each bar, with evidence and its source. State what is missing for U and what limits a 1.
-4. Name a **primary satisfaction shape** and any supporting shapes. Explain the buyer's experience; multiple compatible shapes are allowed.
-5. Record assessed coverage (for example, 7/10). If any bar is U, leave the /20 total blank and mark the assessment incomplete. Do not rank incomplete assessments against complete ones.
-6. With all ten bars assessed, add the scores. Any 0 is a documented mismatch in the current form, regardless of total. Preserve salvageable ingredients; a rubric result does not delete an idea or change its catalog status automatically.
-7. **Eligible for commercial proof consideration:** all ten assessed, no zeros, at least seven 2s (therefore at least 17/20), and founder constraints still hold. This is not product approval or an instruction to start testing.
-8. Record the result in [templates/product-evaluation.md](../../templates/product-evaluation.md). Explore interesting ideas at any score. Run commercial proof only when requested.
-
----
-
-## How to total and interpret
-
-| Condition | Meaning |
-| --- | --- |
-| **Any U** | Incomplete. Show assessed coverage, not a /20 total. Any documented 0 remains visible. |
-| **Any 0** | Current form conflicts with a bar. Rework or retain useful ingredients; a high total cannot cancel the conflict. |
-| **All assessed, no zeros, 10–16/20** | Partial fit. Continue exploration or rework; below the proof consideration threshold. |
-| **All assessed, no zeros, 17–20/20** | At least seven Passes. Eligible for proof consideration if founder constraints hold and Jack asks to proceed. |
-
-**One rule:** seven Passes plus three Partials = 17/20. A total of 15 or 16 does not meet it. Even 20/20 is not approval to build or proof of willingness to pay.
-
-**Weighted scoring is optional notes only.** Keep the unweighted rule above. Call out limitations in bars 4 (runs without you), 8 (route to buyers), and 9 (easy value).
-
----
+An unbuilt or unsold product can be assessed. Documented design, business logic and labelled assumptions may support numeric scores. A label such as 'AI-powered' or 'subscription' alone does not establish fit. Confidence is recorded separately; low confidence does not automatically mean 1 or U. A concept score is not proof of demand or operating results.
 
 ## The ten bars
 
@@ -46,196 +25,123 @@ U means insufficient evidence. It is not a numeric score. Use 0 only for a docum
 
 **Definition:** Recurring revenue (subscription/SaaS), repeat/multiple purchases from the same buyer, or a market so large that one sale each still scales.
 
-**PASS (2):** Clear recurring or repeat mechanic named (e.g. weekly sub, seasonal rebuy, refill). Or mass one-time market with continuous fresh buyers.
+- **2 — Strong fit (Pass):** A specific recurring or repeat-payment mechanism has a credible reason for buyers to pay again; or a sufficiently broad continuing flow of one-time buyers is plausible.
+- **1 — Partial fit:** A plausible optional ladder, renewal or irregular repeat occasion exists, with limited recurrence.
+- **0 — Poor fit (Fail):** The described model has no credible second payment or continuing buyer flow.
+- **U — Cannot judge:** The payment model or reason for repeat demand is missing or contradictory.
 
-**PARTIAL (1):** One-time sale with a plausible ladder/renewal, but mechanic unproven or optional.
-
-**FAIL (0):** Single consulting engagement, one custom project, or no path to a second payment.
-
-**Example:** Laurel's $7/mo ad coaching — membership bills again every month.
-
----
+A subscription label is not a reason to renew. Actual renewals are not required for a concept judgment.
 
 ### 2. Build once, sell many
 
 **Definition:** Software, content, a platform, kit, or manufactured unit. The next sale keeps a worthwhile margin after reaching, serving, and supporting the customer, and does **not** require rebuilding the product.
 
-**PASS (2):** Reusable design or asset sold repeatedly through digital delivery or repeat manufacturing; worthwhile margin after acquisition, fulfillment, and support.
+- **2 — Strong fit (Pass):** Reusable delivery or repeat manufacturing has a credible path to worthwhile margin after acquisition, production, delivery and support under stated assumptions.
+- **1 — Partial fit:** Reuse is real, but customization, acquisition cost or support creates a meaningful margin or delivery limitation.
+- **0 — Poor fit (Fail):** Each sale depends on substantial new diagnosis, rebuilding or managed-service hours, or the described economics leave no credible worthwhile margin.
+- **U — Cannot judge:** The delivery model or material cost drivers are too unspecified to judge reuse and margin.
 
-**PARTIAL (1):** Mostly reusable but still needs light per-buyer customization that could creep.
-
-**FAIL (0):** Each sale is custom diagnosis, rebuild, or managed service hours.
-
-**Example:** Carex Hip Kit — a reusable kit design, manufactured repeatedly and distributed through shelves and therapists.
-
----
+Use explained cost drivers or labelled scenarios; do not fabricate precise margins. Digital copying is cheap, but acquisition and support may not be. Physical delivery costs alone are not failure.
 
 ### 3. Creates Gold
 
 **Definition:** Ownable, transferrable asset that someone would buy AND that gets more valuable as you operate it — subscribers, archive, brand, systems, customer list, IP, data, documented knowledge, relationships. You're not just building income; you're building something that appreciates and can be exited. (Bar 3 = what you own gets better / is buyable. Bar 10 = advantages created by greater SCALE.)
 
-**PASS (2):** Named transferable assets that survive without Jack's daily presence AND accumulate value with operation (list + catalog + systems + brand / dataset / install base / reputation loop).
+- **2 — Strong fit (Pass):** Operating the model plausibly builds named, ownable, transferable assets that accumulate value beyond Jack's personal presence.
+- **1 — Partial fit:** Assets would be limited, weakly accumulating or heavily dependent on Jack.
+- **0 — Poor fit (Fail):** The model retains little that another owner could acquire beyond personal billable work or non-transferable reputation.
+- **U — Cannot judge:** Ownership, what accumulates, or transferability is too unclear to judge.
 
-**PARTIAL (1):** Some assets exist but still heavily tied to Jack personally, OR assets exist but barely accumulate.
-
-**FAIL (0):** Pure billable hours / reputation with nothing a buyer could acquire and nothing retained.
-
-**U:** Insufficient evidence.
-
-**Example:** OnlineJobs.ph / PLR.me style — marketplace, profiles, catalog, and brand are ownable assets that appreciate with use, not John's calendar.
-
----
+Planned assets can count at the concept stage. Explain what makes them valuable and transferable. Asset appreciation belongs here; scale advantage belongs in bar 10.
 
 ### 4. Runs without you
 
 **Definition:** With systems in place, a trained manager or partner can run it. Depends on systems, not the founder's daily presence. Includes: **no community-host treadmill**.
 
-**PASS (2):** Ops documented; support batched; founder optional for exceptions; no daily comment-section duty.
+- **2 — Strong fit (Pass):** A realistic operating model can be run by trained people and systems, with Jack handling occasional exceptions.
+- **1 — Partial fit:** Core work still needs Jack regularly, but a credible path to reducing that dependence exists.
+- **0 — Poor fit (Fail):** Value requires Jack's continuous personal delivery, daily hosting or performance; it cannot reasonably transfer.
+- **U — Cannot judge:** The founder's role or operating responsibilities are missing and materially affect the judgment.
 
-**PARTIAL (1):** Could systemize, but today still needs Jack weekly for core delivery or hosting.
-
-**FAIL (0):** Product dies if Jack goes quiet; or requires daily charm / hosting.
-
-**Example:** Zoom — cloud platform + team; founder not in every meeting.
-
----
+Assess a practical steady operating state after reasonable setup. Saying 'hire a manager' is insufficient without explaining what can transfer.
 
 ### 5. Satisfaction shape (primary plus supporting shapes)
 
 **Definition:** The buyer experiences a clear satisfaction shape. Cold beer is only one shape. Full write-up: [satisfaction-shapes.md](satisfaction-shapes.md).
 
-**PASS (2):** Primary shape named; the buyer experience supports it. Supporting shapes may strengthen the same promise.
+- **2 — Strong fit (Pass):** The described buyer experience credibly delivers a named primary satisfaction shape; supporting shapes reinforce it.
+- **1 — Partial fit:** The experience partly delivers the promise but is inconsistent, has competing promises or creates delay beyond reasonable buyer expectations.
+- **0 — Poor fit (Fail):** The described experience is unlikely to deliver its promised satisfaction, such as material that accumulates without useful consumption.
+- **U — Cannot judge:** The promised experience or how the buyer experiences the result is too unclear to judge.
 
-**PARTIAL (1):** Evidence shows some satisfaction, but the experience is inconsistent or supporting promises compete.
-
-**FAIL (0):** Evidence shows the offer creates no promised satisfaction, such as accumulation without useful consumption. An untested experience is U.
-
-#### Satisfaction shapes checklist (mark primary and any supporting shapes)
-
-- [ ] **Six Pack of Beer Desire** — instant thirst; rebuy within the week.
-- [ ] **Coat of paint** — transformational reveal; buy again when a fresh surface appears.
-- [ ] **Event Excitement** — anticipation → peak night → afterglow.
-- [ ] **Harvest Gala** — seasonal pile of countable results.
-- [ ] **Tool in the hand** — competence on first use.
-- [ ] **Trophy** — displayable status / scored proof.
-- [ ] **Belonging without hosting** — peer energy; product is the OS; someone else runs the room.
-
-**Example:** Stream Deck = Tool in the hand — capable on first press.
-
----
+Use the seven satisfaction shapes in the definition. An untested experience is assessable from its design. Expected waiting for an event or seasonal harvest is not a penalty.
 
 ### 6. No Brainer
 
 **Definition:** The buyer immediately understands the value, already spends money or suffers measurable pain around the problem, and the price feels small relative to the payoff. The first yes should not require a long explanation or sales call.
 
-**PASS (2):** Named buyer already pays for this or a painful workaround; price is cheap vs. the cost of the problem; trigger is clear.
+- **2 — Strong fit (Pass):** A specific buyer, recognizable pain or existing spending, buying trigger and plausible price-to-benefit relationship make a purchase easy to understand.
+- **1 — Partial fit:** Value is plausible, but explaining it, creating urgency or justifying the price is a meaningful hurdle.
+- **0 — Poor fit (Fail):** The described offer lacks credible practical buying value or a trigger, or the price fundamentally clashes with the expected benefit.
+- **U — Cannot judge:** The buyer/payer, buying problem or price/value model is missing or contradictory; do not invent a new buyer to produce a score.
 
-**PARTIAL (1):** Evidence supports the need, but the offer has a known price or explanation barrier. Missing buyer or price evidence is U.
-
-**FAIL (0):** Vitamin with no budget line, no trigger, or price requires a sales call to justify.
-
-**Example:** Hip Kit ~$54–65 at hospital discharge — obvious vs. struggle without it.
-
----
+This bar asks why this buyer says yes. Bar 8 asks how the seller reaches that buyer. 'Skool owners exist' proves neither. State demand and pricing assumptions without presenting them as purchases.
 
 ### 7. C3PO (AI does the work)
 
 **Definition:** The product's core production, delivery, or support is done by AI systems, not by scaling human headcount. People stay for verification, judgment, and exceptions — not for every unit shipped. Growth does not mean "hire ten more."
 
-**PASS (2):** Named work that used to need humans is AI-produced or AI-delivered at the unit level; humans review/exception only; next 10× volume doesn't require 10× staff.
+- **2 — Strong fit (Pass):** Named AI tasks plausibly perform the core unit of production, delivery or support, with proportionate human verification and exceptions; customer growth does not require matching growth in routine human fulfillment.
+- **1 — Partial fit:** AI performs meaningful work, but substantial routine human fulfillment remains per customer or delivered unit.
+- **0 — Poor fit (Fail):** AI is incidental while core fulfillment scales mainly through human labor.
+- **U — Cannot judge:** The description and supporting sources do not establish a usable AI/human task split; naming AI alone is insufficient.
 
-**PARTIAL (1):** AI does a real piece, but core fulfillment still needs proportional human hours.
-
-**FAIL (0):** Scaling means hiring; AI is decorative (chatbot on a people-factory).
-
-**U:** No evidence yet of which work AI owns vs humans.
-
-**Example:** A content or support product where AI produces each unit and humans only handle exceptions — next 10× volume does not mean 10× headcount.
-
----
+Score the unit of work: per customer, per delivered unit or per shared asset. A weekly pack drafted once by AI for many owners can earn 2. A report needing roughly 80% human judgment for each buyer cannot earn 2 under that assumption; it earns at most 1 if AI's contribution is meaningful, otherwise 0. Naming AI in a pitch earns no automatic points.
 
 ### 8. Natural route to buyers
 
 **Definition:** People who want it find it through a repeatable channel that does **not** depend on constant personal selling — supplier, retailer, search, existing audience, partner, or customers introducing customers.
 
-**PASS (2):** Named channel owner or built-in distribution; repeatable access without Jack performing daily.
+- **2 — Strong fit (Pass):** A specific, credible channel can repeatedly reach the payer with limited ongoing personal selling by Jack; access requirements and channel-owner incentives are plausible.
+- **1 — Partial fit:** A specific route is plausible, but access, incentives, reach or founder effort poses a meaningful hurdle.
+- **0 — Poor fit (Fail):** The model's only credible path is continuing personal cold-selling or constant founder performance.
+- **U — Cannot judge:** The description and supporting sources name no workable acquisition channel; the existence of a buyer category is insufficient.
 
-**PARTIAL (1):** Some repeatable channel access exists, but its reach or founder independence is limited. A proposed audience alone is U.
-
-**FAIL (0):** Requires Jack to cold-outbound forever or build a personal audience from zero as the only path.
-
-**Example:** Carex kit rides surgeons, OTs, and pharmacy shelves — product carries acquisition.
-
----
+A named buyer's downstream audience is not automatically ZedBiz's acquisition channel. A proposed channel can be judged before access is secured, but access cannot be assumed away.
 
 ### 9. Easy to get the value
 
 **Definition:** Buyer reaches the promised satisfaction without an unexpected second project, extensive learning, or hand-holding. Effort should be clear and part of the expected experience. Buying should make life easier, not create another unfinished job.
 
-**PASS (2):** Clear path to the promised outcome; effort, prerequisites, and timing fit the satisfaction shape. An event or seasonal harvest may take weeks or months.
+- **2 — Strong fit (Pass):** The described journey gives the intended buyer a clear, manageable path to the promised result; effort, prerequisites and timing suit that result.
+- **1 — Partial fit:** Setup, editing, learning or coordination creates meaningful friction for the intended buyer.
+- **0 — Poor fit (Fail):** Unexpected work or dependence on hand-holding makes the promised result impractical under the described model.
+- **U — Cannot judge:** Steps, prerequisites or the result are too unclear to judge buyer effort.
 
-**PARTIAL (1):** Usable by capable buyers but install/setup still friction-heavy.
-
-**FAIL (0):** Evidence shows unexpected work or dependence on hand-holding prevents the promised outcome.
-
-**Example:** A coat-of-paint offer delivers value when the buyer sees the finished transformation. Getting a checklist is delivery; using it to reach the promised result is value.
-
----
+Downloading material is delivery, not necessarily value. Reason through actual use; observed customer results are not a prerequisite for concept scoring.
 
 ### 10. Newton's Rule
 
 **Definition:** Increase mass → increase gravity → stronger as it grows. More customers, content, data, or partners make the next sale or next year easier, not harder. Scale advantages: purchasing power, reusable production, shared distribution, lower unit costs, network/data effects. This is NOT the same as bar 3's asset appreciation (bar 3 = what you own gets better / is buyable; bar 10 = gravity from greater scale).
 
-**PASS (2):** Evidence of a scale advantage: purchasing power, reusable production, shared distribution, lower unit costs, or network/data effects make the next sale easier or more valuable.
+- **2 — Strong fit (Pass):** A specific mechanism credibly improves unit economics, distribution or customer value as scale grows.
+- **1 — Partial fit:** A credible scale benefit is limited or partly offset by coordination and operating burden.
+- **0 — Poor fit (Fail):** Growth predictably worsens economics or operating burden without an offsetting advantage.
+- **U — Cannot judge:** The model is too unspecified to judge whether scale helps or hurts.
 
-**PARTIAL (1):** Some evidenced scale benefit, but limited in size or offset by coordination costs.
+Shared production costs, pooled purchasing, shared distribution and network/data effects can be judged logically before launch. Merely listing accumulating assets belongs in bar 3.
 
-**FAIL (0):** Evidence shows growth worsens unit economics or operating burden without an offsetting scale advantage. Linear manufacturing or shipping cost alone is not failure.
+## Concept-fit totals
 
-**U:** Insufficient evidence of whether scale helps or hurts.
+- All ten numeric: sum the scores for a **concept-fit total /20**. The ten bars have equal weight.
+- Any U: leave the total blank and show coverage; do not convert U to zero or exclude it from an average presented as a total.
+- Any zero: display the conflict beside the total. A high total does not cancel it.
+- All ten assessed, no zeros, at least seven 2s and at least 17/20, with founder constraints holding: **shortlist signal**, not proof or launch approval.
+- Seven strong fits plus three partial fits equal 17/20. Scores below that may still warrant exploration.
+- Research can clarify assumptions at any score when requested. A complete score is not a prerequisite for gathering information. A score alone does not authorize outreach, tests, building or spending.
 
-**Example:** Zoom — every meeting invite recruits new users; density increases gravity.
+## Version and source notes
 
----
+Use the exact rubric and definition commit links pinned in Scoring Guide v1.1 for a comparable assessment. Stable GitHub catalog IDs identify ideas; Notion display order is not an identifier. The versioned procedure and record format live in the [scoring guide](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4).
 
-## Quick scoring worksheet
-
-Copy into notes or [templates/product-evaluation.md](../../templates/product-evaluation.md):
-
-```
-Idea:
-Buyer:
-Primary shape (bar 5):
-Supporting shapes:
-Date / sources:
-Use U or 0/1/2 per bar; U is not zero.
-
-1 Pays more than once:     _ / 2 — evidence:
-2 Build once, sell many:   _ / 2 — evidence:
-3 Creates Gold:            _ / 2 — evidence:
-4 Runs without you:        _ / 2 — evidence:
-5 Satisfaction shape:      _ / 2 — evidence:
-6 No Brainer:              _ / 2 — evidence:
-7 C3PO (AI does the work): _ / 2 — evidence:
-8 Natural route to buyers: _ / 2 — evidence:
-9 Easy to get the value:   _ / 2 — evidence:
-10 Newton's Rule:          _ / 2 — evidence:
-
-ASSESSED: _ / 10
-UNKNOWN BARS / missing evidence:
-TOTAL: _ / 20 (leave blank if any U)
-DOCUMENTED ZEROS / conflicts:
-PASSES: _ / 10
-Eligible for proof consideration? All assessed, no zeros, >=7 Passes (>=17/20), founder fit.
-Verdict / reasoning:
-Next exploration question:
-Any proof work requires a separate request.
-```
-
-## Related
-
-- [Perfect Product definition](perfect-product.md)
-- [Satisfaction shapes](satisfaction-shapes.md)
-- [Definition feedback](definition-feedback.md)
-- [Product catalog](../products/README.md)
-- [Ingredient register](../ingredients.md)
+The Notion rubric page is a reference link to this maintained rubric, not an independently edited copy. Previous rubric text remains available in Git history. Existing independent assessments retain their original scores and sources.
