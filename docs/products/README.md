@@ -49,5 +49,8 @@
 | 36 | [Recurring Customer-Value Kits (weekly OS)](entries/36-recurring-customer-value-kits-weekly-os.md) | mashup | Six Pack |
 | 37 | [Product Ingredient Company (B2B2C layer)](entries/37-product-ingredient-company-b2b2c-layer.md) | mashup | — (structural) |
 | 38 | [Micro-brand factory](entries/38-micro-brand-factory-acreageready-exitready-etc.md) | mashup | varies |
+| 39 | [Collective Purchasing Engine](entries/39-collective-purchasing-engine.md) | exploration | Tool in the hand / Harvest Gala |
+| 40 | [Benefits Factory](entries/40-benefits-factory.md) | exploration | Tool in the hand |
+| 41 | [Micro-product Holding Company](entries/41-micro-product-holding-company.md) | exploration | varies by acquired product |
 
-**Entry count: 38.** Harvested from shovel, hopper, perspectives, satisfaction-shapes examples, archive productized variants, exploration-gaps format hypotheses, ingredients.md, and explicit mashups. No invented businesses beyond combining stated ideas.
+**Entry count: 41.** Harvested from shovel, hopper, perspectives, satisfaction-shapes examples, archive productized variants, exploration-gaps format hypotheses, ingredients.md, and explicit mashups. No invented businesses beyond combining stated ideas.
