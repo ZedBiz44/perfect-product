@@ -33,9 +33,9 @@ Independent re-score of all 41 Perfect Product catalog entries under the new con
 | 02 | Shovel themed-day engagement kit | 1m 2m 1m 2m 1m 1m 2m 2m 2m 1m | 15 | 5 | 0 | |
 | 03 | Shovel member-action unit | 1m 2m 2m 2m 2m 2m 2m 1l 2m 1m | 17 | 7 | 0 | SHORTLIST |
 | 04 | Door Opener | 1m 2m 1m 2m 1m 1m 2m 1l 2m 1m | 14 | 4 | 0 | |
-| 05 | Think and Grow Rich (benchmark report) | 1m 2m 2m 1m 1m 1m 1m 1m 1m 1m | 12 | 2 | 0 | |
+| 05 | Think and Grow Rich (benchmark report) | 1m 1m 2m 1m 1m 1m 1m 1m 1m 1m | 11 | 1 | 0 | |
 | 06 | Mary's one-job shelf | 1m 2m 2m 2m 2m 2m 2m 1l 2m 2m | 18 | 8 | 0 | SHORTLIST |
-| 07 | Sponsor layer on weekly item | 1m 2m 1m 1m 1m 1m 1m 1l 1m 2m | 12 | 2 | 0 | |
+| 07 | Sponsor layer on weekly item | 1m 1m 1m 1m 1m 1m 1m 1l 1m 2m | 11 | 1 | 0 | |
 | 08 | Save Kit | 1m 2m 2m 2m 1m 1m 1m 1l 1m 2m | 14 | 4 | 0 | |
 | 09 | Cash This Week | 1m 2m 1m 2m 1m 1m 2m 1l 2m 1m | 14 | 4 | 0 | |
 | 10 | Weekly retention drop / seasonal agency campaigns | 1m 2m 1m 2m 1m 1m 2m 1m 1m 1m | 13 | 3 | 0 | |
@@ -48,7 +48,7 @@ Independent re-score of all 41 Perfect Product catalog entries under the new con
 | 17 | Product factory / contributor syndicate | 0h Um 1m 1m Um Um Um Um Um 1m | -- | 0 | 1 | |
 | 18 | Community Without the Host | 2m 2m 1m 0h 1m Um 1m 1m 1m 1m | -- | 2 | 1 | |
 | 19 | Gemini A: AI mentors in community | 2m 2m 1m 2m 1m 1m 2m 1l 1m 1m | 14 | 4 | 0 | |
-| 20 | Gemini B: Shovel-Proof Gate funnel | 1m 2m 1m 0h 1m Um 2m Um 1m 1m | -- | 2 | 1 | |
+| 20 | Gemini B: Shovel-Proof Gate funnel | 1m 1m 1m 0h 1m Um 2m Um 1m 1m | -- | 1 | 1 | |
 | 21 | Gemini C: Board of Directors report | 1m 2m 1m 2m 1m 1m 2m 1l 1m 1m | 13 | 3 | 0 | |
 | 22 | New Coat local-business refresh kits | 1m 2m 1m 2m 2m 1m 2m 1l 1m 1m | 14 | 4 | 0 | |
 | 23 | Member Night in a Box | 1m 2m 1m 2m 2m 1m 2m 1l 1m 1m | 14 | 4 | 0 | |
@@ -61,7 +61,7 @@ Independent re-score of all 41 Perfect Product catalog entries under the new con
 | 30 | Client Retention Engine | 2m 1m 1m 0h 1m 0h 0h 1l 1m 1m | 8 | 1 | 3 | |
 | 31 | Award-Submission Factory | 1m 2m 1m 1m 1m 0h 1m 1l 1m 1m | 10 | 1 | 1 | |
 | 32 | Wholesale Shelf (generic kits) | 2m 2m 1m 2m Um 0h 2m 1l 1m 1m | -- | 4 | 1 | |
-| 33 | Shovel + Think and Grow Rich stickiness | 1m 2m 2m 2m 1m 1m 1m 2m 2m 1m | 15 | 5 | 0 | |
+| 33 | Shovel + Think and Grow Rich stickiness | 1m 1m 2m 2m 1m 1m 1m 2m 2m 1m | 14 | 4 | 0 | |
 | 34 | Shovel + Sponsor layer | 1m 2m 1m 1m 1m 1m 1m 1l 1m 2m | 12 | 2 | 0 | |
 | 35 | Door Opener + niche evidence pack | 1m 2m 1m 2m 1m 1m 2m 1l 2m 1m | 14 | 4 | 0 | |
 | 36 | Recurring Customer-Value Kits (weekly OS) | 2m 2m 2m 2m 2m 1m 2m 1m 1m 1m | 16 | 6 | 0 | |
