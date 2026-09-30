@@ -18,23 +18,27 @@
 
 ## Working concept for assessment
 
-Version: WC1 · 2026-09-30 · Cody · Proposed assumptions for scoring, authorized by Jack; not a launch decision.
+Version: WC1.1 · 2026-09-30 · Cody · Revised from Jack’s direct clarification. Status remains exploration.
 
-**Working scenario:** Illustrative first category: recurring print/signage purchasing for small businesses aggregated through chambers. Supplier pays a proposed referral commission; exact terms and savings are unresolved.
+**Jack’s clarification (recorded):** Jack specified Vendasta as the model. ZedBiz can earn supplier commissions, membership/licence fees and shared savings. Participating businesses get lower costs than they can obtain alone, a wider product shelf, easier delivery and stronger protection of their client relationships.
 
-**Primary satisfaction shape:** Harvest Gala. This is the working interpretation for this scenario; the original Shape field above is retained.
+**Working scenario (assumptions):** A wholesale and white-label product shelf for agencies and other client-owning businesses, with suppliers and end SMB customers as distinct parties. Use Vendasta as a business-model reference, not a decision to buy its platform. Membership/licence fees, resale margins or commissions and shared savings may coexist where disclosed terms make sense; do not assume every transaction supports every revenue stream.
 
-All bullets below are working assumptions or inferences, not observed operating results. The original description and status above remain the recorded history. [Context and assumption basis](../assessment-context.md).
+**Primary satisfaction shape:** Tool in the hand; supporting Harvest Gala from savings.
 
-- **Repeat payment:** Businesses repeatedly order print and signage, creating recurring transaction opportunities without requiring a subscription fee from every member.
-- **Reusable production and costs:** An ordering/referral process is reusable, but supplier recruitment, quote exceptions and channel revenue shares can absorb commission margin.
-- **What accumulates and transfers:** Permissioned demand records, assignable supplier agreements and channel relationships can accumulate as assets if the negotiated contracts permit transfer.
-- **Operator and Jack’s role:** An operator manages orders and reconciliation; Jack may negotiate anchor suppliers initially, assumed 2–4 hours/week until purchasing management transfers.
-- **Satisfaction and success signal:** A member receives a usable quote or order at a better net price; recorded savings over the same specification create a concrete harvest signal.
-- **Buying trigger, price and alternatives:** The payer model is specified, but no supplier commission, comparable landed price or channel share is established. Their relationship determines whether both sides benefit.
-- **AI and human work per unit:** AI classifies demand, compares like-for-like quotes and drafts communications; people negotiate terms and resolve supplier/order exceptions.
-- **Route to the payer:** Chambers can offer savings to improve membership value and may share commissions; an operator recruits chambers and suppliers. No signed access is assumed.
-- **Purchase-to-value journey:** Member requests a standard specification, compares the group quote, orders with supplier and checks delivery. Quote exceptions and fulfilment remain dependencies.
-- **Advantage from greater scale:** Aggregated repeat volume can improve purchasing terms and supplier economics; the concept's advantage depends on real comparable demand, not list size alone.
+The following operating details and scores are concept inferences, not observed customer results or agreed commercial terms. [Assumption context](../assessment-context.md).
 
-**Unresolved decision:** The payer model is specified, but no supplier commission, comparable landed price or channel share is established. Their relationship determines whether both sides benefit.
+- **Repeat payment:** Recurring products, platform/membership access and repeated purchases across a broader shelf create multiple repeat-payment mechanisms.
+- **Reusable production and costs:** Reuse one catalog, ordering and account layer; supplier costs, integrations, fulfilment exceptions and reseller support still limit margins.
+- **What accumulates and transfers:** Owned catalog integration, customer and channel relationships, assignable supplier agreements and permissioned demand records can accumulate and transfer.
+- **Operator and Jack’s role:** An operator runs the shelf and supplier support; Jack may still recruit or negotiate anchor suppliers. Founder independence remains partial until those relationships transfer.
+- **Satisfaction and success signal:** A participating business adds and delivers an offer under its relationship with the client; successful delivery and a comparable cost saving provide tangible value.
+- **Buying trigger, price and alternatives:** Jack has named four specific buying benefits: lower sourcing cost, broader shelf, easier delivery and a stronger client relationship. Assume fees leave meaningful net value versus separate suppliers; this supports strong conceptual fit with low pricing confidence, not a verified saving.
+- **AI and human work per unit:** AI handles catalog mapping, product guidance, content adaptation and routine support triage; humans handle supplier selection, commercial terms and delivery exceptions. Reselling third-party work alone is not AI core fulfilment.
+- **Route to the payer:** Agency educators, supplier partner networks and associations can introduce the shelf for reseller margin and client-retention value; operator-led recruitment and partner acceptance remain hurdles.
+- **Purchase-to-value journey:** Join or obtain access, choose and brand an offer, activate/order, deliver and support the client. A common interface helps but onboarding and supplier-specific steps remain.
+- **Advantage from greater scale:** More aggregate purchasing can improve supplier terms; more participating businesses spread catalog/integration cost and make the shelf more useful. Stronger client retention is a proposed benefit, not a proven moat.
+
+**Commercial details still to settle:** Specify the initial shelf, supplier terms, fee mix and support responsibilities before commercial use. At concept stage these are conditional economics rather than a reason to leave the now-defined buying benefit unscored.
+
+**Reference model checked:** Vendasta documents wholesale products that resellers sell to SMB clients, alongside branded stores and bundled offers. This supports the model analogy; it does not prove ZedBiz savings or a partnership. Sources checked 2026-09-30: [Marketplace overview](https://support.vendasta.com/marketplace/) and [Vendor Center](https://support.vendasta.com/vendor-center/). Commissions, fees and shared savings are Jack’s ZedBiz options, not a claim that Vendasta uses every one.

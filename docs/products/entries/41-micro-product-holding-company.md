@@ -18,23 +18,31 @@
 
 ## Working concept for assessment
 
-Version: WC1 · 2026-09-30 · Cody · Proposed assumptions for scoring, authorized by Jack; not a launch decision.
+Version: WC1.1 · 2026-09-30 · Cody · Revised from Jack’s direct clarification. Status remains exploration.
 
-**Working scenario:** Illustrative acquisition target: an existing small review-request tool sold to local businesses at $99/year. No target or purchase terms are selected; this is a scenario for the holding model.
+**Jack’s clarification (recorded):** Jack said the holding company could start with IM (internet-marketing) products and expand to unique marketing items: an event-planner template product, someone speaking to chambers, or a one-off WordPress plugin.
 
-**Primary satisfaction shape:** Tool in the hand. This is the working interpretation for this scenario; the original Shape field above is retained.
+**Working scenario (assumptions):** Acquire or revenue-share with an existing small internet-marketing product, then consider adjacent distinctive marketing assets. For one comparable score, use an existing event-planner template product sold to event planners as the first illustrative deal. Keep chamber speaking and WordPress plugins as separate candidate types with different labour and maintenance needs. No target, purchase price, retail price or contract is selected.
 
-All bullets below are working assumptions or inferences, not observed operating results. The original description and status above remain the recorded history. [Context and assumption basis](../assessment-context.md).
+**Primary satisfaction shape:** Tool in the hand for the assessed template product; Event Excitement may apply to chamber speaking.
 
-- **Repeat payment:** An annual tool licence can renew for continued operation and updates if the acquired product already provides useful ongoing service.
-- **Reusable production and costs:** Acquisition cost, revenue share, actual support load and maintenance obligations are missing; these materially determine whether the holding model has worthwhile margins.
-- **What accumulates and transfers:** A purchase including transferable code, brand, customer contracts and documentation creates an owned asset; a restrictive revenue-share deal would score lower.
-- **Operator and Jack’s role:** A product operator could run the tool, but Jack remains involved in target selection, diligence and integration, assumed 2–4 hours/week per active acquisition.
-- **Satisfaction and success signal:** In the example, a business sends a working review request; usefulness must be checked in the actual target rather than inferred from 'existing customers'.
-- **Buying trigger, price and alternatives:** A local business with sparse reviews has a plausible reason to pay $99/year, but free links and native tools compete and target-specific value remains unverified.
-- **AI and human work per unit:** AI can generate requests and support answers, while people maintain the tool and handle exceptions; the actual acquired technology may be less automated.
-- **Route to the payer:** Retain a transferable customer base and add website-provider referrals for a share; access and permission depend on the acquisition agreement.
-- **Purchase-to-value journey:** For the assumed tool: subscribe, connect business details, generate and test a request, then use it. Actual target setup could lower this score.
-- **Advantage from greater scale:** Shared support and cross-selling may improve economics, but unrelated products, codebases and integrations can consume the expected savings.
+The following operating details and scores are concept inferences, not observed customer results or agreed commercial terms. [Assumption context](../assessment-context.md).
 
-**Unresolved decision:** Acquisition cost, revenue share, actual support load and maintenance obligations are missing; these materially determine whether the holding model has worthwhile margins.
+- **Repeat payment:** A template buyer may purchase new editions, adjacent event formats or a broader licence; a one-off download has limited inherent recurrence. Do not assume every acquired IM product is a subscription.
+- **Reusable production and costs:** A finished template can be licensed repeatedly with bounded support. Assume purchase or revenue-share terms are screened against conservative net receipts after support, updates and distribution; deal selection and ongoing costs limit fit rather than proving any target profitable.
+- **What accumulates and transfers:** Transferable template/IP rights, product brand, customer contracts and documentation create acquired assets. A revenue-share deal without control or transferable rights would be weaker.
+- **Operator and Jack’s role:** An operator handles sales and product support, but Jack still selects targets and resolves acquisition/integration decisions. A business dependent on its original speaker may not transfer at all.
+- **Satisfaction and success signal:** An event planner uses the template to produce a usable plan or client deliverable; completion of that job is the first-use success signal for this scenario.
+- **Buying trigger, price and alternatives:** An upcoming event-planning job is a clear trigger, but price and differentiation from free templates are unchosen. Conditional buying value is plausible with meaningful limitations.
+- **AI and human work per unit:** AI can adapt templates from structured inputs, draft updates and handle routine support; humans maintain quality and resolve exceptions. A static download or ordinary plugin is not automatically AI-driven.
+- **Route to the payer:** Preserve a transferable customer list and relevant seller partnerships; add event-industry educators or marketplaces for referral/retail margin. Audience-transfer rights and distribution access must be checked.
+- **Purchase-to-value journey:** For the template example: buy, download, fill in event details, check and use the plan. This bounded journey does not represent plugin installation or booking a live speaker.
+- **Advantage from greater scale:** Shared marketing, checkout and support can help a small related portfolio; different niches, codebases and human delivery can offset those economies.
+
+**Commercial details still to settle:** Check actual target rights, customer access, seller dependence, deal economics and support. Template, speaking and plugin businesses need separate target-level scores before acquisition; no generic portfolio score establishes a good deal.
+
+## Candidate types within the holding model
+
+- **IM products and event-planner templates:** reusable IP with update, rights and distribution requirements; the template lane is scored here.
+- **Chamber-speaking business:** personal appearances are human delivery. If revenue depends on the original speaker, founder independence, transferability and reuse weaken; purchasing a name does not purchase the person’s continuing performance. A licensable talk or speaker network would be a separately defined model.
+- **One-off WordPress plugin:** software can be resold, but compatibility, security fixes, support and developer rights persist. A plugin is not AI core work merely because AI helped write it.

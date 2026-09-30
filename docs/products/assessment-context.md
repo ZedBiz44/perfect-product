@@ -23,13 +23,13 @@ Jack authorized Cody to expand all 41 entries using their work together and rela
 - Structures get an explicitly illustrative first product and payer. Their scores evaluate that application and the structure's additional costs; they cannot be read as a score for every future portfolio product. Product 35 remains an internal cost centre, not a fabricated factory subscription.
 - Working examples leave exploration open. Selecting a dental pack, review-request kit, chamber or regional brokerage for an assessment does not make it Jack's chosen market. Alternatives may produce different scores and require a separately labelled scenario.
 
-## Remaining material gaps
+## Jack’s clarification — WC1.1 for entries 39–41
 
-- Collective Purchasing Engine: commission, comparable landed prices and channel shares must support value for supplier and member simultaneously.
-- Benefits Factory: specific licensed benefits, usable savings and availability are needed to judge why a chamber pays the proposed licence fee.
-- Micro-product Holding Company: acquisition/revenue-share terms and actual maintenance/support obligations determine margins.
+Jack’s September 30 clarification supersedes Cody’s illustrative print/signage buying club, discount-benefits package and review-request-tool acquisition. Entry 39 now uses a Vendasta-style wholesale/white-label shelf; entry 40 starts with customized communication and optional swag/event packages; entry 41 starts with IM products and considers distinctive templates, chamber-speaking businesses and WordPress plugins.
 
-These are retained as U in Cody's new assessment rather than filled with invented commercial terms. Other uncertainties are expressed through partial scores, confidence and stated assumptions.
+These details support conditional concept scores for the three former U cells. Contract terms, pricing, customization scope and acquisition economics remain decisions for later work. The new scores do not assert those terms exist. In particular, the holding-company score uses the reusable template lane; it does not award that score automatically to personal speaking or a maintenance-heavy plugin.
+
+Entries 01–38 retain WC1. Entries 39–41 use WC1.1 and separately identify Jack’s recorded clarification and Cody’s operating assumptions.
 
 ## Assessment provenance
 
