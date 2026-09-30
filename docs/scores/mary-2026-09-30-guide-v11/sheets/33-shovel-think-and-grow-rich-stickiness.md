@@ -32,7 +32,7 @@
 | Bar | Score | Confidence | Reason | Basis | Main limitation |
 | --- | --- | --- | --- | --- | --- |
 | B1 Pays more than once | 1 | M | Base subscription plus an optional report upsell; the layer's own recurrence is secondary to Shovel's. | inference | Secondary recurrence. |
-| B2 Build once, sell many | 2 | M | Marginal production cost of the report on top of the weekly pipeline; digital. Reuse real, but the report's data work is a meaningful cost. | assumption | Report data cost. |
+| B2 Build once, sell many | 1 | M | Marginal production cost of the report on top of the weekly pipeline; digital. Reuse real, but the report's data work is a meaningful cost. | assumption | Report data cost. |
 | B3 Creates Gold | 2 | M | Same accumulating assets as Shovel plus the outcome dataset -- named, ownable, appreciating, transferable. | inference | Dataset unbuilt. |
 | B4 Runs without you | 2 | M | Same systematized pipeline as Shovel; report production added; Jack curates at asset level. | inference | Pipeline unbuilt. |
 | B5 Satisfaction shape | 1 | M | The Six-Pack beer is the weekly unit's; the Trophy-data layer is auxiliary retention -- partly delivered. | inference | Auxiliary by design. |
@@ -43,10 +43,11 @@
 | B10 Newton's Rule | 1 | M | Rides Shovel's scale; the dataset grows with the base, but no distinct scale mechanism. | assumption | Rides host scale. |
 
 ## Coverage, total, zeros
-- Coverage: 10/10 bars assessed | Concept-fit total: 15/20 concept fit | Twos: 5 | Zeros: 0
+- Coverage: 10/10 bars assessed | Concept-fit total: 14/20 concept fit | Twos: 4 | Zeros: 0
 - Every zero: none
 
 ## Sensitivities
+- B2 (Build once, sell many): scored 1 on assumption with M confidence -- Report data cost.
 - B6 (No Brainer): scored 1 on assumption with M confidence -- Dataset unproven.
 - B7 (C3PO (AI does the work)): scored 1 on assumption with M confidence -- Data-sourcing burden.
 - B10 (Newton's Rule): scored 1 on assumption with M confidence -- Rides host scale.
