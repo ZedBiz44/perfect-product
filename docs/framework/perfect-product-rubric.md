@@ -68,17 +68,19 @@ U means insufficient evidence. It is not a numeric score. Use 0 only for a docum
 
 ---
 
-### 3. Sellable asset
+### 3. Creates Gold
 
-**Definition:** Subscribers, archive, brand, systems, customer list, IP, or data that a business buyer would pay for. You're building something you can exit, not only income.
+**Definition:** Ownable, transferrable asset that someone would buy AND that gets more valuable as you operate it — subscribers, archive, brand, systems, customer list, IP, data, documented knowledge, relationships. You're not just building income; you're building something that appreciates and can be exited. (Bar 3 = what you own gets better / is buyable. Bar 10 = advantages created by greater SCALE.)
 
-**PASS (2):** Named transferable assets (list + catalog + systems + brand) that survive without Jack's daily presence.
+**PASS (2):** Named transferable assets that survive without Jack's daily presence AND accumulate value with operation (list + catalog + systems + brand / dataset / install base / reputation loop).
 
-**PARTIAL (1):** Some assets exist but value is still tied to Jack personally (personal brand, founder Q&A as the product).
+**PARTIAL (1):** Some assets exist but still heavily tied to Jack personally, OR assets exist but barely accumulate.
 
-**FAIL (0):** Pure billable hours / reputation with nothing a buyer could acquire.
+**FAIL (0):** Pure billable hours / reputation with nothing a buyer could acquire and nothing retained.
 
-**Example:** OnlineJobs.ph — marketplace, profiles, and brand are the asset, not John's calendar.
+**U:** Insufficient evidence.
+
+**Example:** OnlineJobs.ph / PLR.me style — marketplace, profiles, catalog, and brand are ownable assets that appreciate with use, not John's calendar.
 
 ---
 
@@ -134,17 +136,19 @@ U means insufficient evidence. It is not a numeric score. Use 0 only for a docum
 
 ---
 
-### 7. Creates Gold
+### 7. C3PO (AI does the work)
 
-**Definition:** Each year of operation strengthens an asset: reputation, relationships, knowledge, distribution, catalog, or systems. Progress accumulates instead of being constantly replaced. (Bar 3 = can someone buy the business; bar 7 = does operating it make what you own more valuable over time.)
+**Definition:** The product's core production, delivery, or support is done by AI systems, not by scaling human headcount. People stay for verification, judgment, and exceptions — not for every unit shipped. Growth does not mean "hire ten more."
 
-**PASS (2):** Named accumulating asset (dataset, catalog, install base, reputation loop) that compounds with use.
+**PASS (2):** Named work that used to need humans is AI-produced or AI-delivered at the unit level; humans review/exception only; next 10× volume doesn't require 10× staff.
 
-**PARTIAL (1):** Some accumulation possible, but core value resets often (throwaway content with no learning loop).
+**PARTIAL (1):** AI does a real piece, but core fulfillment still needs proportional human hours.
 
-**FAIL (0):** Work resets every client/week with nothing retained.
+**FAIL (0):** Scaling means hiring; AI is decorative (chatbot on a people-factory).
 
-**Example:** PLR.me — growing library + creator base; archived packs resold as value packs.
+**U:** No evidence yet of which work AI owns vs humans.
+
+**Example:** A content or support product where AI produces each unit and humans only handle exceptions — next 10× volume does not mean 10× headcount.
 
 ---
 
@@ -178,13 +182,15 @@ U means insufficient evidence. It is not a numeric score. Use 0 only for a docum
 
 ### 10. Newton's Rule
 
-**Definition:** Increase mass → increase gravity → it gets stronger as it grows. More customers, content, data, or partners make the next sale or next year easier, not harder. (Bar 7 = asset quality over time; bar 10 = advantages created by greater scale.)
+**Definition:** Increase mass → increase gravity → stronger as it grows. More customers, content, data, or partners make the next sale or next year easier, not harder. Scale advantages: purchasing power, reusable production, shared distribution, lower unit costs, network/data effects. This is NOT the same as bar 3's asset appreciation (bar 3 = what you own gets better / is buyable; bar 10 = gravity from greater scale).
 
 **PASS (2):** Evidence of a scale advantage: purchasing power, reusable production, shared distribution, lower unit costs, or network/data effects make the next sale easier or more valuable.
 
 **PARTIAL (1):** Some evidenced scale benefit, but limited in size or offset by coordination costs.
 
 **FAIL (0):** Evidence shows growth worsens unit economics or operating burden without an offsetting scale advantage. Linear manufacturing or shipping cost alone is not failure.
+
+**U:** Insufficient evidence of whether scale helps or hurts.
 
 **Example:** Zoom — every meeting invite recruits new users; density increases gravity.
 
@@ -204,11 +210,11 @@ Use U or 0/1/2 per bar; U is not zero.
 
 1 Pays more than once:     _ / 2 — evidence:
 2 Build once, sell many:   _ / 2 — evidence:
-3 Sellable asset:          _ / 2 — evidence:
+3 Creates Gold:            _ / 2 — evidence:
 4 Runs without you:        _ / 2 — evidence:
 5 Satisfaction shape:      _ / 2 — evidence:
 6 No Brainer:              _ / 2 — evidence:
-7 Creates Gold:            _ / 2 — evidence:
+7 C3PO (AI does the work): _ / 2 — evidence:
 8 Natural route to buyers: _ / 2 — evidence:
 9 Easy to get the value:   _ / 2 — evidence:
 10 Newton's Rule:          _ / 2 — evidence:
