@@ -2,7 +2,7 @@
 
 [Repository home](../README.md)
 
-Editorial navigation guide to the imported notes, September 29, 2026. This guide records the source's decisions and conflicts; it does not approve an offer.
+Editorial navigation guide to the imported notes, September 29, 2026. Framework references synchronized September 30, 2026. This guide records the source's decisions and conflicts; it does not approve an offer.
 
 ## Current core candidate
 
@@ -20,15 +20,17 @@ The [September 29 review](research/exploration-gaps.md) identifies missing direc
 
 Record future answers in [experiments](experiments/) using the [experiment log](../templates/experiment-log.md). The [Shovel proof gate](../templates/shovel-proof-gate.md) is unrun. Member-action units, owner voice, and an incidental vault are hypotheses to test, not changes approved for the product.
 
-Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) has **ten bars**: pay more than once, build once sell many with a worthwhile margin, sellable asset, runs without you, satisfaction (one of seven shapes), No Brainer, Creates Gold, a natural route to buyers, ease of getting value, and Newton's Rule. See [perfect-product.md](framework/perfect-product.md), the agent-facing [Perfect Product Rubric](framework/perfect-product-rubric.md), [satisfaction shapes](framework/satisfaction-shapes.md), and the full [product catalog](products/README.md) (ideas listed, not scored yet).
+Satisfaction is not limited to cold beer. Jack's Perfect Product definition (2026-09-29) has **ten bars**: pay more than once, build once sell many with a worthwhile margin, Creates Gold (ownable, transferable assets that appreciate), runs without you, satisfaction (a primary shape with supporting shapes allowed), No Brainer, C3PO (AI does the core work), a natural route to buyers, ease of getting value, and Newton's Rule (advantages from scale). See [perfect-product.md](framework/perfect-product.md), the agent-facing [Perfect Product Rubric](framework/perfect-product-rubric.md), [satisfaction shapes](framework/satisfaction-shapes.md), and the full [product catalog](products/README.md) (41 entries; assessments are recorded separately in the [scores ledger](scores/README.md)).
 
 ## Founder constraints
 
 Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/grok.md), and [Manus](perspectives/manus.md):
 
-- Repeat sales or recurring revenue, reusable production, a sellable asset, and systems that can run without Jack.
+- Repeat sales or recurring revenue, reusable production with worthwhile margins, Creates Gold (ownable, transferable assets that appreciate), and systems that can run without Jack.
 - Clear buyer satisfaction: Six Pack of Beer Desire, Coat of paint, Event Excitement, Harvest Gala, Tool in the hand, Trophy, Belonging without hosting ([satisfaction shapes](framework/satisfaction-shapes.md)).
-- No Brainer and Creates Gold (price not friction; operating the business strengthens an asset over time).
+- No Brainer: clear buyer value, existing spend or measurable pain, and a small price relative to the payoff.
+- C3PO: AI performs core production, delivery, or support; people handle verification, judgment, and exceptions rather than every unit shipped.
+- Newton's Rule: greater scale improves purchasing power, production, distribution, unit costs, or network/data effects; this is distinct from asset appreciation.
 - A natural route to buyers without constant personal selling, and clear, manageable effort for buyers to reach the promised satisfaction.
 - No daily community-host duties or dependence on constant public performance.
 - No custom client work, retainers, or managed assistants as the core business.
@@ -40,7 +42,7 @@ Drawn from the [framework](framework/perfect-product.md), [Grok](perspectives/gr
 | Direction | Status in the sources | Evidence |
 | --- | --- | --- |
 | Small weekly useful item for audience owners | Current core candidate; not approved; willingness to pay unproven | [Manus final correction](perspectives/manus.md), [Shovel](concepts/shovel-your-biz-shit.md) |
-| Definition bars 5–10 (satisfaction shapes, No Brainer, Creates Gold, route to buyers, ease of getting value, Newton's Rule) | Jack's approved framework updates; seven satisfaction shapes within ten bars | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
+| Current ten-bar definition: Creates Gold at bar 3; satisfaction at bar 5; No Brainer at bar 6; C3PO at bar 7; buyer route, easy value and Newton's Rule at bars 8–10 | Jack's approved framework updates; Creates Gold combines the former sellable-asset and appreciation bars; C3PO covers AI core work; seven satisfaction shapes within ten bars | [Perfect Product](framework/perfect-product.md), [Satisfaction shapes](framework/satisfaction-shapes.md) |
 | Gemini Ideas A/B/C | Hopper; no Jack decision yet. A conflicts with no-host rule; B conflicts if used for consulting; C is closest to a productized report | [Gemini](perspectives/gemini.md) |
 | Field Notes / Practitioner Briefing | Ruled out for Jack; research retained | [Grok, section 6](perspectives/grok.md), [original research](archive/field-notes.md) |
 | GHL snapshot / agency kit | Rejected; offer, price, and test withdrawn | [GHL correction](archive/ghl-agency-kit.md) |
