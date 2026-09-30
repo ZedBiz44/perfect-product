@@ -8,7 +8,7 @@ Imported September 29, 2026 from the user-supplied [Perfect Product page](https:
 
 - Root page and all 13 direct subpages.
 - Nested Facebook Research page under Grok Research.
-- Groups & Offers database: all 47 records, with no remaining query page.
+- Groups & Offers database: all 47 records (research records about existing groups and offers, separate from the 41 product-catalog entries), with no remaining query page.
 - Every database record was fetched separately; each had a blank page body.
 - Both database references in Grok Research use the same data source and are represented once.
 
