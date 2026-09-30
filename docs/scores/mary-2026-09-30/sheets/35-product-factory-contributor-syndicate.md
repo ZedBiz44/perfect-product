@@ -1,6 +1,6 @@
 # 35. Product factory / contributor syndicate - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/35-product-factory-contributor-syndicate.md) · [Grok's sheet](../../sheets/35-product-factory-contributor-syndicate.md) · [Cody's sheet](../../cody-2026-09-30/sheets/35-product-factory-contributor-syndicate.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/35-product-factory-contributor-syndicate.md) · [Grok's sheet](../../sheets/35-product-factory-contributor-syndicate.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/35-product-factory-contributor-syndicate.md)
 
 - **Buyer and payer:** Internal first; later may supply distributors
 - **Price hypothesis (unvalidated):** N/A as customer offer; cost center until a product sells

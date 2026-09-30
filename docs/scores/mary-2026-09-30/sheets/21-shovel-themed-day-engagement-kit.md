@@ -1,6 +1,6 @@
 # 21. Shovel themed-day engagement kit - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/21-shovel-themed-day-engagement-kit.md) · [Grok's sheet](../../sheets/21-shovel-themed-day-engagement-kit.md) · [Cody's sheet](../../cody-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/21-shovel-themed-day-engagement-kit.md) · [Grok's sheet](../../sheets/21-shovel-themed-day-engagement-kit.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/21-shovel-themed-day-engagement-kit.md)
 
 - **Buyer and payer:** Same as Shovel owners (buyers of the weekly item)
 - **Price hypothesis (unvalidated):** Order bump or +$10-$20/mo on Shovel - unvalidated

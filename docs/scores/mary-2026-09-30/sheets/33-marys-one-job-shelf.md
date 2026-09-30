@@ -1,6 +1,6 @@
 # 33. Mary's one-job shelf - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/33-marys-one-job-shelf.md) · [Grok's sheet](../../sheets/33-marys-one-job-shelf.md) · [Cody's sheet](../../cody-2026-09-30/sheets/33-marys-one-job-shelf.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/33-marys-one-job-shelf.md) · [Grok's sheet](../../sheets/33-marys-one-job-shelf.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/33-marys-one-job-shelf.md)
 
 - **Buyer and payer:** Operators who buy at midnight (blunt buyers); later agencies/chambers as distributors
 - **Price hypothesis (unvalidated):** $29-$79 per kit - unvalidated

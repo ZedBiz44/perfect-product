@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **40**; earlier ID **40**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/40-benefits-factory.md) · [Grok's sheet](../../sheets/40-benefits-factory.md) · [Cody's sheet](../../cody-2026-09-30/sheets/40-benefits-factory.md) · [Mary's sheet](../../mary-2026-09-30/sheets/40-benefits-factory.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/40-benefits-factory.md) · [Grok's sheet](../../sheets/40-benefits-factory.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/40-benefits-factory.md) · [Mary's sheet](../../mary-2026-09-30/sheets/40-benefits-factory.md)
 
 - **Buyer and payer:** Agencies, chambers, associations, SaaS companies, franchise systems, employers, credit unions, and other relationship owners.
 - **Price hypothesis (unvalidated):** Model not set; likely B2B licence, per-member economics, vendor funding, or blended model.

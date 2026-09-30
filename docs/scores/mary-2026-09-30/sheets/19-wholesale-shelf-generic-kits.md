@@ -1,6 +1,6 @@
 # 19. Wholesale Shelf (generic kits) - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/19-wholesale-shelf-generic-kits.md) · [Grok's sheet](../../sheets/19-wholesale-shelf-generic-kits.md) · [Cody's sheet](../../cody-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/19-wholesale-shelf-generic-kits.md) · [Grok's sheet](../../sheets/19-wholesale-shelf-generic-kits.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/19-wholesale-shelf-generic-kits.md)
 
 - **Buyer and payer:** GHL/marketing agencies
 - **Price hypothesis (unvalidated):** ~$197-$497/mo flat licence - unvalidated

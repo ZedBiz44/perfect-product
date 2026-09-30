@@ -1,6 +1,6 @@
 # 7. Rural property buyer system - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/07-rural-property-buyer-system.md) · [Grok's sheet](../../sheets/07-rural-property-buyer-system.md) · [Cody's sheet](../../cody-2026-09-30/sheets/07-rural-property-buyer-system.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/07-rural-property-buyer-system.md) · [Grok's sheet](../../sheets/07-rural-property-buyer-system.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/07-rural-property-buyer-system.md)
 
 - **Buyer and payer:** Rural real-estate agents, land lenders, close partners (payers); end buyers get the worksheet
 - **Price hypothesis (unvalidated):** Founding licence ~$497-$2,000 + possible ~$97/mo - unvalidated

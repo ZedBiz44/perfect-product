@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **05**; earlier ID **09**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/05-cash-this-week.md) · [Grok's sheet](../../sheets/05-cash-this-week.md) · [Cody's sheet](../../cody-2026-09-30/sheets/05-cash-this-week.md) · [Mary's sheet](../../mary-2026-09-30/sheets/05-cash-this-week.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/05-cash-this-week.md) · [Grok's sheet](../../sheets/05-cash-this-week.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/05-cash-this-week.md) · [Mary's sheet](../../mary-2026-09-30/sheets/05-cash-this-week.md)
 
 - **Buyer and payer:** Agencies and local marketers with dormant client/customer lists.
 - **Price hypothesis (unvalidated):** ~$99–$199 per campaign pack.

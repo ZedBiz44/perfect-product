@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **04**; earlier ID **08**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/04-save-kit.md) · [Grok's sheet](../../sheets/04-save-kit.md) · [Cody's sheet](../../cody-2026-09-30/sheets/04-save-kit.md) · [Mary's sheet](../../mary-2026-09-30/sheets/04-save-kit.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/04-save-kit.md) · [Grok's sheet](../../sheets/04-save-kit.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/04-save-kit.md) · [Mary's sheet](../../mary-2026-09-30/sheets/04-save-kit.md)
 
 - **Buyer and payer:** Agencies with retainer clients who churn on "what am I paying for?"
 - **Price hypothesis (unvalidated):** ~$49–$149/mo or ~$199–$499 one-time + updates.

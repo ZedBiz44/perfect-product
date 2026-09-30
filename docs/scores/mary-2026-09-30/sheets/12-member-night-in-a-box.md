@@ -1,6 +1,6 @@
 # 12. Member Night in a Box - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/12-member-night-in-a-box.md) · [Grok's sheet](../../sheets/12-member-night-in-a-box.md) · [Cody's sheet](../../cody-2026-09-30/sheets/12-member-night-in-a-box.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/12-member-night-in-a-box.md) · [Grok's sheet](../../sheets/12-member-night-in-a-box.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/12-member-night-in-a-box.md)
 
 - **Buyer and payer:** Group / chamber / membership owners
 - **Price hypothesis (unvalidated):** ~$49-$149 per night pack; seasonal ~$199-$399 - unvalidated

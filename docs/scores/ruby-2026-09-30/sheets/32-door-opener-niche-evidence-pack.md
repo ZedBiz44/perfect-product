@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **32**; earlier ID **35**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/32-door-opener-niche-evidence-pack.md) · [Grok's sheet](../../sheets/32-door-opener-niche-evidence-pack.md) · [Cody's sheet](../../cody-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md) · [Mary's sheet](../../mary-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/32-door-opener-niche-evidence-pack.md) · [Grok's sheet](../../sheets/32-door-opener-niche-evidence-pack.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md) · [Mary's sheet](../../mary-2026-09-30/sheets/32-door-opener-niche-evidence-pack.md)
 
 - **Buyer and payer:** Agencies by niche (e.g. dentists, trades).
 - **Price hypothesis (unvalidated):** ~$149–$299 per niche pack.

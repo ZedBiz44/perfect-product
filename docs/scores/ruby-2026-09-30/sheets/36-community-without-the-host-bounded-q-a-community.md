@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **36**; earlier ID **18**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/36-community-without-the-host-bounded-q-a-community.md) · [Grok's sheet](../../sheets/36-community-without-the-host-bounded-q-a-community.md) · [Cody's sheet](../../cody-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md) · [Mary's sheet](../../mary-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/36-community-without-the-host-bounded-q-a-community.md) · [Grok's sheet](../../sheets/36-community-without-the-host-bounded-q-a-community.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md) · [Mary's sheet](../../mary-2026-09-30/sheets/36-community-without-the-host-bounded-q-a-community.md)
 
 - **Buyer and payer:** Agency owners or AI-ops practitioners (buyer undecided).
 - **Price hypothesis (unvalidated):** $7–15 letter; $29–49 community; $97–149 playbook; $1.5–2.5K advisory.

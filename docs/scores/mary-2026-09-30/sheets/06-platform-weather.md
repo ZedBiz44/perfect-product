@@ -1,6 +1,6 @@
 # 6. Platform Weather - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/06-platform-weather.md) · [Grok's sheet](../../sheets/06-platform-weather.md) · [Cody's sheet](../../cody-2026-09-30/sheets/06-platform-weather.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/06-platform-weather.md) · [Grok's sheet](../../sheets/06-platform-weather.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/06-platform-weather.md)
 
 - **Buyer and payer:** GHL/marketing agencies built on rented platforms (broader later)
 - **Price hypothesis (unvalidated):** ~$49-$149/mo - unvalidated

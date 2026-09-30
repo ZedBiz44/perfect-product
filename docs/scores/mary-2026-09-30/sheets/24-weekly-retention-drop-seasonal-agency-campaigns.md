@@ -1,6 +1,6 @@
 # 24. Weekly retention drop / seasonal agency campaigns - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/24-weekly-retention-drop-seasonal-agency-campaigns.md) · [Grok's sheet](../../sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md) · [Cody's sheet](../../cody-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/24-weekly-retention-drop-seasonal-agency-campaigns.md) · [Grok's sheet](../../sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/24-weekly-retention-drop-seasonal-agency-campaigns.md)
 
 - **Buyer and payer:** Agencies serving local businesses
 - **Price hypothesis (unvalidated):** ~$97-$497/mo agency licence or ~$199+ per-season packs - unvalidated

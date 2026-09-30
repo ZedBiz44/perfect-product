@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **09**; earlier ID **16**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/09-member-wake-up-campaign-4-week.md) · [Grok's sheet](../../sheets/09-member-wake-up-campaign-4-week.md) · [Cody's sheet](../../cody-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md) · [Mary's sheet](../../mary-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/09-member-wake-up-campaign-4-week.md) · [Grok's sheet](../../sheets/09-member-wake-up-campaign-4-week.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md) · [Mary's sheet](../../mary-2026-09-30/sheets/09-member-wake-up-campaign-4-week.md)
 
 - **Buyer and payer:** Paid community owners (local-business / marketers / practical operators).
 - **Price hypothesis (unvalidated):** Founding pilot US$99–$149 for four weeks.

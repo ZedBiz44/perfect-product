@@ -1,6 +1,6 @@
 # 26. Gemini A: AI mentors in community - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/26-gemini-a-ai-mentors-in-community.md) · [Grok's sheet](../../sheets/26-gemini-a-ai-mentors-in-community.md) · [Cody's sheet](../../cody-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/26-gemini-a-ai-mentors-in-community.md) · [Grok's sheet](../../sheets/26-gemini-a-ai-mentors-in-community.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/26-gemini-a-ai-mentors-in-community.md)
 
 - **Buyer and payer:** If Jack owns the community: conflicts with no-host rule; better as OS sold to other owners (see #29)
 - **Price hypothesis (unvalidated):** Membership ~$29-99/mo or B2B licence - unvalidated

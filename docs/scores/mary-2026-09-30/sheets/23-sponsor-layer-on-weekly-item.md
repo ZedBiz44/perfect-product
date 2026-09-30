@@ -1,6 +1,6 @@
 # 23. Sponsor layer on weekly item - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/23-sponsor-layer-on-weekly-item.md) · [Grok's sheet](../../sheets/23-sponsor-layer-on-weekly-item.md) · [Cody's sheet](../../cody-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/23-sponsor-layer-on-weekly-item.md) · [Grok's sheet](../../sheets/23-sponsor-layer-on-weekly-item.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/23-sponsor-layer-on-weekly-item.md)
 
 - **Buyer and payer:** Tool vendors / suppliers as payers; owners as distributors of free-to-them value
 - **Price hypothesis (unvalidated):** Sponsor ~$500-$5,000/mo per niche (explicit wild guess); owners free

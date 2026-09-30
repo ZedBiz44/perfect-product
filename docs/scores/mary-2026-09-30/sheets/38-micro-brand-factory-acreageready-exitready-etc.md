@@ -1,6 +1,6 @@
 # 38. Micro-brand factory - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) · [Grok's sheet](../../sheets/38-micro-brand-factory-acreageready-exitready-etc.md) · [Cody's sheet](../../cody-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/38-micro-brand-factory-acreageready-exitready-etc.md) · [Grok's sheet](../../sheets/38-micro-brand-factory-acreageready-exitready-etc.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/38-micro-brand-factory-acreageready-exitready-etc.md)
 
 - **Buyer and payer:** Channel owners per micro-brand (realtors, brokers, community owners, course creators, chambers)
 - **Price hypothesis (unvalidated):** Per-brand founding licences (see #7–8 bands); portfolio economics - unvalidated

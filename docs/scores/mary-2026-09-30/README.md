@@ -4,7 +4,7 @@ Catalog numbering v2 (2026-09-30): IDs now match Notion group order. Only identi
 
 Date: 2026-09-30 | Agent: Mary | Status: Complete review; all 41 entries evidence-incomplete
 
-[Scores ledger](../README.md) · [Mary CSV](index.csv) · [Rubric](../../framework/perfect-product-rubric.md) · [Grok's original index](../index.csv) · [Cody's assessment](../cody-2026-09-30/README.md)
+[Scores ledger](../README.md) · [Mary CSV](index.csv) · [Rubric](../../framework/perfect-product-rubric.md) · [Grok's original index](../index.csv) · [Cody's assessment — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/README.md)
 
 ## Result
 

@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **07**; earlier ID **14**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/07-rural-property-buyer-system.md) · [Grok's sheet](../../sheets/07-rural-property-buyer-system.md) · [Cody's sheet](../../cody-2026-09-30/sheets/07-rural-property-buyer-system.md) · [Mary's sheet](../../mary-2026-09-30/sheets/07-rural-property-buyer-system.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/07-rural-property-buyer-system.md) · [Grok's sheet](../../sheets/07-rural-property-buyer-system.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/07-rural-property-buyer-system.md) · [Mary's sheet](../../mary-2026-09-30/sheets/07-rural-property-buyer-system.md)
 
 - **Buyer and payer:** Rural real-estate agents, land lenders, close partners (payers); end buyers get the worksheet.
 - **Price hypothesis (unvalidated):** Founding licence ~$497–$2,000 + possible ~$97/mo.

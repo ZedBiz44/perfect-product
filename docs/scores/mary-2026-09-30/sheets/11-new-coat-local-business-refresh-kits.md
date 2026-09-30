@@ -1,6 +1,6 @@
 # 11. New Coat local-business refresh kits - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/11-new-coat-local-business-refresh-kits.md) · [Grok's sheet](../../sheets/11-new-coat-local-business-refresh-kits.md) · [Cody's sheet](../../cody-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/11-new-coat-local-business-refresh-kits.md) · [Grok's sheet](../../sheets/11-new-coat-local-business-refresh-kits.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/11-new-coat-local-business-refresh-kits.md)
 
 - **Buyer and payer:** Agencies, chambers, franchise HQs (channel); end local businesses
 - **Price hypothesis (unvalidated):** ~$149-$499 per kit to channel; marked up to end client - unvalidated

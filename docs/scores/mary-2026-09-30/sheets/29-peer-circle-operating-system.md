@@ -1,6 +1,6 @@
 # 29. Peer-circle operating system - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/29-peer-circle-operating-system.md) · [Grok's sheet](../../sheets/29-peer-circle-operating-system.md) · [Cody's sheet](../../cody-2026-09-30/sheets/29-peer-circle-operating-system.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/29-peer-circle-operating-system.md) · [Grok's sheet](../../sheets/29-peer-circle-operating-system.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/29-peer-circle-operating-system.md)
 
 - **Buyer and payer:** Group owners who want peer energy without inventing it
 - **Price hypothesis (unvalidated):** ~$49-$199/mo seat licence per community - unvalidated

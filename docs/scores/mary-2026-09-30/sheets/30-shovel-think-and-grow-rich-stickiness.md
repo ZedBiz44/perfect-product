@@ -1,6 +1,6 @@
 # 30. Shovel + Think and Grow Rich stickiness - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/30-shovel-think-and-grow-rich-stickiness.md) · [Grok's sheet](../../sheets/30-shovel-think-and-grow-rich-stickiness.md) · [Cody's sheet](../../cody-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/30-shovel-think-and-grow-rich-stickiness.md) · [Grok's sheet](../../sheets/30-shovel-think-and-grow-rich-stickiness.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/30-shovel-think-and-grow-rich-stickiness.md)
 
 - **Buyer and payer:** Same as Shovel owners
 - **Price hypothesis (unvalidated):** Shovel base + ~$10-$30/mo or annual report upsell - unvalidated

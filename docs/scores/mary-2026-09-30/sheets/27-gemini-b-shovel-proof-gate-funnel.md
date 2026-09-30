@@ -1,6 +1,6 @@
 # 27. Gemini B: Shovel-Proof Gate funnel - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/27-gemini-b-shovel-proof-gate-funnel.md) · [Grok's sheet](../../sheets/27-gemini-b-shovel-proof-gate-funnel.md) · [Cody's sheet](../../cody-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/27-gemini-b-shovel-proof-gate-funnel.md) · [Grok's sheet](../../sheets/27-gemini-b-shovel-proof-gate-funnel.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/27-gemini-b-shovel-proof-gate-funnel.md)
 
 - **Buyer and payer:** Prospects for ZedBiz offers; or other operators (if productized)
 - **Price hypothesis (unvalidated):** Free gate; DIY ~$7-49; productized ~$99-299 - unvalidated

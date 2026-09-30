@@ -1,6 +1,6 @@
 # 16. Field Notes / Practitioner Briefing - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/16-field-notes-practitioner-briefing.md) · [Grok's sheet](../../sheets/16-field-notes-practitioner-briefing.md) · [Cody's sheet](../../cody-2026-09-30/sheets/16-field-notes-practitioner-briefing.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/16-field-notes-practitioner-briefing.md) · [Grok's sheet](../../sheets/16-field-notes-practitioner-briefing.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/16-field-notes-practitioner-briefing.md)
 
 - **Buyer and payer:** Agency owners / marketing operators (as proposed); Jack-as-author ruled out as main path
 - **Price hypothesis (unvalidated):** ~$7-$19/mo or $190/yr (archive table) - unvalidated

@@ -1,6 +1,6 @@
 # 03. Door Opener - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/03-door-opener.md) · [Grok's sheet](../../sheets/03-door-opener.md) · [Cody's sheet](../../cody-2026-09-30/sheets/03-door-opener.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/03-door-opener.md) · [Grok's sheet](../../sheets/03-door-opener.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/03-door-opener.md)
 
 - **Buyer and payer:** Marketing agencies / GHL-style agency owners who struggle to get clients
 - **Price hypothesis (unvalidated):** ~$99-$249 one-time per niche pack, or low monthly refill of new niche wins - unvalidated

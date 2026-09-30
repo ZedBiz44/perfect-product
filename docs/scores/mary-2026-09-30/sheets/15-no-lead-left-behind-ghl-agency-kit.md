@@ -1,6 +1,6 @@
 # 15. No Lead Left Behind: GHL Agency Kit - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/15-no-lead-left-behind-ghl-agency-kit.md) · [Grok's sheet](../../sheets/15-no-lead-left-behind-ghl-agency-kit.md) · [Cody's sheet](../../cody-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/15-no-lead-left-behind-ghl-agency-kit.md) · [Grok's sheet](../../sheets/15-no-lead-left-behind-ghl-agency-kit.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/15-no-lead-left-behind-ghl-agency-kit.md)
 
 - **Buyer and payer:** GHL agencies and consultants (buyer explicitly ruled out for Jack)
 - **Price hypothesis (unvalidated):** $249 founding one-time; $99/yr optional updates - offer withdrawn 2026-09-28

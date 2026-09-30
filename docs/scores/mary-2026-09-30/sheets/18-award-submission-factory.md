@@ -1,6 +1,6 @@
 # 18. Award-Submission Factory - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/18-award-submission-factory.md) · [Grok's sheet](../../sheets/18-award-submission-factory.md) · [Cody's sheet](../../cody-2026-09-30/sheets/18-award-submission-factory.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/18-award-submission-factory.md) · [Grok's sheet](../../sheets/18-award-submission-factory.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/18-award-submission-factory.md)
 
 - **Buyer and payer:** Agencies seeking awards/proof
 - **Price hypothesis (unvalidated):** Quarterly pack ~$199-$499 (unstated; guess)

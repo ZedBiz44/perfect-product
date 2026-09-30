@@ -1,6 +1,6 @@
 # 05. Cash This Week - Mary's assessment
 
-[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/05-cash-this-week.md) · [Grok's sheet](../../sheets/05-cash-this-week.md) · [Cody's sheet](../../cody-2026-09-30/sheets/05-cash-this-week.md)
+[Scores ledger](../README.md) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/05-cash-this-week.md) · [Grok's sheet](../../sheets/05-cash-this-week.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/05-cash-this-week.md)
 
 - **Buyer and payer:** Agencies and local marketers with dormant client/customer lists
 - **Price hypothesis (unvalidated):** ~$99-$199 per campaign pack - unvalidated

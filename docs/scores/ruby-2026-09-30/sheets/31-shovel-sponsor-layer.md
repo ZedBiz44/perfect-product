@@ -2,7 +2,7 @@
 
 Catalog numbering v2: current ID **31**; earlier ID **34**. Pinned source citations and cross-references inside this sheet retain historical IDs; scores and reasoning are unchanged. [Migration map](../../catalog-id-map.md).
 
-[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/31-shovel-sponsor-layer.md) · [Grok's sheet](../../sheets/31-shovel-sponsor-layer.md) · [Cody's sheet](../../cody-2026-09-30/sheets/31-shovel-sponsor-layer.md) · [Mary's sheet](../../mary-2026-09-30/sheets/31-shovel-sponsor-layer.md)
+[Run summary](../README.md) · [Ruby index](../index.csv) · [Rubric](../../../framework/perfect-product-rubric.md) · [Catalog entry](../../../products/entries/31-shovel-sponsor-layer.md) · [Grok's sheet](../../sheets/31-shovel-sponsor-layer.md) · [Cody's sheet — withdrawn historical review](https://github.com/ZedBiz44/perfect-product/blob/c83a6146bdaa65f233c644ffbe9dfae46b53fec3/docs/scores/cody-2026-09-30/sheets/31-shovel-sponsor-layer.md) · [Mary's sheet](../../mary-2026-09-30/sheets/31-shovel-sponsor-layer.md)
 
 - **Buyer and payer:** Sponsors pay; owners distribute; members receive value.
 - **Price hypothesis (unvalidated):** Sponsor ~$500–$5,000/mo; owners free/$0–$19.
