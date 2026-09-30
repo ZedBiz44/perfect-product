@@ -30,11 +30,11 @@ Use U or 0/1/2 per bar; U is not zero.
 
 1 Pays more than once:     _ / 2 — evidence:
 2 Build once, sell many:   _ / 2 — evidence:
-3 Sellable asset:          _ / 2 — evidence:
+3 Creates Gold:            _ / 2 — evidence:
 4 Runs without you:        _ / 2 — evidence:
 5 Satisfaction shape:      _ / 2 — evidence:
 6 No Brainer:              _ / 2 — evidence:
-7 Creates Gold:            _ / 2 — evidence:
+7 C3PO (AI does the work): _ / 2 — evidence:
 8 Natural route to buyers: _ / 2 — evidence:
 9 Easy to get the value:   _ / 2 — evidence:
 10 Newton's Rule:          _ / 2 — evidence:
