@@ -1,53 +1,67 @@
 # Evaluation: Shovel + Sponsor layer
 
-[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/31-shovel-sponsor-layer.md) · [Rubric](../../framework/perfect-product-rubric.md)
+[Scores index](../README.md) · [Leaderboard](../leaderboard.md) · [Catalog entry](../../products/entries/31-shovel-sponsor-layer.md) · [Rubric](../../framework/perfect-product-rubric.md) · [Scoring guide v1.2](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)
 
 - **Candidate:** Shovel + Sponsor layer
-- **Date / owner:** 2026-09-29 (America/Edmonton) / Perfect Product (Grok)
+- **Date / owner:** Revised 2026-09-30 (America/Edmonton) / Perfect Product (Grok). First pass 2026-09-29.
+- **Revision:** revised after catalog clarifications (WC1). Guide v1.2. Rubric v1.1 commit `8be7c589928ef681577baaa765a90583d824f128`. Catalog source `d18a327a597f6b9292b5cacc94448934ce90cacb`.
 - **Status:** exploration
 - **Group:** Ingredients & add-ons
-- **Primary satisfaction shape:** Six Pack of Beer Desire
+- **Primary satisfaction shape:** Harvest Gala
 - **Supporting satisfaction shapes (optional):** —
-- **Buyer and payer:** Sponsors pay; owners distribute; members receive
-- **Existing audience or distribution channel:** Prove owner use first; then sponsor access.
+- **Buyer and payer:** Tool-vendor payer funds a $1,000/month niche Shovel placement; owners distribute free weekly items. Assess both sponsor and owner tasks.
+- **Existing audience or distribution channel:** Community consultants recruit hosts for free useful materials; those hosts may introduce relevant vendors. Both sides require coordinated partner recruitment.
 - **One-sentence promise:** Useful weekly Shovel funded by sponsor after owner use proven.
 - **Immediate buying or usage moment:** Sponsored weekly share.
-- **Price and repeat-purchase reason:** Sponsor ~$500–$5,000/mo; owners free/$0–$19 (hypothesis)
-- **Evidence links:** catalog entry `31-shovel-sponsor-layer.md`; sources cited per bar below
+- **Price and repeat-purchase reason:** Working price stays the entry's recorded hypothesis. Repeat mechanism: Sponsor renewal follows useful voluntary visits and campaign goals; budget and performance dependency make repeat income less certain than host subscriptions. No new willingness-to-pay figure is claimed.
+- **Evidence links:** catalog entry `31-shovel-sponsor-layer.md` working concept WC1; [assessment context](../../products/assessment-context.md). Prior scores were the 2026-09-29 evidence-standard pass.
 
-## Ten-bar assessment (first ranking pass)
+## Ten-bar assessment (revised after catalog clarifications)
 
-Follow the [rubric](../../framework/perfect-product-rubric.md): U = Unknown, 0 = documented conflict, 1 = evidenced partial fit, 2 = evidenced fit. Leave the total blank while any bar is U. Proof consideration requires all ten assessed, no zeros, at least seven Passes (17/20 minimum), and founder fit; it does not authorize testing or building.
+Concept fit under guide v1.2 and rubric v1.1. 2 = credible specific mechanism under the entry's labelled assumptions; 1 = partial; 0 = the described model conflicts; U only if a missing detail blocks judgment and assumptions cannot resolve it. Unsold is not U. Prices are hypotheses, not measured willingness to pay. Catalog Type/Status unchanged.
 
 ```
 Idea: Shovel + Sponsor layer
-Buyer: Sponsors pay; owners distribute; members receive
-Primary shape (bar 5): Six Pack of Beer Desire
+Buyer: Tool-vendor payer funds a $1,000/month niche Shovel placement; owners distribute free weekly items. Assess both sponsor and owner tasks.
+Primary shape (bar 5): Harvest Gala
 Supporting shapes: —
-Date / sources: 2026-09-29; catalog entry + cited repo docs
+Date / sources: revised 2026-09-30 America/Edmonton after catalog clarifications; WC1; entry 31-shovel-sponsor-layer.md
 Use U or 0/1/2 per bar; U is not zero.
 
-1 Pays more than once:  2 / 2 — evidence: Sponsor monthly + optional owner fee.
-2 Build once, sell many:1 / 2 — evidence: Reusable item; sponsor coordination creep risk.
-3 Creates Gold:         1 / 2 — evidence: Sponsor + owner network assets.
-4 Runs without you:     1 / 2 — evidence: Avoid big coordinated service box (failed packaging).
-5 Satisfaction shape:   U / 2 — evidence: Untested.
-6 No Brainer:           U / 2 — evidence: Sponsor demand unknown.
-7 C3PO (AI does the work):1 / 2 — evidence: Same as Shovel production.
-8 Natural route to buyers:U / 2 — evidence: Requires proven Shovel use first.
-9 Easy to get the value:U / 2 — evidence: Depends on free/cheap owner adoption.
-10 Newton's Rule:       U / 2 — evidence: More owners → better sponsor pitch hypothesized only.
+1 Pays more than once: 1 / 2 — Medium — assumption: Sponsor renewal follows useful voluntary visits and campaign goals; budget and performance dependency make repeat income less certain than host subscriptions. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+2 Build once, sell many: 1 / 2 — Medium — assumption: Shared content is reusable, but sponsor sales, approval and audience reporting add account-level costs and coordination. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+3 Creates Gold: 2 / 2 — Medium — assumption: The publication, host relationships and assignable sponsorship contracts accumulate; no automatic rights to members' data are assumed. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
+4 Runs without you: 1 / 2 — Medium — assumption: Operator manages distribution and reporting; Jack may negotiate key sponsors, assumed 1–3 hours/week outside startup. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+5 Satisfaction shape: 1 / 2 — Medium — assumption: Owners get weekly relief and sponsors seek a harvest of relevant voluntary interest; delivering both satisfactions reliably creates tension. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+6 No Brainer: 1 / 2 — Low — assumption: A vendor campaign provides a trigger, but $1,000 requires a plausible relevant audience; neither audience size nor sponsor willingness is established. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+7 C3PO (AI does the work): 1 / 2 — Medium — assumption: AI drafts units, sponsor variants and reports; humans negotiate and approve sponsor work and verify shared content. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+8 Natural route to buyers: 1 / 2 — Low — assumption: Community consultants recruit hosts for free useful materials; those hosts may introduce relevant vendors. Both sides require coordinated partner recruitment. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+9 Easy to get the value: 1 / 2 — Medium — assumption: Sponsor agrees terms and approves copy; owner selects and posts; member chooses whether to visit. Value requires several participants to act. Partial: the mechanism covers part of the bar and the entry states a real limitation.
+10 Newton's Rule: 2 / 2 — Medium — assumption: Shared units can reach more hosts at low production cost, improving the inventory offered to sponsors if permissions and relevance hold. Credible specific mechanism under the labelled assumption; not observed demand or a measured margin.
 
-ASSESSED: 5 / 10
-UNKNOWN BARS / missing evidence: 5 (Satisfaction shape), 6 (No Brainer), 8 (Natural route to buyers), 9 (Easy to get the value), 10 (Newton's Rule)
-TOTAL:  / 20 (leave blank if any U) — INCOMPLETE
+ASSESSED: 10 / 10
+UNKNOWN BARS / missing evidence: none — labelled WC assumptions were sufficient to judge every bar
+TOTAL: 12 / 20 — concept fit
 DOCUMENTED ZEROS / conflicts: none
-PASSES: 1 / 10
-Eligible for proof consideration? No — incomplete and/or below gate (17/20 + seven Passes + no zeros + founder fit)
-Verdict / reasoning: Incomplete. Sequence: prove Shovel use before sponsor layer.
-Next exploration question: After unpaid/paid owner use, will a tool vendor sponsor distribution?
+PASSES: 2 / 10
+Eligible for proof consideration? No — below 17/20 with seven strong fits
+Verdict / reasoning: Concept-fit 12/20 from labelled WC1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+Next exploration question: Confirm or replace the labelled payer, price, scope and channel before any launch. No supplier, partner or customer commitment is implied.
 Any proof work requires a separate request.
 ```
+
+## Changelog (2026-09-29 → 2026-09-30)
+
+Prior scores stay visible. Only bars that moved are listed.
+
+- Bar 1 Pays more than once: 2 → 1 — sponsor payment repeats only if voluntary visits justify the next budget
+- Bar 3 Creates Gold: 1 → 2 — publication, host relationships and sponsor contracts accumulate
+- Bar 5 Satisfaction shape: U → 1 — Owners get weekly relief and sponsors seek a harvest of relevant voluntary interest
+- Bar 6 No Brainer: U → 1 — A vendor campaign provides a trigger, but $1,000 requires a plausible relevant audience
+- Bar 8 Natural route to buyers: U → 1 — Community consultants recruit hosts for free useful materials
+- Bar 9 Easy to get the value: U → 1 — Sponsor agrees terms and approves copy
+- Bar 10 Newton's Rule: U → 2 — Shared units can reach more hosts at low production cost, improving the inventory offered to sponsors if permissions and relevance hold.
+- Shape: Six Pack of Beer Desire → Harvest Gala — working interpretation in the catalog entry, original Shape field on the entry is unchanged.
 
 ## Supporting traits (not additional scored bars)
 
@@ -60,23 +74,23 @@ Any proof work requires a separate request.
 
 ## Satisfaction test
 
-Named shape: **Six Pack of Beer Desire**. Buyer experience not commercially tested in-repo for this offer; bar 5 scored per rubric evidence rules (U when untested unless noted).
+Named working shape: **Harvest Gala**. Owners get weekly relief and sponsors seek a harvest of relevant voluntary interest; delivering both satisfactions reliably creates tension. This is a design judgment from the labelled scenario, not an observed customer response. Working shape for this revision: Harvest Gala (WC). Prior sheet shape: Six Pack of Beer Desire.
 
 ## Buyer and operating evidence
 
-- Pain and financial stakes: see catalog entry; prices are hypotheses.
-- Budget, time, reachability, and understanding: Prove owner use first; then sponsor access.
-- Current alternatives, including free options: noted per bar (esp. free AI/PLR/GHL practice where relevant).
-- What the buyer has actually paid for: not evidenced for this offer in-repo.
-- Delivery and reuse: Useful weekly Shovel funded by sponsor after owner use proven.
-- Founder hours, support burden, and customization boundary: see bars 2, 4, 7.
-- Reasons this could fail: Incomplete. Sequence: prove Shovel use before sponsor layer.
-- Related rejected ideas and how this differs: see catalog Related ideas + ingredients.md.
+- Pain and financial stakes: A vendor campaign provides a trigger, but $1,000 requires a plausible relevant audience; neither audience size nor sponsor willingness is established.
+- Budget, time, reachability, and understanding: Community consultants recruit hosts for free useful materials; those hosts may introduce relevant vendors. Both sides require coordinated partner recruitment.
+- Current alternatives, including free options: stated inside the buying-trigger assumption; not a measured conversion.
+- What the buyer has actually paid for: not evidenced. The working price is the catalog hypothesis only.
+- Delivery and reuse: Shared content is reusable, but sponsor sales, approval and audience reporting add account-level costs and coordination.
+- Founder hours, support burden, and customization boundary: Operator manages distribution and reporting; Jack may negotiate key sponsors, assumed 1–3 hours/week outside startup.
+- Reasons this could fail: Concept-fit 12/20 from labelled WC1 assumptions. Not willingness-to-pay evidence and not a launch decision.
+- Related rejected ideas and how this differs: catalog Related ideas. A numeric score does not change archive or dead-but-ingredient status.
 
 ## Proof and decision (complete only when requested)
 
-- Smallest proposed paid test: not requested this pass.
+- Smallest proposed paid test: not requested this revision.
 - Success / failure criteria: —
 - Observed results: —
-- Decision, decision-maker, date, and source: First ranking pass only — Perfect Product (Grok), 2026-09-29. Scoring does not change catalog Type/Status.
-- Next action: After unpaid/paid owner use, will a tool vendor sponsor distribution?
+- Decision, decision-maker, date, and source: Revised after catalog clarifications — Perfect Product (Grok), 2026-09-30 (America/Edmonton). Scoring does not change catalog Type/Status. Notion was not updated.
+- Next action: Confirm or replace the labelled payer, price, scope and channel before any launch.
