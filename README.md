@@ -2,16 +2,16 @@
 
 Research, product ideas, founder constraints, and decisions for building a repeatable, sellable business.
 
-Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a) on September 29, 2026. This repository contains 15 source pages and all 47 Groups & Offers records.
+Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d58181c6a57ed01f725ddf7a) on September 29, 2026. This repository contains 15 source pages and all 47 Groups & Offers records (research records about existing groups and offers, separate from the 41 product-catalog entries).
 
 ## Start here
 
 1. [Current direction and decisions](docs/current-direction.md) — what remains an idea, what was rejected, and what still needs proof.
 2. [Perfect Product framework](docs/framework/perfect-product.md) — ten-bar definition, examples, commonalities, and scorecard.
-3. [**Perfect Product Rubric**](docs/framework/perfect-product-rubric.md) — **how agents score any idea** (0/1/2 per bar, must-not-fail rule, satisfaction checklist).
+3. [**Perfect Product Rubric**](docs/framework/perfect-product-rubric.md) — **how agents score any idea** (U/0/1/2 per bar, evidence coverage, blank totals while incomplete, and satisfaction checklist).
 4. [Definition feedback](docs/framework/definition-feedback.md) — Grok's note on overlaps and why bars 8–10 matter.
-5. [Satisfaction shapes](docs/framework/satisfaction-shapes.md) — cold beer, paint, event, tool, trophy, harvest, belonging; each scored against the bars with a ZedBiz example.
-6. [**Product catalog**](docs/products/README.md) — **all harvested product ideas** (same template; not scored yet).
+5. [Satisfaction shapes](docs/framework/satisfaction-shapes.md) — cold beer, paint, event, tool, trophy, harvest, belonging; illustrative fit notes and a ZedBiz example for each shape; candidate scores live in the scores ledger.
+6. [**Product catalog**](docs/products/README.md) — **all harvested product ideas** (41 entries in the same template; assessments in the [scores ledger](docs/scores/README.md)).
 7. [Shovel Your Biz-Shit](docs/concepts/shovel-your-biz-shit.md) — the current core candidate, with formats and pricing still unapproved.
 8. [Product evaluation template](templates/product-evaluation.md) — a reusable worksheet for the next candidate.
 
@@ -35,7 +35,7 @@ Imported from [Perfect Product in Notion](https://app.notion.com/p/3e9a3e33d5818
 | [Skool AI Groups](docs/research/skool-ai-groups.md) | Community comparisons, business models, leaderboard corrections, and sources |
 | [Grok Research](docs/research/grok-research.md) | Community and supplier research |
 | [Facebook Groups](docs/research/facebook-groups.md) | Group observations, asset-demand log, and sampling limitations |
-| [Groups & Offers](docs/research/groups-and-offers.md) | All 47 database records, including source dates and links |
+| [Groups & Offers](docs/research/groups-and-offers.md) | All 47 research records (separate from the 41 catalog entries), including source dates and links |
 
 ## Perspectives and idea history
 
