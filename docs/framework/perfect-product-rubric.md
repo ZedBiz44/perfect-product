@@ -122,7 +122,7 @@
 
 ### 6. No Brainer
 
-**Definition:** People want it, and the price is not a friction point. First yes should feel near-thoughtless relative to the pain and existing spend.
+**Definition:** The buyer immediately understands the value, already spends money or suffers measurable pain around the problem, and the price feels small relative to the payoff. The first yes should not require a long explanation or sales call.
 
 **PASS (2):** Named buyer already pays for this or a painful workaround; price is cheap vs. the cost of the problem; trigger is clear.
 
