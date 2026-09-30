@@ -33,3 +33,4 @@ The guide is maintained in Notion. This ledger links to it rather than maintaini
 - [Grok — 2026-09-29: all 41 ideas](grok-2026-09-29/README.md), moved from the former leaderboard, with the original [CSV index](index.csv) and [individual sheets](sheets/).
 - [Cody — 2026-09-30: all 41 ideas](cody-2026-09-30/README.md), with a separate [CSV index](cody-2026-09-30/index.csv) and individual sheets. Grok's original scores remain unchanged.
 - [Mary — 2026-09-30: all 41 ideas](mary-2026-09-30/README.md), with a separate [CSV index](mary-2026-09-30/index.csv) and individual sheets. Grok's original scores and Cody's assessment remain unchanged.
+- [Mary — 2026-09-30, guide v1.1: re-score of all 41 ideas](mary-2026-09-30-guide-v11/README.md), with [CSV index](mary-2026-09-30-guide-v11/index.csv) and individual sheets; saved as a new dated assessment under concept-fit rules; Grok's, Cody's and Mary's original assessments remain unchanged.
