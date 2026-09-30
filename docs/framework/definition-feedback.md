@@ -2,6 +2,8 @@
 
 [Repository home](../../README.md) · [Perfect Product framework](perfect-product.md) · [Decision guide](../current-direction.md)
 
+> **Clarified 2026-09-29:** Bars 3 / 7 / 10 no longer overlap. **Bar 3 = Creates Gold** (ownable + appreciating / buyable asset; absorbs old sellable asset + old Creates Gold). **Bar 7 = C3PO** (AI does the core work; new). **Bar 10 = Newton's Rule** (scale → gravity only; not asset appreciation). "Deletes a bottleneck" remains commonality #5 only — not a numbered bar. The historical note below explains *why* the old overlap mattered; use the current [perfect-product.md](perfect-product.md) and [rubric](perfect-product-rubric.md) for scoring.
+
 Jack asked whether anything else belonged in the Perfect Product definition. This is Grok's reply, kept as a dated note. Jack later expanded the definition to ten bars in Notion; this note is why some of those additions matter, and how to keep overlapping bars distinct.
 
 ## What was solid in the seven
@@ -18,13 +20,11 @@ Almost every working example carries a buyer channel inside the product or rides
 
 Stream Deck, Hip Kit, PLR, and $7 coaching remove skill, time, or expertise — not just deliver content. Tips fail this. Tools and harvests pass. "Easy to get the value" covers self-serve delivery and low effort to realize the promise. Keep "deletes a bottleneck" visible in commonalities even if bar 9 is worded around ease, so tips-as-product still fail the test.
 
-### 3. Tighten Creates Gold vs sellable asset
+### 3. Tighten Creates Gold vs sellable asset *(historical — resolved 2026-09-29)*
 
-Bar 3 = something a buyer would pay for on exit (list, brand, systems).
-Bar 7 = the asset gets *more* valuable with use (data compounds, network effects, archive that ages well).
-If it doesn't compound, it's income, not gold.
+**Was:** Bar 3 = something a buyer would pay for on exit; bar 7 = asset gets more valuable with use; bar 10 = growth/flywheel version of the same idea.
 
-Bar 10 (Newton's Rule: more mass → more gravity → stronger as it grows) is the growth version of the same idea. Use bar 7 for *asset quality over time* and bar 10 for *network / flywheel strength as customers increase*. Don't treat them as duplicates.
+**Now:** Bar 3 **Creates Gold** = ownable + transferrable + appreciating (absorbs old sellable asset and old Creates Gold). Bar 7 **C3PO** = AI does the core work (new). Bar 10 **Newton's Rule** = scale advantages only (mass → gravity), not asset appreciation.
 
 ### 4. Optional founder filter, not a universal bar
 
@@ -44,7 +44,7 @@ Low price. No Brainer already covers price friction. Paint, Event, and Harvest c
 
 ## Overlap watchlist
 
-- Bar 3 (sellable asset) vs bar 7 (Creates Gold) vs bar 10 (Newton's Rule)
+- ~~Bar 3 (sellable asset) vs bar 7 (Creates Gold) vs bar 10 (Newton's Rule)~~ — **resolved 2026-09-29:** bar 3 Creates Gold (ownable+appreciating), bar 7 C3PO (AI-core), bar 10 Newton's Rule (scale gravity only)
 - Bar 8 (natural route) vs commonality #9 (built-in distribution) and #15 (named buyer with reachable path)
 - Bar 9 (easy value) vs commonality #4 (self-serve) and #5 (deletes a bottleneck)
 - Bar 6 (No Brainer) vs commonality #2 (low-friction entry pricing)
