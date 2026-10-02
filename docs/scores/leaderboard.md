@@ -1,6 +1,6 @@
 # Perfect Product — current assessment results
 
-Updated: 2026-09-30 · Manus WC1/WC1.1 refresh · Source snapshot: `6ea8ec21ad60716e11667c353b796f957265147a`
+Assessment data: 2026-09-30 · Manus WC1/WC1.1 refresh · Seven-review assessment snapshot: [`4cbdc4551ad2e9f289f691c189c65cc7f7cc9562`](https://github.com/ZedBiz44/perfect-product/tree/4cbdc4551ad2e9f289f691c189c65cc7f7cc9562/docs/scores) · Reference labels checked by Cody: 2026-10-02
 
 [Scores ledger](README.md) · [Download comparison CSV](latest-comparison.csv) · [All bar scores](latest-bars.csv) · [Disagreements CSV](disagreements.csv) · [Scoring guide](https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4)
 
@@ -234,6 +234,8 @@ Only bars with more than one current reviewer score are listed. U means unknown;
 | 41 | 5 | 2 | 2 | 1 | 2 | 2 | 2 | 2 |
 
 ## Qualifications to keep visible
+
+- Mary’s numbering reference and working-concept reference are now distinguished in her records. Her exact originally accessed working-concept commit remains unrecorded; preserve that uncertainty in any reconciliation.
 
 - Agreement relies on the same proposed buyer, price, delivery and channel assumptions. Multiple assessments do not equal customer tests.
 - Bar 4 below 2 flags a founder-dependence concern. A 2 on that bar alone does not establish that every founder constraint holds; read the complete sheet.

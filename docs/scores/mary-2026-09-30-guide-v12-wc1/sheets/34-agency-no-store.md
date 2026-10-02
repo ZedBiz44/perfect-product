@@ -7,7 +7,8 @@
 - Rubric v1.1: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product-rubric.md
 - Definition: https://github.com/ZedBiz44/perfect-product/blob/8be7c589928ef681577baaa765a90583d824f128/docs/framework/perfect-product.md
 - Scoring guide (v1.2): https://app.notion.com/p/3eba3e33d58181d19eabc5d62f6401f4
-- Catalog source: catalog v2 @ bce3647216bbb101be6ffb4127d8f69e1c61f585
+- Catalog numbering reference: v2 @ bce3647216bbb101be6ffb4127d8f69e1c61f585 (numbering migration only).
+- Working-concept reference verified by Cody, 2026-10-02: [WC1 / WC1.1 catalog snapshot](https://github.com/ZedBiz44/perfect-product/tree/6ea8ec21ad60716e11667c353b796f957265147a/docs/products). This snapshot contains the declared working concepts. Mary’s exact originally accessed working-concept commit was not recorded; this correction does not certify it or alter her assumptions, scores, reasons or confidence.
 
 ## Offer snapshot
 - Buyer/payer: Agencies needing a client-facing distribution point (illustrative: an agency delivering client assets).
